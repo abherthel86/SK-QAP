@@ -1,0 +1,7 @@
+   A  Z  E  R  T  Y  U  I  O  P
+   Q  S  D  F  G  H  J  K  L  M
+  *  *  W  X  C  V  B  N  '  *
+  *  *  *  _  _  _  _  _  *  *
+
+Prel cost: 13521423565
+Cost of Qwerty: 20441803151

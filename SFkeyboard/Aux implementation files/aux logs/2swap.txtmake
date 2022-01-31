@@ -1,0 +1,49 @@
+
+Seed: 1517935706
+
+Initial Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  A  N  G  U  P  O  *  *  *  *  *
+  *  *  *  D  X  -  R  Q  F  *  *  *  *  *
+  *  *  *  S  '  E  _  M  W  *  *  *  *  *
+  *  *  *  I  V  Z  J  K  L  *  *  *  *  *
+  *  *  *  T  H  C  B  Y  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Initial Solution Cost: 1506227953
+Custo calculado final (2pswap): 1455885136
+pause
+Custo calculado final (2pswap): 1407710804
+pause
+Custo calculado final (2pswap): 1363538914
+pause
+Custo calculado final (2pswap): 1330614419
+pause
+
+
+RVND Stats: Swap Count: 0 Time: 0s - Swap Pair Count: 4 Time: 0s - Move Contour Count: 0 Time: 0s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+Elapsed Time: 0 seconds
+
+CPU Time: 0 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  -  N  G  U  P  Q  *  *  *  *  *
+  *  *  *  D  X  A  R  O  F  *  *  *  *  *
+  *  *  *  S  '  E  _  M  W  *  *  *  *  *
+  *  *  *  I  V  T  H  K  L  *  *  *  *  *
+  *  *  *  Z  J  C  B  Y  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1330614419

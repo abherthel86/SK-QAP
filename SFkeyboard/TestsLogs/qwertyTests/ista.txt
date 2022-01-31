@@ -1,0 +1,12 @@
+
+Seed: 1517951272
+Initial Solution Cost: 1516659419
+
+
+RVND Stats: Swap Count: 12 Time: 0s - Swap Pair Count: 11 Time: 0.004s - Move Contour Count: 9 Time: 0.008s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1207701422
+Global Time: 0.012000
+-----x-----

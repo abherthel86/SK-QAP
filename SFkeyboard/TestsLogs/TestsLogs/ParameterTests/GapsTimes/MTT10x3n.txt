@@ -1,0 +1,25 @@
+
+English_Rand_1.txt 0.290246
+English_Rand_2.txt 2.04434
+English_Rand_3.txt 0.633423
+English_Rand_4.txt 0.482088
+English_Rand_5.txt 0.577415
+English.txt 1.40756
+French_Rand_1.txt 9.67971
+French_Rand_2.txt 14.458
+French_Rand_3.txt 9.24258
+French_Rand_4.txt 11.1081
+French_Rand_5.txt 11.521
+French.txt 21.9432
+Italian_Rand_1.txt 2.72665
+Italian_Rand_2.txt 2.5704
+Italian_Rand_3.txt 2.65662
+Italian_Rand_4.txt 4.73657
+Italian_Rand_5.txt 5.66958
+Italian.txt 3.14115
+Spanish_Rand_1.txt 1.798
+Spanish_Rand_2.txt 4.01688
+Spanish_Rand_3.txt 2.40091
+Spanish_Rand_4.txt 1.82645
+Spanish_Rand_5.txt 2.30458
+Spanish.txt 5.75706

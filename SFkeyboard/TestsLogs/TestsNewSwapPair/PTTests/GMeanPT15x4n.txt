@@ -1,0 +1,7 @@
+
+Portuguese_Rand_1.txt - Gap Mean: 0
+Portuguese_Rand_2.txt - Gap Mean: 4.17902e-05
+Portuguese_Rand_3.txt - Gap Mean: 7.38617e-05
+Portuguese_Rand_4.txt - Gap Mean: 0
+Portuguese_Rand_5.txt - Gap Mean: 5.97081e-05
+Portuguese.txt - Gap Mean: 1.2326e-05

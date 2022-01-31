@@ -1,0 +1,5 @@
+English.txt 0.164054%%
+French.txt 0.290713%%
+Italian.txt 0.190816%%
+Spanish.txt 0.130854%%
+

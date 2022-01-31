@@ -1,0 +1,26 @@
+English_Rand_1.txt T1: 0.125562 T3: 0.159414 Increase: 26.9604 %% - T2: 0.152393 T3: 0.159414 Increase: 4.60717 %%
+English_Rand_2.txt T1: 0.127248 T3: 0.118871 Decrease: 7.04714 %% - T2: 0.157149 T3: 0.118871 Decrease: 32.2013 %%
+English_Rand_3.txt T1: 0.138225 T3: 0.148507 Increase: 7.4386 %% - T2: 0.146808 T3: 0.148507 Increase: 1.15729 %%
+English_Rand_4.txt T1: 0.117521 T3: 0.128888 Increase: 9.67231 %% - T2: 0.151854 T3: 0.128888 Decrease: 17.8186 %%
+English_Rand_5.txt T1: 0.138119 T3: 0.209777 Increase: 51.8813 %% - T2: 0.169101 T3: 0.209777 Increase: 24.0543 %%
+English.txt T1: 0.255384 T3: 0.200535 Decrease: 27.3513 %% - T2: 0.23877 T3: 0.200535 Decrease: 19.0665 %%
+French_Rand_1.txt T1: 0.959999 T3: 0.754431 Decrease: 27.2481 %% - T2: 0.738029 T3: 0.754431 Increase: 2.22241 %%
+French_Rand_2.txt T1: 0.916949 T3: 0.847444 Decrease: 8.20172 %% - T2: 0.794842 T3: 0.847444 Increase: 6.61792 %%
+French_Rand_3.txt T1: 0.973436 T3: 0.855337 Decrease: 13.8073 %% - T2: 1.14878 T3: 0.855337 Decrease: 34.3073 %%
+French_Rand_4.txt T1: 0.751147 T3: 0.88743 Increase: 18.1433 %% - T2: 1.02167 T3: 0.88743 Decrease: 15.1268 %%
+French_Rand_5.txt T1: 0.996087 T3: 0.986358 Decrease: 0.986356 %% - T2: 0.856869 T3: 0.986358 Increase: 15.1119 %%
+French.txt T1: 2.06331 T3: 1.43339 Decrease: 43.9462 %% - T2: 1.8475 T3: 1.43339 Decrease: 28.8903 %%
+Italian_Rand_1.txt T1: 0.488425 T3: 0.46904 Decrease: 4.13291 %% - T2: 0.445271 T3: 0.46904 Increase: 5.3381 %%
+Italian_Rand_2.txt T1: 0.477529 T3: 0.576034 Increase: 20.6281 %% - T2: 0.522787 T3: 0.576034 Increase: 10.1852 %%
+Italian_Rand_3.txt T1: 0.483545 T3: 0.505345 Increase: 4.50837 %% - T2: 0.507551 T3: 0.505345 Decrease: 0.436533 %%
+Italian_Rand_4.txt T1: 0.501236 T3: 0.559894 Increase: 11.7027 %% - T2: 0.603534 T3: 0.559894 Decrease: 7.79433 %%
+Italian_Rand_5.txt T1: 0.415066 T3: 0.476701 Increase: 14.8494 %% - T2: 0.486776 T3: 0.476701 Decrease: 2.11348 %%
+Italian.txt T1: 0.438601 T3: 0.523749 Increase: 19.4135 %% - T2: 0.495806 T3: 0.523749 Increase: 5.63587 %%
+Spanish_Rand_1.txt T1: 0.319437 T3: 0.31239 Decrease: 2.25583 %% - T2: 0.288223 T3: 0.31239 Increase: 8.38483 %%
+Spanish_Rand_2.txt T1: 0.347601 T3: 0.384466 Increase: 10.6056 %% - T2: 0.279048 T3: 0.384466 Increase: 37.7777 %%
+Spanish_Rand_3.txt T1: 0.333566 T3: 0.401516 Increase: 20.3708 %% - T2: 0.360609 T3: 0.401516 Increase: 11.3439 %%
+Spanish_Rand_4.txt T1: 0.353563 T3: 0.368801 Increase: 4.30984 %% - T2: 0.339889 T3: 0.368801 Increase: 8.50631 %%
+Spanish_Rand_5.txt T1: 0.300362 T3: 0.370832 Increase: 23.4617 %% - T2: 0.311365 T3: 0.370832 Increase: 19.0988 %%
+Spanish.txt T1: 0.558431 T3: 0.538471 Decrease: 3.70679 %% - T2: 0.585879 T3: 0.538471 Decrease: 8.80419 %%
+Spanish.txt T1: 0.558431 T3: 0.538471 Decrease: 3.70679 %% - T2: 0.585879 T3: 0.538471 Decrease: 8.80419 %%
+

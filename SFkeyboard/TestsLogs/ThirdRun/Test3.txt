@@ -1,0 +1,2640 @@
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 232 Time: 0.017435s - Swap Pair Count: 80 Time: 0.109739s - Move Contour Count: 115 Time: 0.02457s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.153356
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 150 Time: 0.012278s - Swap Pair Count: 64 Time: 0.070159s - Move Contour Count: 85 Time: 0.012406s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.097727
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 361 Time: 0.036462s - Swap Pair Count: 122 Time: 0.149588s - Move Contour Count: 188 Time: 0.033535s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.222602
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 289 Time: 0.021851s - Swap Pair Count: 123 Time: 0.143993s - Move Contour Count: 168 Time: 0.032214s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.199441
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 205 Time: 0.01859s - Swap Pair Count: 73 Time: 0.087243s - Move Contour Count: 107 Time: 0.018735s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.124568
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 211 Time: 0.009449s - Swap Pair Count: 72 Time: 0.108364s - Move Contour Count: 105 Time: 0.006048s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.123861
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 148 Time: 0.015403s - Swap Pair Count: 53 Time: 0.060532s - Move Contour Count: 73 Time: 0.019343s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.095278
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 205 Time: 0.015086s - Swap Pair Count: 61 Time: 0.079608s - Move Contour Count: 104 Time: 0.019124s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 649243584
+Global Time: 0.115495
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 131 Time: 0.010178s - Swap Pair Count: 59 Time: 0.069464s - Move Contour Count: 69 Time: 0.013208s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 661607638
+Global Time: 0.093767
+-----x-----
+
+Solving:  English_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 406 Time: 0.03037s - Swap Pair Count: 151 Time: 0.187617s - Move Contour Count: 234 Time: 0.041852s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 647405083
+Global Time: 0.261583
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 265 Time: 0.020561s - Swap Pair Count: 119 Time: 0.13076s - Move Contour Count: 166 Time: 0.029531s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655664577
+Global Time: 0.182845
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 174 Time: 0.012731s - Swap Pair Count: 73 Time: 0.084838s - Move Contour Count: 102 Time: 0.017317s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 657277367
+Global Time: 0.115847
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 262 Time: 0.020192s - Swap Pair Count: 116 Time: 0.110676s - Move Contour Count: 162 Time: 0.038109s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 657650262
+Global Time: 0.168977
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 195 Time: 0.014873s - Swap Pair Count: 70 Time: 0.090434s - Move Contour Count: 106 Time: 0.020499s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655780206
+Global Time: 0.126909
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 351 Time: 0.01533s - Swap Pair Count: 134 Time: 0.167636s - Move Contour Count: 171 Time: 0.036961s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655780206
+Global Time: 0.22599
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 342 Time: 0.026826s - Swap Pair Count: 123 Time: 0.156137s - Move Contour Count: 191 Time: 0.03671s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655714815
+Global Time: 0.221865
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 120 Time: 0.010481s - Swap Pair Count: 45 Time: 0.063725s - Move Contour Count: 73 Time: 0.014877s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655701495
+Global Time: 0.090632
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 434 Time: 0.032192s - Swap Pair Count: 186 Time: 0.197549s - Move Contour Count: 236 Time: 0.042167s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655872786
+Global Time: 0.273625
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 123 Time: 0.009463s - Swap Pair Count: 53 Time: 0.059018s - Move Contour Count: 74 Time: 0.013926s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 657420389
+Global Time: 0.083268
+-----x-----
+
+Solving:  English_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 195 Time: 0.011972s - Swap Pair Count: 81 Time: 0.104319s - Move Contour Count: 109 Time: 0.012013s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 657496240
+Global Time: 0.128304
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 306 Time: 0.018407s - Swap Pair Count: 120 Time: 0.146861s - Move Contour Count: 173 Time: 0.031729s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652514886
+Global Time: 0.200132
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 144 Time: 0.01051s - Swap Pair Count: 54 Time: 0.066435s - Move Contour Count: 82 Time: 0.014226s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 658357833
+Global Time: 0.092674
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 169 Time: 0.012159s - Swap Pair Count: 67 Time: 0.072194s - Move Contour Count: 72 Time: 0.014333s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 653941271
+Global Time: 0.099583
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 228 Time: 0.020928s - Swap Pair Count: 69 Time: 0.113799s - Move Contour Count: 137 Time: 0.012048s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652514886
+Global Time: 0.146775
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 181 Time: 0.010299s - Swap Pair Count: 79 Time: 0.09424s - Move Contour Count: 91 Time: 0.017261s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652514886
+Global Time: 0.1218
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 234 Time: 0.00654s - Swap Pair Count: 76 Time: 0.117446s - Move Contour Count: 115 Time: 0.012927s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652892942
+Global Time: 0.139775
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 146 Time: 0.010517s - Swap Pair Count: 55 Time: 0.061254s - Move Contour Count: 72 Time: 0.013242s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652514886
+Global Time: 0.085862
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 300 Time: 0.022354s - Swap Pair Count: 98 Time: 0.13311s - Move Contour Count: 166 Time: 0.030379s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655079530
+Global Time: 0.187194
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 260 Time: 0.010262s - Swap Pair Count: 112 Time: 0.14257s - Move Contour Count: 146 Time: 0.024235s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 652514886
+Global Time: 0.177067
+-----x-----
+
+Solving:  English_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 221 Time: 0.016433s - Swap Pair Count: 76 Time: 0.092926s - Move Contour Count: 132 Time: 0.023444s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 658838781
+Global Time: 0.133896
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 228 Time: 0.017951s - Swap Pair Count: 86 Time: 0.10582s - Move Contour Count: 126 Time: 0.022785s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 656764071
+Global Time: 0.147799
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 145 Time: 0.002984s - Swap Pair Count: 60 Time: 0.079447s - Move Contour Count: 88 Time: 0.015157s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 656764071
+Global Time: 0.097588
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 281 Time: 0.020822s - Swap Pair Count: 125 Time: 0.135161s - Move Contour Count: 147 Time: 0.024851s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 659160413
+Global Time: 0.182094
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 140 Time: 0.009037s - Swap Pair Count: 50 Time: 0.064497s - Move Contour Count: 92 Time: 0.018222s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 661759846
+Global Time: 0.091756
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 196 Time: 0.014321s - Swap Pair Count: 75 Time: 0.087253s - Move Contour Count: 109 Time: 0.019054s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 658863547
+Global Time: 0.12165
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 154 Time: 0.011312s - Swap Pair Count: 63 Time: 0.070686s - Move Contour Count: 75 Time: 0.014919s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 668019599
+Global Time: 0.097844
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 157 Time: 0.017686s - Swap Pair Count: 68 Time: 0.067729s - Move Contour Count: 85 Time: 0.014211s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 656764071
+Global Time: 0.103135
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 238 Time: 0.002372s - Swap Pair Count: 82 Time: 0.123418s - Move Contour Count: 127 Time: 0.019187s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 656764071
+Global Time: 0.147783
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 260 Time: 0.019292s - Swap Pair Count: 90 Time: 0.111233s - Move Contour Count: 133 Time: 0.0251s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 659160413
+Global Time: 0.156823
+-----x-----
+
+Solving:  English_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 209 Time: 0.015266s - Swap Pair Count: 76 Time: 0.091353s - Move Contour Count: 112 Time: 0.019159s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 660857949
+Global Time: 0.126781
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 151 Time: 0.011465s - Swap Pair Count: 51 Time: 0.066226s - Move Contour Count: 87 Time: 0.013918s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654950845
+Global Time: 0.092495
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 235 Time: 0.017427s - Swap Pair Count: 90 Time: 0.104447s - Move Contour Count: 140 Time: 0.025983s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654557377
+Global Time: 0.149045
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 400 Time: 0.014978s - Swap Pair Count: 148 Time: 0.212381s - Move Contour Count: 208 Time: 0.019762s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654557377
+Global Time: 0.250379
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 186 Time: 0.014642s - Swap Pair Count: 82 Time: 0.095639s - Move Contour Count: 85 Time: 0.019712s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654863079
+Global Time: 0.131692
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 338 Time: 0.024953s - Swap Pair Count: 115 Time: 0.145204s - Move Contour Count: 213 Time: 0.035697s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 656872378
+Global Time: 0.207284
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 186 Time: 0.012183s - Swap Pair Count: 65 Time: 0.08191s - Move Contour Count: 88 Time: 0.021294s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654557377
+Global Time: 0.115387
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 232 Time: 0.016884s - Swap Pair Count: 88 Time: 0.106844s - Move Contour Count: 111 Time: 0.018757s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655842555
+Global Time: 0.143596
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 275 Time: 0.037659s - Swap Pair Count: 106 Time: 0.138518s - Move Contour Count: 138 Time: 0.008782s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655254584
+Global Time: 0.184959
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 232 Time: 0.017928s - Swap Pair Count: 85 Time: 0.103141s - Move Contour Count: 135 Time: 0.024458s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 655254584
+Global Time: 0.147343
+-----x-----
+
+Solving:  English_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 192 Time: 0.02516s - Swap Pair Count: 74 Time: 0.087362s - Move Contour Count: 94 Time: 0.014336s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 654557377
+Global Time: 0.126858
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 200 Time: 0.012075s - Swap Pair Count: 67 Time: 0.136445s - Move Contour Count: 121 Time: 0.017212s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199129439
+Global Time: 0.171137
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 202 Time: 0.021519s - Swap Pair Count: 93 Time: 0.132355s - Move Contour Count: 126 Time: 0.026884s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1201286233
+Global Time: 0.183663
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 495 Time: 0.050693s - Swap Pair Count: 203 Time: 0.293772s - Move Contour Count: 311 Time: 0.068078s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199129439
+Global Time: 0.415485
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 253 Time: 0.02216s - Swap Pair Count: 108 Time: 0.157045s - Move Contour Count: 133 Time: 0.030621s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199070166
+Global Time: 0.211155
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 231 Time: 0.012232s - Swap Pair Count: 98 Time: 0.164752s - Move Contour Count: 147 Time: 0.030812s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199922584
+Global Time: 0.207796
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 422 Time: 0.027712s - Swap Pair Count: 153 Time: 0.243352s - Move Contour Count: 219 Time: 0.048443s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199129439
+Global Time: 0.320107
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 255 Time: 0.037133s - Swap Pair Count: 87 Time: 0.142216s - Move Contour Count: 160 Time: 0.027954s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1200851379
+Global Time: 0.210464
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 307 Time: 0.026387s - Swap Pair Count: 123 Time: 0.183317s - Move Contour Count: 198 Time: 0.039728s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1200459084
+Global Time: 0.250899
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 337 Time: 0.030778s - Swap Pair Count: 121 Time: 0.205752s - Move Contour Count: 163 Time: 0.027853s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1199567506
+Global Time: 0.264383
+-----x-----
+
+Solving:  English.txt :
+
+
+RVND Stats: Swap Count: 249 Time: 0.0153s - Swap Pair Count: 108 Time: 0.154281s - Move Contour Count: 146 Time: 0.024881s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1200851379
+Global Time: 0.19513
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 1054 Time: 0.198747s - Swap Pair Count: 418 Time: 1.80679s - Move Contour Count: 548 Time: 0.252509s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623056072
+Global Time: 2.26418
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 611 Time: 0.115146s - Swap Pair Count: 284 Time: 1.20512s - Move Contour Count: 318 Time: 0.148231s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 621658167
+Global Time: 1.47232
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 280 Time: 0.053269s - Swap Pair Count: 130 Time: 0.51716s - Move Contour Count: 140 Time: 0.058633s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 621683487
+Global Time: 0.632776
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 802 Time: 0.149388s - Swap Pair Count: 386 Time: 1.50526s - Move Contour Count: 373 Time: 0.151461s
+Perturbation 1 Count: 12 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624997926
+Global Time: 1.80754
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 246 Time: 0.044825s - Swap Pair Count: 128 Time: 0.477102s - Move Contour Count: 134 Time: 0.060197s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624841626
+Global Time: 0.583575
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 281 Time: 0.039177s - Swap Pair Count: 107 Time: 0.507998s - Move Contour Count: 140 Time: 0.061035s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 626126058
+Global Time: 0.610186
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 535 Time: 0.197754s - Swap Pair Count: 226 Time: 0.786762s - Move Contour Count: 280 Time: 0.210065s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623093847
+Global Time: 1.21518
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 457 Time: 0.085581s - Swap Pair Count: 212 Time: 0.791475s - Move Contour Count: 231 Time: 0.088828s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625322076
+Global Time: 0.97008
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 281 Time: 0.053641s - Swap Pair Count: 139 Time: 0.557758s - Move Contour Count: 156 Time: 0.064401s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622906320
+Global Time: 0.679175
+-----x-----
+
+Solving:  French_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 506 Time: 0.097702s - Swap Pair Count: 192 Time: 0.898683s - Move Contour Count: 279 Time: 0.12128s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 626464597
+Global Time: 1.12049
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 257 Time: 0.083058s - Swap Pair Count: 97 Time: 0.349596s - Move Contour Count: 146 Time: 0.129271s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 628480996
+Global Time: 0.565545
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 443 Time: 0.083485s - Swap Pair Count: 182 Time: 0.76967s - Move Contour Count: 207 Time: 0.091295s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625766333
+Global Time: 0.94698
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 490 Time: 0.019022s - Swap Pair Count: 186 Time: 0.943368s - Move Contour Count: 248 Time: 0.030995s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625435162
+Global Time: 0.993385
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 517 Time: 0.151063s - Swap Pair Count: 217 Time: 0.704377s - Move Contour Count: 242 Time: 0.260494s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624857029
+Global Time: 1.11965
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 413 Time: 0.135617s - Swap Pair Count: 155 Time: 0.566834s - Move Contour Count: 198 Time: 0.128079s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 628485035
+Global Time: 0.834285
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 491 Time: 0.04969s - Swap Pair Count: 231 Time: 0.995559s - Move Contour Count: 243 Time: 0.055558s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624953634
+Global Time: 1.10086
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 283 Time: 0.0526s - Swap Pair Count: 125 Time: 0.500566s - Move Contour Count: 144 Time: 0.062552s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 629325332
+Global Time: 0.617709
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 266 Time: 0.027347s - Swap Pair Count: 132 Time: 0.503528s - Move Contour Count: 155 Time: 0.073335s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 627357171
+Global Time: 0.60421
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 317 Time: 0.108215s - Swap Pair Count: 115 Time: 0.409512s - Move Contour Count: 158 Time: 0.108985s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625781398
+Global Time: 0.635363
+-----x-----
+
+Solving:  French_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 700 Time: 0.136102s - Swap Pair Count: 285 Time: 1.20334s - Move Contour Count: 344 Time: 0.16723s
+Perturbation 1 Count: 14 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 627495377
+Global Time: 1.51003
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 341 Time: 0.061687s - Swap Pair Count: 149 Time: 0.618019s - Move Contour Count: 163 Time: 0.074571s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623110523
+Global Time: 0.756538
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 385 Time: 0.070759s - Swap Pair Count: 155 Time: 0.639474s - Move Contour Count: 171 Time: 0.074971s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623320852
+Global Time: 0.787437
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 592 Time: 0.112325s - Swap Pair Count: 222 Time: 1.01979s - Move Contour Count: 282 Time: 0.122199s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623332143
+Global Time: 1.25727
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 327 Time: 0.06259s - Swap Pair Count: 158 Time: 0.6028s - Move Contour Count: 170 Time: 0.072062s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623587628
+Global Time: 0.74139
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 236 Time: 0.006589s - Swap Pair Count: 108 Time: 0.523317s - Move Contour Count: 109 Time: 0.008208s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 626867806
+Global Time: 0.541424
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 227 Time: 0.042392s - Swap Pair Count: 105 Time: 0.415086s - Move Contour Count: 114 Time: 0.050876s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623543029
+Global Time: 0.51195
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 202 Time: 0.038705s - Swap Pair Count: 103 Time: 0.391866s - Move Contour Count: 118 Time: 0.047859s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625096143
+Global Time: 0.480295
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 640 Time: 0.121278s - Swap Pair Count: 286 Time: 1.16164s - Move Contour Count: 303 Time: 0.149243s
+Perturbation 1 Count: 14 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622564093
+Global Time: 1.43538
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 740 Time: 0.138467s - Swap Pair Count: 330 Time: 1.31015s - Move Contour Count: 390 Time: 0.172445s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623266900
+Global Time: 1.62453
+-----x-----
+
+Solving:  French_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 317 Time: 0.061219s - Swap Pair Count: 146 Time: 0.561491s - Move Contour Count: 166 Time: 0.068168s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624253662
+Global Time: 0.693116
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 233 Time: 0.044285s - Swap Pair Count: 110 Time: 0.473494s - Move Contour Count: 119 Time: 0.052099s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625393222
+Global Time: 0.571783
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 397 Time: 0.024111s - Swap Pair Count: 198 Time: 0.845896s - Move Contour Count: 199 Time: 0.018335s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 628300371
+Global Time: 0.892005
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 448 Time: 0.084993s - Swap Pair Count: 210 Time: 0.812089s - Move Contour Count: 234 Time: 0.097609s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 627157535
+Global Time: 0.998953
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 375 Time: 0.040438s - Swap Pair Count: 160 Time: 0.675189s - Move Contour Count: 177 Time: 0.082654s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 626735003
+Global Time: 0.798637
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 425 Time: 0.078227s - Swap Pair Count: 172 Time: 0.739042s - Move Contour Count: 237 Time: 0.096788s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622829558
+Global Time: 0.9155
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 560 Time: 0.105809s - Swap Pair Count: 213 Time: 1.00696s - Move Contour Count: 314 Time: 0.13957s
+Perturbation 1 Count: 14 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622836130
+Global Time: 1.25698
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 219 Time: 0.041488s - Swap Pair Count: 92 Time: 0.41185s - Move Contour Count: 93 Time: 0.041673s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625213438
+Global Time: 0.496869
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 215 Time: 0.040307s - Swap Pair Count: 79 Time: 0.396244s - Move Contour Count: 103 Time: 0.048077s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 627286761
+Global Time: 0.486538
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 276 Time: 0.050572s - Swap Pair Count: 156 Time: 0.548296s - Move Contour Count: 135 Time: 0.053829s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 628238062
+Global Time: 0.652697
+-----x-----
+
+Solving:  French_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 273 Time: 0.052598s - Swap Pair Count: 108 Time: 0.461995s - Move Contour Count: 135 Time: 0.056895s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 625918360
+Global Time: 0.5733
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 400 Time: 0.081256s - Swap Pair Count: 168 Time: 0.715021s - Move Contour Count: 191 Time: 0.066851s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623929369
+Global Time: 0.867614
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 366 Time: 0.068389s - Swap Pair Count: 162 Time: 0.652003s - Move Contour Count: 177 Time: 0.080034s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622360287
+Global Time: 0.801022
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 622 Time: 0.115757s - Swap Pair Count: 299 Time: 1.12107s - Move Contour Count: 276 Time: 0.116938s
+Perturbation 1 Count: 12 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623558285
+Global Time: 1.35802
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 662 Time: 0.125077s - Swap Pair Count: 273 Time: 1.16431s - Move Contour Count: 300 Time: 0.133347s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623217945
+Global Time: 1.42759
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 370 Time: 0.070585s - Swap Pair Count: 162 Time: 0.675539s - Move Contour Count: 201 Time: 0.093091s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622468350
+Global Time: 0.841607
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 449 Time: 0.084859s - Swap Pair Count: 215 Time: 0.849831s - Move Contour Count: 216 Time: 0.091407s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 624149714
+Global Time: 1.03034
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 915 Time: 0.173611s - Swap Pair Count: 363 Time: 1.60157s - Move Contour Count: 466 Time: 0.204798s
+Perturbation 1 Count: 15 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 622435057
+Global Time: 1.98491
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 732 Time: 0.222298s - Swap Pair Count: 308 Time: 1.12281s - Move Contour Count: 330 Time: 0.270899s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623216271
+Global Time: 1.62711
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 732 Time: 0.138237s - Swap Pair Count: 308 Time: 1.31174s - Move Contour Count: 330 Time: 0.138373s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 623216271
+Global Time: 1.59161
+-----x-----
+
+Solving:  French_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 541 Time: 0.102379s - Swap Pair Count: 218 Time: 0.953218s - Move Contour Count: 281 Time: 0.13221s
+Perturbation 1 Count: 14 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 621839427
+Global Time: 1.19239
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 1152 Time: 0.250052s - Swap Pair Count: 571 Time: 2.52445s - Move Contour Count: 445 Time: 0.240567s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13530989827
+Global Time: 3.01912
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 473 Time: 0.105348s - Swap Pair Count: 223 Time: 1.08662s - Move Contour Count: 221 Time: 0.129056s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13567311926
+Global Time: 1.32377
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 412 Time: 0.091645s - Swap Pair Count: 181 Time: 0.924948s - Move Contour Count: 205 Time: 0.123366s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13642302668
+Global Time: 1.14258
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 1438 Time: 0.01021s - Swap Pair Count: 635 Time: 3.87481s - Move Contour Count: 613 Time: 0.005264s
+Perturbation 1 Count: 13 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13500969019
+Global Time: 3.89421
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 442 Time: 0.099084s - Swap Pair Count: 185 Time: 1.00898s - Move Contour Count: 216 Time: 0.128447s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13500969019
+Global Time: 1.23922
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 351 Time: 0.079832s - Swap Pair Count: 155 Time: 0.824685s - Move Contour Count: 137 Time: 0.077157s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13549842426
+Global Time: 0.984118
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 611 Time: 0s - Swap Pair Count: 267 Time: 1.69022s - Move Contour Count: 278 Time: 0s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13569117748
+Global Time: 1.69413
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 707 Time: 0.161358s - Swap Pair Count: 315 Time: 1.60949s - Move Contour Count: 330 Time: 0.182208s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13508832522
+Global Time: 1.95736
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 371 Time: 0.081454s - Swap Pair Count: 175 Time: 0.813233s - Move Contour Count: 184 Time: 0.094337s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13631259561
+Global Time: 0.99362
+-----x-----
+
+Solving:  French.txt :
+
+
+RVND Stats: Swap Count: 615 Time: 0.137072s - Swap Pair Count: 277 Time: 1.37372s - Move Contour Count: 288 Time: 0.164202s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 13558227817
+Global Time: 1.67813
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 485 Time: 0.068331s - Swap Pair Count: 216 Time: 0.592786s - Move Contour Count: 234 Time: 0.08252s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626963740
+Global Time: 0.746305
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 550 Time: 0.078879s - Swap Pair Count: 192 Time: 0.602547s - Move Contour Count: 262 Time: 0.093926s
+Perturbation 1 Count: 11 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630142167
+Global Time: 0.779071
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 255 Time: 0.036792s - Swap Pair Count: 109 Time: 0.316529s - Move Contour Count: 135 Time: 0.049486s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627996921
+Global Time: 0.405678
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 466 Time: 0.022494s - Swap Pair Count: 241 Time: 0.720043s - Move Contour Count: 255 Time: 0.032624s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626963740
+Global Time: 0.780888
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 239 Time: 0.031289s - Swap Pair Count: 120 Time: 0.29336s - Move Contour Count: 105 Time: 0.036438s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630149466
+Global Time: 0.362249
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 284 Time: 0.040114s - Swap Pair Count: 109 Time: 0.325885s - Move Contour Count: 112 Time: 0.039871s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2628901709
+Global Time: 0.408727
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 468 Time: 0.067321s - Swap Pair Count: 191 Time: 0.558744s - Move Contour Count: 247 Time: 0.081144s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626963740
+Global Time: 0.709617
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 201 Time: 0.02724s - Swap Pair Count: 91 Time: 0.227552s - Move Contour Count: 86 Time: 0.032116s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630142167
+Global Time: 0.287108
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 442 Time: 0.056048s - Swap Pair Count: 181 Time: 0.4994s - Move Contour Count: 153 Time: 0.052127s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2629002200
+Global Time: 0.609074
+-----x-----
+
+Solving:  Italian_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 512 Time: 0.037488s - Swap Pair Count: 207 Time: 0.645651s - Move Contour Count: 243 Time: 0.067915s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627150982
+Global Time: 0.751054
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 263 Time: 0.034373s - Swap Pair Count: 126 Time: 0.309751s - Move Contour Count: 103 Time: 0.027234s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2672644899
+Global Time: 0.37136
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 288 Time: 0.03756s - Swap Pair Count: 105 Time: 0.316734s - Move Contour Count: 120 Time: 0.047384s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632639438
+Global Time: 0.401716
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 410 Time: 0.058048s - Swap Pair Count: 181 Time: 0.487564s - Move Contour Count: 218 Time: 0.077011s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632639438
+Global Time: 0.624828
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 445 Time: 0.062843s - Swap Pair Count: 176 Time: 0.518947s - Move Contour Count: 235 Time: 0.077453s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2635371356
+Global Time: 0.661179
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 487 Time: 0.068415s - Swap Pair Count: 197 Time: 0.565306s - Move Contour Count: 234 Time: 0.086567s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2634357255
+Global Time: 0.721381
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 250 Time: 0.018387s - Swap Pair Count: 99 Time: 0.28518s - Move Contour Count: 106 Time: 0.055554s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2637239718
+Global Time: 0.359121
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 264 Time: 0.007142s - Swap Pair Count: 130 Time: 0.416979s - Move Contour Count: 146 Time: 0.003634s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2641190229
+Global Time: 0.428587
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 363 Time: 0.020054s - Swap Pair Count: 147 Time: 0.500863s - Move Contour Count: 185 Time: 0.022531s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2639256623
+Global Time: 0.546738
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 491 Time: 0.068847s - Swap Pair Count: 204 Time: 0.590224s - Move Contour Count: 262 Time: 0.082674s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2639034798
+Global Time: 0.741777
+-----x-----
+
+Solving:  Italian_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 299 Time: 0.04103s - Swap Pair Count: 143 Time: 0.347823s - Move Contour Count: 142 Time: 0.045409s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2638180924
+Global Time: 0.435905
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 468 Time: 0.097876s - Swap Pair Count: 198 Time: 0.504169s - Move Contour Count: 232 Time: 0.098705s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2623684801
+Global Time: 0.704735
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 435 Time: 0.060031s - Swap Pair Count: 184 Time: 0.503168s - Move Contour Count: 201 Time: 0.06591s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2628936692
+Global Time: 0.631162
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 265 Time: 0.03029s - Swap Pair Count: 119 Time: 0.325194s - Move Contour Count: 116 Time: 0.039088s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2623188323
+Global Time: 0.398284
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 463 Time: 0.052571s - Swap Pair Count: 197 Time: 0.584834s - Move Contour Count: 234 Time: 0.056532s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2623137727
+Global Time: 0.693937
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 277 Time: 0.056277s - Swap Pair Count: 117 Time: 0.305264s - Move Contour Count: 136 Time: 0.042546s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627825733
+Global Time: 0.404087
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 200 Time: 0.017513s - Swap Pair Count: 84 Time: 0.243352s - Move Contour Count: 114 Time: 0.010075s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627825733
+Global Time: 0.276677
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 386 Time: 0.060738s - Swap Pair Count: 151 Time: 0.411002s - Move Contour Count: 178 Time: 0.061082s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626292072
+Global Time: 0.532829
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 315 Time: 0.043419s - Swap Pair Count: 131 Time: 0.365396s - Move Contour Count: 160 Time: 0.054601s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626418674
+Global Time: 0.465202
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 184 Time: 0.026702s - Swap Pair Count: 87 Time: 0.240521s - Move Contour Count: 100 Time: 0.031083s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2673930016
+Global Time: 0.299742
+-----x-----
+
+Solving:  Italian_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 332 Time: 0.014654s - Swap Pair Count: 167 Time: 0.512542s - Move Contour Count: 180 Time: 0.00979s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2629684322
+Global Time: 0.540229
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 512 Time: 0.022304s - Swap Pair Count: 203 Time: 0.734806s - Move Contour Count: 267 Time: 0.042567s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2631874718
+Global Time: 0.80313
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 335 Time: 0.04745s - Swap Pair Count: 133 Time: 0.411013s - Move Contour Count: 184 Time: 0.063758s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2638379305
+Global Time: 0.524118
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 461 Time: 0.063875s - Swap Pair Count: 200 Time: 0.535471s - Move Contour Count: 144 Time: 0.053228s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630995922
+Global Time: 0.655784
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 275 Time: 0.00563s - Swap Pair Count: 123 Time: 0.423597s - Move Contour Count: 145 Time: 0.009029s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632390568
+Global Time: 0.438256
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 315 Time: 0.044069s - Swap Pair Count: 128 Time: 0.358862s - Move Contour Count: 165 Time: 0.057679s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632205858
+Global Time: 0.463587
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 266 Time: 0.038849s - Swap Pair Count: 149 Time: 0.362884s - Move Contour Count: 126 Time: 0.039265s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632162854
+Global Time: 0.442157
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 217 Time: 0.03091s - Swap Pair Count: 96 Time: 0.272995s - Move Contour Count: 121 Time: 0.04254s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2631965552
+Global Time: 0.348748
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 287 Time: 0.046347s - Swap Pair Count: 125 Time: 0.327613s - Move Contour Count: 172 Time: 0.050645s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2631010253
+Global Time: 0.428118
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 431 Time: 0.059813s - Swap Pair Count: 161 Time: 0.484145s - Move Contour Count: 210 Time: 0.072012s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2632982144
+Global Time: 0.618073
+-----x-----
+
+Solving:  Italian_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 276 Time: 0.034168s - Swap Pair Count: 132 Time: 0.330191s - Move Contour Count: 123 Time: 0.068919s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2639694088
+Global Time: 0.433278
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 301 Time: 0.038663s - Swap Pair Count: 122 Time: 0.376663s - Move Contour Count: 157 Time: 0.038933s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2628330692
+Global Time: 0.458072
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 463 Time: 0.053859s - Swap Pair Count: 210 Time: 0.599388s - Move Contour Count: 282 Time: 0.081889s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627904059
+Global Time: 0.735136
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 318 Time: 0.043967s - Swap Pair Count: 144 Time: 0.387001s - Move Contour Count: 179 Time: 0.06071s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626060706
+Global Time: 0.492769
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 182 Time: 0.025443s - Swap Pair Count: 88 Time: 0.227725s - Move Contour Count: 79 Time: 0.027618s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2658237383
+Global Time: 0.282123
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 306 Time: 0.023032s - Swap Pair Count: 133 Time: 0.373789s - Move Contour Count: 171 Time: 0.052126s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630641807
+Global Time: 0.450639
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 222 Time: 0.01705s - Swap Pair Count: 84 Time: 0.25927s - Move Contour Count: 132 Time: 0.037434s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2649932009
+Global Time: 0.317168
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 409 Time: 0.057489s - Swap Pair Count: 175 Time: 0.505324s - Move Contour Count: 230 Time: 0.075731s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626114191
+Global Time: 0.640678
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 289 Time: 0.040656s - Swap Pair Count: 117 Time: 0.353823s - Move Contour Count: 156 Time: 0.052787s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2630015585
+Global Time: 0.449652
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 216 Time: 0.030225s - Swap Pair Count: 84 Time: 0.254225s - Move Contour Count: 133 Time: 0.040492s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2626060706
+Global Time: 0.327299
+-----x-----
+
+Solving:  Italian_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 524 Time: 0.07378s - Swap Pair Count: 206 Time: 0.630809s - Move Contour Count: 274 Time: 0.10009s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 2627904059
+Global Time: 0.807178
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 371 Time: 0.049671s - Swap Pair Count: 155 Time: 0.46103s - Move Contour Count: 169 Time: 0.066789s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4031647448
+Global Time: 0.579884
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 604 Time: 0.059424s - Swap Pair Count: 265 Time: 0.689626s - Move Contour Count: 310 Time: 0.163956s
+Perturbation 1 Count: 12 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4025832209
+Global Time: 0.913006
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 203 Time: 0.026622s - Swap Pair Count: 61 Time: 0.180887s - Move Contour Count: 69 Time: 0.040213s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4058465161
+Global Time: 0.251003
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 257 Time: 0.034829s - Swap Pair Count: 94 Time: 0.300488s - Move Contour Count: 117 Time: 0.038384s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4031647448
+Global Time: 0.375208
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 257 Time: 0.032732s - Swap Pair Count: 94 Time: 0.328485s - Move Contour Count: 117 Time: 0.014786s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4031647448
+Global Time: 0.376003
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 531 Time: 0.022209s - Swap Pair Count: 218 Time: 0.765216s - Move Contour Count: 256 Time: 0.027518s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4032111951
+Global Time: 0.818215
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 307 Time: 0.042723s - Swap Pair Count: 113 Time: 0.365268s - Move Contour Count: 137 Time: 0.053228s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4041475187
+Global Time: 0.463015
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 225 Time: 0.023661s - Swap Pair Count: 106 Time: 0.278438s - Move Contour Count: 119 Time: 0.040722s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4026648943
+Global Time: 0.342821
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 684 Time: 0.029736s - Swap Pair Count: 276 Time: 0.914703s - Move Contour Count: 313 Time: 0.04998s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4025754990
+Global Time: 1.00011
+-----x-----
+
+Solving:  Italian.txt :
+
+
+RVND Stats: Swap Count: 251 Time: 0.039565s - Swap Pair Count: 115 Time: 0.283116s - Move Contour Count: 142 Time: 0.067093s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 4041886783
+Global Time: 0.393026
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 385 Time: 0.046164s - Swap Pair Count: 183 Time: 0.364381s - Move Contour Count: 196 Time: 0.05601s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823879454
+Global Time: 0.468631
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 296 Time: 0.036885s - Swap Pair Count: 127 Time: 0.258148s - Move Contour Count: 156 Time: 0.05028s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824757481
+Global Time: 0.349047
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 392 Time: 0.008328s - Swap Pair Count: 157 Time: 0.408924s - Move Contour Count: 197 Time: 0.016233s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823360277
+Global Time: 0.433485
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 179 Time: 0.02141s - Swap Pair Count: 71 Time: 0.158428s - Move Contour Count: 92 Time: 0.026982s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823795906
+Global Time: 0.208108
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 293 Time: 0.028697s - Swap Pair Count: 116 Time: 0.26976s - Move Contour Count: 158 Time: 0.045234s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824437741
+Global Time: 0.343691
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 494 Time: 0.059319s - Swap Pair Count: 218 Time: 0.437934s - Move Contour Count: 282 Time: 0.080059s
+Perturbation 1 Count: 10 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824198856
+Global Time: 0.579575
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 388 Time: 0.047131s - Swap Pair Count: 135 Time: 0.33221s - Move Contour Count: 211 Time: 0.062805s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823360277
+Global Time: 0.444172
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 447 Time: 0.077317s - Swap Pair Count: 205 Time: 0.42276s - Move Contour Count: 261 Time: 0.056058s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823879454
+Global Time: 0.55933
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 361 Time: 0.04816s - Swap Pair Count: 127 Time: 0.289357s - Move Contour Count: 184 Time: 0.063445s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824757481
+Global Time: 0.40422
+-----x-----
+
+Solving:  Spanish_Rand_1.txt :
+
+
+RVND Stats: Swap Count: 361 Time: 0.043524s - Swap Pair Count: 127 Time: 0.300317s - Move Contour Count: 184 Time: 0.055746s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824757481
+Global Time: 0.401438
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 424 Time: 0.050994s - Swap Pair Count: 191 Time: 0.403207s - Move Contour Count: 263 Time: 0.073007s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 828553636
+Global Time: 0.529555
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 341 Time: 0.040792s - Swap Pair Count: 135 Time: 0.298623s - Move Contour Count: 181 Time: 0.050988s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827009368
+Global Time: 0.392162
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 442 Time: 0.052811s - Swap Pair Count: 189 Time: 0.388714s - Move Contour Count: 220 Time: 0.068393s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827923521
+Global Time: 0.512022
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 262 Time: 0.030468s - Swap Pair Count: 103 Time: 0.223543s - Move Contour Count: 109 Time: 0.0353s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827779068
+Global Time: 0.290781
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 249 Time: 0.030028s - Swap Pair Count: 92 Time: 0.207871s - Move Contour Count: 107 Time: 0.036718s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827959377
+Global Time: 0.27577
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 182 Time: 0.021455s - Swap Pair Count: 104 Time: 0.193439s - Move Contour Count: 96 Time: 0.030552s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 826559542
+Global Time: 0.246762
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 189 Time: 0.016267s - Swap Pair Count: 74 Time: 0.197998s - Move Contour Count: 85 Time: 0.006538s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827174119
+Global Time: 0.220803
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 145 Time: 0.017484s - Swap Pair Count: 68 Time: 0.142002s - Move Contour Count: 65 Time: 0.007019s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 826583321
+Global Time: 0.166505
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 384 Time: 0.045936s - Swap Pair Count: 119 Time: 0.29633s - Move Contour Count: 196 Time: 0.058627s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 827293898
+Global Time: 0.402815
+-----x-----
+
+Solving:  Spanish_Rand_2.txt :
+
+
+RVND Stats: Swap Count: 234 Time: 0.025359s - Swap Pair Count: 93 Time: 0.195948s - Move Contour Count: 105 Time: 0.032366s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 826559542
+Global Time: 0.253933
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 197 Time: 0.003458s - Swap Pair Count: 80 Time: 0.199648s - Move Contour Count: 127 Time: 0.035297s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823265416
+Global Time: 0.238403
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 350 Time: 0.042224s - Swap Pair Count: 152 Time: 0.336484s - Move Contour Count: 197 Time: 0.059543s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823619267
+Global Time: 0.440134
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 340 Time: 0.040795s - Swap Pair Count: 163 Time: 0.33217s - Move Contour Count: 201 Time: 0.050906s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823142898
+Global Time: 0.425703
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 210 Time: 0.017231s - Swap Pair Count: 105 Time: 0.221453s - Move Contour Count: 117 Time: 0.023911s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823867636
+Global Time: 0.263201
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 310 Time: 0.037752s - Swap Pair Count: 136 Time: 0.294693s - Move Contour Count: 182 Time: 0.049138s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 822666809
+Global Time: 0.383346
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 232 Time: 0.027748s - Swap Pair Count: 100 Time: 0.212761s - Move Contour Count: 120 Time: 0.035319s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823265416
+Global Time: 0.277287
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 245 Time: 0.029247s - Swap Pair Count: 97 Time: 0.20164s - Move Contour Count: 119 Time: 0.037211s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 825933530
+Global Time: 0.269569
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 340 Time: 0.040652s - Swap Pair Count: 163 Time: 0.329951s - Move Contour Count: 201 Time: 0.051079s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823142898
+Global Time: 0.422867
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 261 Time: 0.035136s - Swap Pair Count: 123 Time: 0.224795s - Move Contour Count: 128 Time: 0.052873s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 823619267
+Global Time: 0.316023
+-----x-----
+
+Solving:  Spanish_Rand_3.txt :
+
+
+RVND Stats: Swap Count: 187 Time: 0.00609s - Swap Pair Count: 84 Time: 0.234572s - Move Contour Count: 102 Time: 0.004875s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 822666809
+Global Time: 0.245537
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 411 Time: 0.03688s - Swap Pair Count: 159 Time: 0.417642s - Move Contour Count: 214 Time: 0.032935s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 829636060
+Global Time: 0.487457
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 336 Time: 0.048772s - Swap Pair Count: 170 Time: 0.349744s - Move Contour Count: 236 Time: 0.063936s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 828720885
+Global Time: 0.462452
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 210 Time: 0.024512s - Swap Pair Count: 92 Time: 0.178407s - Move Contour Count: 102 Time: 0.030955s
+Perturbation 1 Count: 1 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 830638421
+Global Time: 0.235262
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 200 Time: 0.024942s - Swap Pair Count: 80 Time: 0.186026s - Move Contour Count: 102 Time: 0.030776s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 828773026
+Global Time: 0.244164
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 196 Time: 0.023803s - Swap Pair Count: 92 Time: 0.185659s - Move Contour Count: 131 Time: 0.03532s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 830707848
+Global Time: 0.246208
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 199 Time: 0.016075s - Swap Pair Count: 96 Time: 0.200805s - Move Contour Count: 146 Time: 0.037686s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 829368134
+Global Time: 0.255179
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 325 Time: 0.038731s - Swap Pair Count: 141 Time: 0.306123s - Move Contour Count: 154 Time: 0.044338s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 831146649
+Global Time: 0.390922
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 205 Time: 0.029214s - Swap Pair Count: 106 Time: 0.190272s - Move Contour Count: 134 Time: 0.029837s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 828829873
+Global Time: 0.254888
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 158 Time: 0.019482s - Swap Pair Count: 69 Time: 0.148769s - Move Contour Count: 91 Time: 0.024469s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 828768021
+Global Time: 0.193983
+-----x-----
+
+Solving:  Spanish_Rand_4.txt :
+
+
+RVND Stats: Swap Count: 297 Time: 0.036277s - Swap Pair Count: 131 Time: 0.281595s - Move Contour Count: 170 Time: 0.047502s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 831066150
+Global Time: 0.367032
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 400 Time: 0.048464s - Swap Pair Count: 161 Time: 0.347481s - Move Contour Count: 226 Time: 0.064901s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 825844582
+Global Time: 0.463951
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 217 Time: 0.027554s - Swap Pair Count: 93 Time: 0.182791s - Move Contour Count: 93 Time: 0.04115s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824672158
+Global Time: 0.255566
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 666 Time: 0.079702s - Swap Pair Count: 272 Time: 0.602331s - Move Contour Count: 378 Time: 0.10317s
+Perturbation 1 Count: 12 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824672158
+Global Time: 0.789017
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 299 Time: 0.03531s - Swap Pair Count: 144 Time: 0.273685s - Move Contour Count: 166 Time: 0.046545s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 825956439
+Global Time: 0.358225
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 410 Time: 0.049492s - Swap Pair Count: 171 Time: 0.371563s - Move Contour Count: 231 Time: 0.066899s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824672158
+Global Time: 0.490011
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 279 Time: 0.032895s - Swap Pair Count: 120 Time: 0.257004s - Move Contour Count: 137 Time: 0.036955s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 826298675
+Global Time: 0.328468
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 499 Time: 0.059389s - Swap Pair Count: 200 Time: 0.4431s - Move Contour Count: 266 Time: 0.07828s
+Perturbation 1 Count: 9 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824937361
+Global Time: 0.583038
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 589 Time: 0.07056s - Swap Pair Count: 250 Time: 0.517536s - Move Contour Count: 304 Time: 0.086329s
+Perturbation 1 Count: 8 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824746522
+Global Time: 0.676947
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 266 Time: 0.032197s - Swap Pair Count: 113 Time: 0.239013s - Move Contour Count: 141 Time: 0.03771s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 825866636
+Global Time: 0.310605
+-----x-----
+
+Solving:  Spanish_Rand_5.txt :
+
+
+RVND Stats: Swap Count: 402 Time: 0.034779s - Swap Pair Count: 165 Time: 0.377226s - Move Contour Count: 220 Time: 0.055833s
+Perturbation 1 Count: 7 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 824822149
+Global Time: 0.471264
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 441 Time: 0.034103s - Swap Pair Count: 156 Time: 0.576571s - Move Contour Count: 199 Time: 0.023244s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1230591898
+Global Time: 0.634376
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 255 Time: 0.010284s - Swap Pair Count: 121 Time: 0.399078s - Move Contour Count: 148 Time: 0.017899s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1231057118
+Global Time: 0.430648
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 438 Time: 0.060073s - Swap Pair Count: 178 Time: 0.542209s - Move Contour Count: 231 Time: 0.071243s
+Perturbation 1 Count: 6 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1229707334
+Global Time: 0.675719
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 418 Time: 0.060048s - Swap Pair Count: 140 Time: 0.458892s - Move Contour Count: 189 Time: 0.06382s
+Perturbation 1 Count: 5 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1229798281
+Global Time: 0.584952
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 275 Time: 0.038026s - Swap Pair Count: 139 Time: 0.364439s - Move Contour Count: 152 Time: 0.05187s
+Perturbation 1 Count: 4 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1230560470
+Global Time: 0.457307
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 205 Time: 0.02843s - Swap Pair Count: 64 Time: 0.210602s - Move Contour Count: 109 Time: 0.038314s
+Perturbation 1 Count: 0 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1229931407
+Global Time: 0.279331
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 257 Time: 0.027252s - Swap Pair Count: 87 Time: 0.288761s - Move Contour Count: 149 Time: 0.049181s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1230465617
+Global Time: 0.366426
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 315 Time: 0.044108s - Swap Pair Count: 123 Time: 0.372025s - Move Contour Count: 163 Time: 0.060916s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1231369271
+Global Time: 0.479667
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 314 Time: 0.038964s - Swap Pair Count: 130 Time: 0.406956s - Move Contour Count: 197 Time: 0.068019s
+Perturbation 1 Count: 3 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1229785477
+Global Time: 0.515106
+-----x-----
+
+Solving:  Spanish.txt :
+
+
+RVND Stats: Swap Count: 217 Time: 0.030593s - Swap Pair Count: 104 Time: 0.275388s - Move Contour Count: 105 Time: 0.038499s
+Perturbation 1 Count: 2 Perturbation 2 Count: 0
+
+-----x-----
+Best Global Solution Cost: 1229956139
+Global Time: 0.346051
+-----x-----
+

@@ -1,0 +1,6905 @@
+ENPT_Rand
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194739570
+
+Elapsed Time: 9.04071 seconds
+
+
+
+Best Solution Cost: 158194735820
+
+Elapsed Time: 5.94566 seconds
+
+
+
+Best Solution Cost: 158194748420
+
+Elapsed Time: 6.57627 seconds
+
+
+
+Best Solution Cost: 158194745520
+
+Elapsed Time: 5.84772 seconds
+
+
+
+Best Solution Cost: 158194737795
+
+Elapsed Time: 9.68971 seconds
+
+
+
+Best Solution Cost: 158198497006
+
+Elapsed Time: 7.38976 seconds
+
+
+
+Best Solution Cost: 158194742045
+
+Elapsed Time: 8.94134 seconds
+
+
+
+Best Solution Cost: 158198494681
+
+Elapsed Time: 3.30706 seconds
+
+
+
+Best Solution Cost: 158214059556
+
+Elapsed Time: 4.76934 seconds
+
+
+
+Best Solution Cost: 158194739670
+
+Elapsed Time: 5.29631 seconds
+
+
+
+Best Solution Cost: 158194744220
+
+Elapsed Time: 4.72451 seconds
+
+
+
+Best Solution Cost: 158235246777
+
+Elapsed Time: 3.86671 seconds
+
+
+
+Best Solution Cost: 158295076398
+
+Elapsed Time: 4.3983 seconds
+
+
+
+Best Solution Cost: 158194735070
+
+Elapsed Time: 4.11338 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 10.874 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 5.51662 seconds
+
+
+
+Best Solution Cost: 158260741273
+
+Elapsed Time: 4.64862 seconds
+
+
+
+Best Solution Cost: 158381906929
+
+Elapsed Time: 4.34272 seconds
+
+
+
+Best Solution Cost: 158194736320
+
+Elapsed Time: 9.44896 seconds
+
+
+
+Best Solution Cost: 158194741920
+
+Elapsed Time: 9.61109 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  W  *  *  *  *  *  *  *  *  *
+  *  *  Õ  X  Z  Í  *  *  *  *  *  *  *  *
+  *  Ç  F  I  D  V  Ú  *  *  *  *  *  *  *
+  -  Ã  C  S  E  N  H  Ô  *  *  *  *  *  *
+  Ó  P  O  _  A  T  Ê  '  *  *  *  *  *  *
+  Â  À  M  R  L  U  J  *  *  *  *  *  *  *
+  *  K  É  B  G  Q  *  *  *  *  *  *  *  *
+  *  *  *  Y  Á  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194735070
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194746995
+
+Elapsed Time: 3.57026 seconds
+
+
+
+Best Solution Cost: 158198495131
+
+Elapsed Time: 7.89434 seconds
+
+
+
+Best Solution Cost: 158194747870
+
+Elapsed Time: 9.32328 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.12573 seconds
+
+
+
+Best Solution Cost: 158198876914
+
+Elapsed Time: 4.4207 seconds
+
+
+
+Best Solution Cost: 158194748420
+
+Elapsed Time: 5.45186 seconds
+
+
+
+Best Solution Cost: 158246375676
+
+Elapsed Time: 4.17521 seconds
+
+
+
+Best Solution Cost: 158447616916
+
+Elapsed Time: 3.63568 seconds
+
+
+
+Best Solution Cost: 158198495131
+
+Elapsed Time: 9.38969 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.80547 seconds
+
+
+
+Best Solution Cost: 158238116380
+
+Elapsed Time: 6.21531 seconds
+
+
+
+Best Solution Cost: 158194729620
+
+Elapsed Time: 6.37002 seconds
+
+
+
+Best Solution Cost: 158457068491
+
+Elapsed Time: 3.74175 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 4.98576 seconds
+
+
+
+Best Solution Cost: 158235571813
+
+Elapsed Time: 6.05616 seconds
+
+
+
+Best Solution Cost: 158273001382
+
+Elapsed Time: 7.33341 seconds
+
+
+
+Best Solution Cost: 158198506256
+
+Elapsed Time: 11.0079 seconds
+
+
+
+Best Solution Cost: 158246377376
+
+Elapsed Time: 8.55928 seconds
+
+
+
+Best Solution Cost: 158194747895
+
+Elapsed Time: 7.67175 seconds
+
+
+
+Best Solution Cost: 158194761195
+
+Elapsed Time: 5.78601 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  W  *  *  *  *  *  *  *  *  *
+  *  *  Õ  X  Z  Í  *  *  *  *  *  *  *  *
+  *  Ç  F  I  D  V  Ú  *  *  *  *  *  *  *
+  -  Ã  C  S  E  N  H  Ô  *  *  *  *  *  *
+  Ó  P  O  _  A  T  Ê  '  *  *  *  *  *  *
+  Â  À  M  R  L  U  J  *  *  *  *  *  *  *
+  *  K  É  B  G  Q  *  *  *  *  *  *  *  *
+  *  *  *  Y  Á  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194729620
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194743920
+
+Elapsed Time: 3.45144 seconds
+
+
+
+Best Solution Cost: 158194745895
+
+Elapsed Time: 7.44853 seconds
+
+
+
+Best Solution Cost: 158194746570
+
+Elapsed Time: 9.02301 seconds
+
+
+
+Best Solution Cost: 158197262254
+
+Elapsed Time: 9.45334 seconds
+
+
+
+Best Solution Cost: 158194739045
+
+Elapsed Time: 14.9773 seconds
+
+
+
+Best Solution Cost: 158194733345
+
+Elapsed Time: 4.84916 seconds
+
+
+
+Best Solution Cost: 158278397940
+
+Elapsed Time: 3.38772 seconds
+
+
+
+Best Solution Cost: 158197262729
+
+Elapsed Time: 4.75201 seconds
+
+
+
+Best Solution Cost: 158198483581
+
+Elapsed Time: 4.99568 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 6.59855 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 4.88669 seconds
+
+
+
+Best Solution Cost: 158198510181
+
+Elapsed Time: 4.08895 seconds
+
+
+
+Best Solution Cost: 158194749945
+
+Elapsed Time: 5.59725 seconds
+
+
+
+Best Solution Cost: 158214037106
+
+Elapsed Time: 4.11219 seconds
+
+
+
+Best Solution Cost: 158194742670
+
+Elapsed Time: 7.83282 seconds
+
+
+
+Best Solution Cost: 158246366476
+
+Elapsed Time: 4.67847 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.46112 seconds
+
+
+
+Best Solution Cost: 158198510181
+
+Elapsed Time: 9.38291 seconds
+
+
+
+Best Solution Cost: 158194746020
+
+Elapsed Time: 4.00519 seconds
+
+
+
+Best Solution Cost: 158198874564
+
+Elapsed Time: 5.94551 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  -  Ó  Â  *  *  *  *  *  *
+  *  *  *  *  Ç  Ã  P  À  K  *  *  *  *  *
+  *  *  *  Õ  F  C  O  M  É  *  *  *  *  *
+  *  *  *  X  I  S  _  R  B  Y  *  *  *  *
+  *  *  W  Z  D  E  A  L  G  Á  *  *  *  *
+  *  *  *  Í  V  N  T  U  Q  *  *  *  *  *
+  *  *  *  *  Ú  H  Ê  J  *  *  *  *  *  *
+  *  *  *  *  *  Ô  '  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194733345
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194742745
+
+Elapsed Time: 8.74928 seconds
+
+
+
+Best Solution Cost: 158194745420
+
+Elapsed Time: 5.48344 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.90438 seconds
+
+
+
+Best Solution Cost: 158198866964
+
+Elapsed Time: 4.03445 seconds
+
+
+
+Best Solution Cost: 158194723695
+
+Elapsed Time: 7.31297 seconds
+
+
+
+Best Solution Cost: 158261126798
+
+Elapsed Time: 5.02514 seconds
+
+
+
+Best Solution Cost: 158246373901
+
+Elapsed Time: 3.45387 seconds
+
+
+
+Best Solution Cost: 158246381901
+
+Elapsed Time: 7.94071 seconds
+
+
+
+Best Solution Cost: 158230200807
+
+Elapsed Time: 3.4718 seconds
+
+
+
+Best Solution Cost: 158198487456
+
+Elapsed Time: 4.12364 seconds
+
+
+
+Best Solution Cost: 158214055831
+
+Elapsed Time: 5.6331 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.63111 seconds
+
+
+
+Best Solution Cost: 158194747620
+
+Elapsed Time: 6.60768 seconds
+
+
+
+Best Solution Cost: 158230200807
+
+Elapsed Time: 4.34571 seconds
+
+
+
+Best Solution Cost: 158194740620
+
+Elapsed Time: 6.59765 seconds
+
+
+
+Best Solution Cost: 158198876914
+
+Elapsed Time: 10.4574 seconds
+
+
+
+Best Solution Cost: 158194731720
+
+Elapsed Time: 11.7194 seconds
+
+
+
+Best Solution Cost: 158243358847
+
+Elapsed Time: 5.01338 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 5.44683 seconds
+
+
+
+Best Solution Cost: 158194744020
+
+Elapsed Time: 6.28569 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  Ô  '  *  *  *  *  *  *  *  *
+  *  *  *  Ú  H  Ê  J  *  *  *  *  *  *  *
+  *  *  Í  V  N  T  U  Q  *  *  *  *  *  *
+  *  W  Z  D  E  A  L  G  Á  *  *  *  *  *
+  *  *  X  I  S  _  R  B  Y  *  *  *  *  *
+  *  *  Õ  F  C  O  M  É  *  *  *  *  *  *
+  *  *  *  Ç  Ã  P  À  K  *  *  *  *  *  *
+  *  *  *  *  -  Ó  Â  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194723695
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194736020
+
+Elapsed Time: 10.6012 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 3.40251 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 4.80513 seconds
+
+
+
+Best Solution Cost: 158194746020
+
+Elapsed Time: 6.83141 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 10.5117 seconds
+
+
+
+Best Solution Cost: 158267124803
+
+Elapsed Time: 6.45308 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 11.0308 seconds
+
+
+
+Best Solution Cost: 158214045531
+
+Elapsed Time: 9.25896 seconds
+
+
+
+Best Solution Cost: 158246375176
+
+Elapsed Time: 5.29222 seconds
+
+
+
+Best Solution Cost: 158194749745
+
+Elapsed Time: 3.98678 seconds
+
+
+
+Best Solution Cost: 158214807457
+
+Elapsed Time: 6.64255 seconds
+
+
+
+Best Solution Cost: 158194735795
+
+Elapsed Time: 6.33701 seconds
+
+
+
+Best Solution Cost: 158194746995
+
+Elapsed Time: 11.7476 seconds
+
+
+
+Best Solution Cost: 158198476381
+
+Elapsed Time: 3.87117 seconds
+
+
+
+Best Solution Cost: 158198503531
+
+Elapsed Time: 5.1129 seconds
+
+
+
+Best Solution Cost: 158194741770
+
+Elapsed Time: 6.81568 seconds
+
+
+
+Best Solution Cost: 158198507031
+
+Elapsed Time: 8.10858 seconds
+
+
+
+Best Solution Cost: 158214045706
+
+Elapsed Time: 4.28702 seconds
+
+
+
+Best Solution Cost: 158194730720
+
+Elapsed Time: 5.39903 seconds
+
+
+
+Best Solution Cost: 158198864464
+
+Elapsed Time: 5.85904 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  -  Ó  Â  *  *  *  *  *  *
+  *  *  *  *  Ç  Ã  P  À  K  *  *  *  *  *
+  *  *  *  Õ  F  C  O  M  É  *  *  *  *  *
+  *  *  *  X  I  S  _  R  B  Y  *  *  *  *
+  *  *  W  Z  D  E  A  L  G  Á  *  *  *  *
+  *  *  *  Í  V  N  T  U  Q  *  *  *  *  *
+  *  *  *  *  Ú  H  Ê  J  *  *  *  *  *  *
+  *  *  *  *  *  Ô  '  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194730720
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158265456015
+
+Elapsed Time: 3.52449 seconds
+
+
+
+Best Solution Cost: 158214055831
+
+Elapsed Time: 6.84872 seconds
+
+
+
+Best Solution Cost: 158194723295
+
+Elapsed Time: 5.57603 seconds
+
+
+
+Best Solution Cost: 158392177426
+
+Elapsed Time: 7.12242 seconds
+
+
+
+Best Solution Cost: 158194744520
+
+Elapsed Time: 7.60695 seconds
+
+
+
+Best Solution Cost: 158194745745
+
+Elapsed Time: 4.7383 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 5.15339 seconds
+
+
+
+Best Solution Cost: 158194733345
+
+Elapsed Time: 6.28453 seconds
+
+
+
+Best Solution Cost: 158447603641
+
+Elapsed Time: 6.3149 seconds
+
+
+
+Best Solution Cost: 158246371351
+
+Elapsed Time: 9.6437 seconds
+
+
+
+Best Solution Cost: 158214061856
+
+Elapsed Time: 3.82159 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 7.55546 seconds
+
+
+
+Best Solution Cost: 158413526668
+
+Elapsed Time: 6.28156 seconds
+
+
+
+Best Solution Cost: 158198485181
+
+Elapsed Time: 5.82221 seconds
+
+
+
+Best Solution Cost: 158273007832
+
+Elapsed Time: 6.92263 seconds
+
+
+
+Best Solution Cost: 158194723045
+
+Elapsed Time: 6.98566 seconds
+
+
+
+Best Solution Cost: 158273005707
+
+Elapsed Time: 4.99608 seconds
+
+
+
+Best Solution Cost: 158194738395
+
+Elapsed Time: 6.22978 seconds
+
+
+
+Best Solution Cost: 158194721720
+
+Elapsed Time: 11.201 seconds
+
+
+
+Best Solution Cost: 158194725220
+
+Elapsed Time: 10.5178 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  W  *  *  *  *  *
+  *  *  *  *  *  *  Õ  X  Z  Í  *  *  *  *
+  *  *  *  *  *  Ç  F  I  D  V  Ú  *  *  *
+  *  *  *  *  -  Ã  C  S  E  N  H  Ô  *  *
+  *  *  *  *  Ó  P  O  _  A  T  Ê  '  *  *
+  *  *  *  *  Â  À  M  R  L  U  J  *  *  *
+  *  *  *  *  *  K  É  B  G  Q  *  *  *  *
+  *  *  *  *  *  *  *  Y  Á  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194721720
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158250502470
+
+Elapsed Time: 4.2604 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 6.39658 seconds
+
+
+
+Best Solution Cost: 158235571813
+
+Elapsed Time: 6.26667 seconds
+
+
+
+Best Solution Cost: 158194743020
+
+Elapsed Time: 6.96099 seconds
+
+
+
+Best Solution Cost: 158198865764
+
+Elapsed Time: 13.5387 seconds
+
+
+
+Best Solution Cost: 158214040306
+
+Elapsed Time: 5.4777 seconds
+
+
+
+Best Solution Cost: 158194748145
+
+Elapsed Time: 4.12503 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 5.65334 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 7.86088 seconds
+
+
+
+Best Solution Cost: 158246377801
+
+Elapsed Time: 7.40149 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 8.53587 seconds
+
+
+
+Best Solution Cost: 158197264954
+
+Elapsed Time: 5.25968 seconds
+
+
+
+Best Solution Cost: 158194746470
+
+Elapsed Time: 4.73232 seconds
+
+
+
+Best Solution Cost: 158224810635
+
+Elapsed Time: 4.33818 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 6.95036 seconds
+
+
+
+Best Solution Cost: 158194746870
+
+Elapsed Time: 4.88151 seconds
+
+
+
+Best Solution Cost: 158198849539
+
+Elapsed Time: 4.23498 seconds
+
+
+
+Best Solution Cost: 158241527267
+
+Elapsed Time: 7.02694 seconds
+
+
+
+Best Solution Cost: 158273004857
+
+Elapsed Time: 4.64839 seconds
+
+
+
+Best Solution Cost: 158198508056
+
+Elapsed Time: 4.23168 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  Â  Ó  -  *  *  *  *  *  *  *  *  *
+  *  K  À  P  Ã  Ç  *  *  *  *  *  *  *  *
+  *  É  M  O  C  F  Õ  *  *  *  *  *  *  *
+  Y  B  R  _  S  I  X  *  *  *  *  *  *  *
+  Á  G  L  A  E  D  Z  W  *  *  *  *  *  *
+  *  Q  U  T  N  V  Í  *  *  *  *  *  *  *
+  *  *  J  Ê  H  Ú  *  *  *  *  *  *  *  *
+  *  *  *  '  Ô  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194743020
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158260740623
+
+Elapsed Time: 6.128 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 4.33664 seconds
+
+
+
+Best Solution Cost: 158273009457
+
+Elapsed Time: 3.39208 seconds
+
+
+
+Best Solution Cost: 158194734845
+
+Elapsed Time: 8.43496 seconds
+
+
+
+Best Solution Cost: 158194746195
+
+Elapsed Time: 9.77879 seconds
+
+
+
+Best Solution Cost: 158194741420
+
+Elapsed Time: 7.44646 seconds
+
+
+
+Best Solution Cost: 158198494681
+
+Elapsed Time: 6.66903 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 4.0032 seconds
+
+
+
+Best Solution Cost: 158194743895
+
+Elapsed Time: 7.9014 seconds
+
+
+
+Best Solution Cost: 158194735170
+
+Elapsed Time: 4.63052 seconds
+
+
+
+Best Solution Cost: 158246380951
+
+Elapsed Time: 4.98044 seconds
+
+
+
+Best Solution Cost: 158194734695
+
+Elapsed Time: 7.46247 seconds
+
+
+
+Best Solution Cost: 158226314029
+
+Elapsed Time: 6.60201 seconds
+
+
+
+Best Solution Cost: 158194747595
+
+Elapsed Time: 7.43245 seconds
+
+
+
+Best Solution Cost: 158198532156
+
+Elapsed Time: 5.00869 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 5.6104 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 4.83624 seconds
+
+
+
+Best Solution Cost: 158260523624
+
+Elapsed Time: 3.80703 seconds
+
+
+
+Best Solution Cost: 158194740895
+
+Elapsed Time: 7.07783 seconds
+
+
+
+Best Solution Cost: 158194742270
+
+Elapsed Time: 3.79479 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  '  Ô  *  *  *  *
+  *  *  *  *  *  *  *  J  Ê  H  Ú  *  *  *
+  *  *  *  *  *  *  Q  U  T  N  V  Í  *  *
+  *  *  *  *  *  Á  G  L  A  E  D  Z  W  *
+  *  *  *  *  *  Y  B  R  _  S  I  X  *  *
+  *  *  *  *  *  *  É  M  O  C  F  Õ  *  *
+  *  *  *  *  *  *  K  À  P  Ã  Ç  *  *  *
+  *  *  *  *  *  *  *  Â  Ó  -  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194734695
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194743220
+
+Elapsed Time: 6.8525 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 19.1222 seconds
+
+
+
+Best Solution Cost: 158194745595
+
+Elapsed Time: 3.60589 seconds
+
+
+
+Best Solution Cost: 158277890276
+
+Elapsed Time: 5.67784 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 4.72235 seconds
+
+
+
+Best Solution Cost: 158198503231
+
+Elapsed Time: 5.34585 seconds
+
+
+
+Best Solution Cost: 158194731720
+
+Elapsed Time: 9.21305 seconds
+
+
+
+Best Solution Cost: 158413538643
+
+Elapsed Time: 3.97721 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 4.92604 seconds
+
+
+
+Best Solution Cost: 158198858814
+
+Elapsed Time: 4.53997 seconds
+
+
+
+Best Solution Cost: 158194750120
+
+Elapsed Time: 7.34999 seconds
+
+
+
+Best Solution Cost: 158194743470
+
+Elapsed Time: 7.98988 seconds
+
+
+
+Best Solution Cost: 158276750044
+
+Elapsed Time: 8.47766 seconds
+
+
+
+Best Solution Cost: 158275705343
+
+Elapsed Time: 6.91821 seconds
+
+
+
+Best Solution Cost: 158198502081
+
+Elapsed Time: 6.33216 seconds
+
+
+
+Best Solution Cost: 158194740745
+
+Elapsed Time: 6.07715 seconds
+
+
+
+Best Solution Cost: 158194744420
+
+Elapsed Time: 7.91057 seconds
+
+
+
+Best Solution Cost: 158278395340
+
+Elapsed Time: 4.60456 seconds
+
+
+
+Best Solution Cost: 158411388844
+
+Elapsed Time: 3.31032 seconds
+
+
+
+Best Solution Cost: 158194746020
+
+Elapsed Time: 5.23291 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Á  Y  *  *  *  *
+  *  *  *  *  *  *  *  Q  G  B  É  K  *  *
+  *  *  *  *  *  *  J  U  L  R  M  À  Â  *
+  *  *  *  *  *  '  Ê  T  A  _  O  P  Ó  *
+  *  *  *  *  *  Ô  H  N  E  S  C  Ã  -  *
+  *  *  *  *  *  *  Ú  V  D  I  F  Ç  *  *
+  *  *  *  *  *  *  *  Í  Z  X  Õ  *  *  *
+  *  *  *  *  *  *  *  *  W  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194731720
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+
+Best Solution Cost: 158194744420
+
+Elapsed Time: 6.18069 seconds
+
+
+
+Best Solution Cost: 158194747645
+
+Elapsed Time: 9.62833 seconds
+
+
+
+Best Solution Cost: 158250504595
+
+Elapsed Time: 6.12587 seconds
+
+
+
+Best Solution Cost: 158198497656
+
+Elapsed Time: 5.35831 seconds
+
+
+
+Best Solution Cost: 158194744120
+
+Elapsed Time: 6.04785 seconds
+
+
+
+Best Solution Cost: 158194743045
+
+Elapsed Time: 6.57016 seconds
+
+
+
+Best Solution Cost: 158271781594
+
+Elapsed Time: 3.21703 seconds
+
+
+
+Best Solution Cost: 158297330587
+
+Elapsed Time: 3.81424 seconds
+
+
+
+Best Solution Cost: 158194736020
+
+Elapsed Time: 6.61175 seconds
+
+
+
+Best Solution Cost: 158194731820
+
+Elapsed Time: 5.57429 seconds
+
+
+
+Best Solution Cost: 158246369726
+
+Elapsed Time: 6.7781 seconds
+
+
+
+Best Solution Cost: 158266644047
+
+Elapsed Time: 6.79301 seconds
+
+
+
+Best Solution Cost: 158198498306
+
+Elapsed Time: 4.93946 seconds
+
+
+
+Best Solution Cost: 158194727170
+
+Elapsed Time: 4.86004 seconds
+
+
+
+Best Solution Cost: 158198867564
+
+Elapsed Time: 3.43985 seconds
+
+
+
+Best Solution Cost: 158194738720
+
+Elapsed Time: 7.96649 seconds
+
+
+
+Best Solution Cost: 158238114530
+
+Elapsed Time: 7.11087 seconds
+
+
+
+Best Solution Cost: 158260733623
+
+Elapsed Time: 3.32735 seconds
+
+
+
+Best Solution Cost: 158198508056
+
+Elapsed Time: 9.66597 seconds
+
+
+
+Best Solution Cost: 158194728120
+
+Elapsed Time: 7.44558 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Ô  '  *  *  *  *  *  *  *
+  *  *  *  *  Ú  H  Ê  J  *  *  *  *  *  *
+  *  *  *  Í  V  N  T  U  Q  *  *  *  *  *
+  *  *  W  Z  D  E  A  L  G  Á  *  *  *  *
+  *  *  *  X  I  S  _  R  B  Y  *  *  *  *
+  *  *  *  Õ  F  C  O  M  É  *  *  *  *  *
+  *  *  *  *  Ç  Ã  P  À  K  *  *  *  *  *
+  *  *  *  *  *  -  Ó  Â  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 158194727170
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154790596181
+
+Elapsed Time: 3.52843 seconds
+
+
+
+Best Solution Cost: 154622838044
+
+Elapsed Time: 11.6013 seconds
+
+
+
+Best Solution Cost: 154755638671
+
+Elapsed Time: 4.28615 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 5.6578 seconds
+
+
+
+Best Solution Cost: 154693243829
+
+Elapsed Time: 3.67772 seconds
+
+
+
+Best Solution Cost: 154721444331
+
+Elapsed Time: 5.83253 seconds
+
+
+
+Best Solution Cost: 154670414656
+
+Elapsed Time: 7.16997 seconds
+
+
+
+Best Solution Cost: 154646881858
+
+Elapsed Time: 5.78957 seconds
+
+
+
+Best Solution Cost: 154741590217
+
+Elapsed Time: 8.43666 seconds
+
+
+
+Best Solution Cost: 154847621352
+
+Elapsed Time: 3.61559 seconds
+
+
+
+Best Solution Cost: 154689254240
+
+Elapsed Time: 5.55986 seconds
+
+
+
+Best Solution Cost: 154906235973
+
+Elapsed Time: 4.65912 seconds
+
+
+
+Best Solution Cost: 154649820286
+
+Elapsed Time: 6.78093 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 4.68115 seconds
+
+
+
+Best Solution Cost: 154776098200
+
+Elapsed Time: 6.56978 seconds
+
+
+
+Best Solution Cost: 154825365093
+
+Elapsed Time: 3.86663 seconds
+
+
+
+Best Solution Cost: 154602431158
+
+Elapsed Time: 10.2612 seconds
+
+
+
+Best Solution Cost: 154838483704
+
+Elapsed Time: 3.91699 seconds
+
+
+
+Best Solution Cost: 154825369849
+
+Elapsed Time: 6.73175 seconds
+
+
+
+Best Solution Cost: 154606437616
+
+Elapsed Time: 6.7768 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  Â  '  *  *  *  *  *
+  *  *  *  *  *  *  Ô  Ê  Z  À  *  *  *  *
+  *  *  *  *  *  Ó  G  N  I  V  Í  *  *  *
+  *  *  *  *  *  Q  U  T  S  C  F  *  *  *
+  *  *  *  *  K  X  M  E  _  O  Ã  J  *  *
+  *  *  *  *  *  Ú  P  R  A  D  Ç  *  *  *
+  *  *  *  *  *  É  Á  B  L  H  Õ  *  *  *
+  *  *  *  *  *  *  *  Y  -  W  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154761910497
+
+Elapsed Time: 4.79162 seconds
+
+
+
+Best Solution Cost: 154786332354
+
+Elapsed Time: 4.62601 seconds
+
+
+
+Best Solution Cost: 154626682216
+
+Elapsed Time: 7.48129 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 4.33609 seconds
+
+
+
+Best Solution Cost: 154629995635
+
+Elapsed Time: 3.67694 seconds
+
+
+
+Best Solution Cost: 154626449357
+
+Elapsed Time: 6.34277 seconds
+
+
+
+Best Solution Cost: 154632735015
+
+Elapsed Time: 3.1425 seconds
+
+
+
+Best Solution Cost: 154645995201
+
+Elapsed Time: 3.6463 seconds
+
+
+
+Best Solution Cost: 154674250530
+
+Elapsed Time: 4.67013 seconds
+
+
+
+Best Solution Cost: 154602471410
+
+Elapsed Time: 5.45258 seconds
+
+
+
+Best Solution Cost: 154599142867
+
+Elapsed Time: 3.6395 seconds
+
+
+
+Best Solution Cost: 154653571739
+
+Elapsed Time: 4.32158 seconds
+
+
+
+Best Solution Cost: 154827130179
+
+Elapsed Time: 4.66707 seconds
+
+
+
+Best Solution Cost: 154626682216
+
+Elapsed Time: 6.73784 seconds
+
+
+
+Best Solution Cost: 154599279485
+
+Elapsed Time: 7.32948 seconds
+
+
+
+Best Solution Cost: 154844389222
+
+Elapsed Time: 3.15512 seconds
+
+
+
+Best Solution Cost: 154813556728
+
+Elapsed Time: 4.03078 seconds
+
+
+
+Best Solution Cost: 154599146231
+
+Elapsed Time: 5.42592 seconds
+
+
+
+Best Solution Cost: 154680927098
+
+Elapsed Time: 5.73594 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.8421 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  Â  '  *  *  *  *  *  *  *  *  *
+  *  *  Ô  Ê  Z  À  *  *  *  *  *  *  *  *
+  *  Ó  G  N  I  V  Í  *  *  *  *  *  *  *
+  *  Q  U  T  S  C  F  *  *  *  *  *  *  *
+  K  X  M  E  _  O  Ã  J  *  *  *  *  *  *
+  *  Ú  P  R  A  D  Ç  *  *  *  *  *  *  *
+  *  É  Á  B  L  H  Õ  *  *  *  *  *  *  *
+  *  *  *  Y  -  W  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599142867
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154675609708
+
+Elapsed Time: 3.98204 seconds
+
+
+
+Best Solution Cost: 154630157560
+
+Elapsed Time: 3.80181 seconds
+
+
+
+Best Solution Cost: 154649826488
+
+Elapsed Time: 7.88446 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.74197 seconds
+
+
+
+Best Solution Cost: 154827135370
+
+Elapsed Time: 4.19986 seconds
+
+
+
+Best Solution Cost: 154825349491
+
+Elapsed Time: 4.01395 seconds
+
+
+
+Best Solution Cost: 154840172863
+
+Elapsed Time: 5.1881 seconds
+
+
+
+Best Solution Cost: 154740792425
+
+Elapsed Time: 7.20254 seconds
+
+
+
+Best Solution Cost: 154610705041
+
+Elapsed Time: 8.12628 seconds
+
+
+
+Best Solution Cost: 154713439850
+
+Elapsed Time: 6.21122 seconds
+
+
+
+Best Solution Cost: 154660852075
+
+Elapsed Time: 5.63115 seconds
+
+
+
+Best Solution Cost: 154840189625
+
+Elapsed Time: 6.3257 seconds
+
+
+
+Best Solution Cost: 154653544044
+
+Elapsed Time: 5.3794 seconds
+
+
+
+Best Solution Cost: 154776496573
+
+Elapsed Time: 4.57277 seconds
+
+
+
+Best Solution Cost: 154626682183
+
+Elapsed Time: 5.10007 seconds
+
+
+
+Best Solution Cost: 154604771959
+
+Elapsed Time: 7.20532 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 5.34629 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 9.54028 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 7.2764 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.04932 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  W  -  Y  *  *  *  *  *  *  *  *
+  *  *  Õ  H  L  B  Á  É  *  *  *  *  *  *
+  *  *  Ç  D  A  R  P  Ú  *  *  *  *  *  *
+  *  J  Ã  O  _  E  M  X  K  *  *  *  *  *
+  *  *  F  C  S  T  U  Q  *  *  *  *  *  *
+  *  *  Í  V  I  N  G  Ó  *  *  *  *  *  *
+  *  *  *  À  Z  Ê  Ô  *  *  *  *  *  *  *
+  *  *  *  *  '  Â  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154626686823
+
+Elapsed Time: 5.34387 seconds
+
+
+
+Best Solution Cost: 154827146535
+
+Elapsed Time: 3.7448 seconds
+
+
+
+Best Solution Cost: 154599143882
+
+Elapsed Time: 8.04645 seconds
+
+
+
+Best Solution Cost: 154673639266
+
+Elapsed Time: 5.74568 seconds
+
+
+
+Best Solution Cost: 154669919985
+
+Elapsed Time: 5.84191 seconds
+
+
+
+Best Solution Cost: 154626642254
+
+Elapsed Time: 3.72204 seconds
+
+
+
+Best Solution Cost: 154748337250
+
+Elapsed Time: 3.43498 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 7.00957 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 5.82853 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 9.46737 seconds
+
+
+
+Best Solution Cost: 154629063381
+
+Elapsed Time: 11.8494 seconds
+
+
+
+Best Solution Cost: 154606437616
+
+Elapsed Time: 7.27201 seconds
+
+
+
+Best Solution Cost: 154781973390
+
+Elapsed Time: 10.8481 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.68421 seconds
+
+
+
+Best Solution Cost: 154774003025
+
+Elapsed Time: 4.26854 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 9.13676 seconds
+
+
+
+Best Solution Cost: 154602431158
+
+Elapsed Time: 8.76348 seconds
+
+
+
+Best Solution Cost: 154829554155
+
+Elapsed Time: 4.43114 seconds
+
+
+
+Best Solution Cost: 154670414656
+
+Elapsed Time: 3.97288 seconds
+
+
+
+Best Solution Cost: 154606431004
+
+Elapsed Time: 9.0226 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  Â  '  *  *  *  *  *  *  *  *
+  *  *  *  Ô  Ê  Z  À  *  *  *  *  *  *  *
+  *  *  Ó  G  N  I  V  Í  *  *  *  *  *  *
+  *  *  Q  U  T  S  C  F  *  *  *  *  *  *
+  *  K  X  M  E  _  O  Ã  J  *  *  *  *  *
+  *  *  Ú  P  R  A  D  Ç  *  *  *  *  *  *
+  *  *  É  Á  B  L  H  Õ  *  *  *  *  *  *
+  *  *  *  *  Y  -  W  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599143882
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154698016376
+
+Elapsed Time: 8.38092 seconds
+
+
+
+Best Solution Cost: 154670322522
+
+Elapsed Time: 7.10945 seconds
+
+
+
+Best Solution Cost: 154774004620
+
+Elapsed Time: 3.71986 seconds
+
+
+
+Best Solution Cost: 154615699891
+
+Elapsed Time: 6.82313 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 8.57497 seconds
+
+
+
+Best Solution Cost: 154626688418
+
+Elapsed Time: 6.62938 seconds
+
+
+
+Best Solution Cost: 154606567419
+
+Elapsed Time: 4.23155 seconds
+
+
+
+Best Solution Cost: 154602431158
+
+Elapsed Time: 5.71858 seconds
+
+
+
+Best Solution Cost: 154771592902
+
+Elapsed Time: 6.81285 seconds
+
+
+
+Best Solution Cost: 154626682216
+
+Elapsed Time: 4.44195 seconds
+
+
+
+Best Solution Cost: 154808246714
+
+Elapsed Time: 3.87297 seconds
+
+
+
+Best Solution Cost: 154827138531
+
+Elapsed Time: 3.45932 seconds
+
+
+
+Best Solution Cost: 154825361642
+
+Elapsed Time: 4.24786 seconds
+
+
+
+Best Solution Cost: 154611640156
+
+Elapsed Time: 14.8329 seconds
+
+
+
+Best Solution Cost: 154626688418
+
+Elapsed Time: 4.38405 seconds
+
+
+
+Best Solution Cost: 154680924981
+
+Elapsed Time: 5.96332 seconds
+
+
+
+Best Solution Cost: 154653571739
+
+Elapsed Time: 3.17097 seconds
+
+
+
+Best Solution Cost: 154626675807
+
+Elapsed Time: 5.45752 seconds
+
+
+
+Best Solution Cost: 154599283574
+
+Elapsed Time: 6.42409 seconds
+
+
+
+Best Solution Cost: 154626688418
+
+Elapsed Time: 4.89022 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  J  *  *  *  *  *  *  *  *
+  *  *  *  Õ  Ç  Ã  F  Í  *  *  *  *  *  *
+  *  *  W  H  D  O  C  V  À  *  *  *  *  *
+  *  *  -  L  A  _  S  I  Z  '  *  *  *  *
+  *  *  Y  B  R  E  T  N  Ê  Â  *  *  *  *
+  *  *  *  Á  P  M  U  G  Ô  *  *  *  *  *
+  *  *  *  É  Ú  X  Q  Ó  *  *  *  *  *  *
+  *  *  *  *  *  K  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154606567419
+
+Elapsed Time: 5.36827 seconds
+
+
+
+Best Solution Cost: 154631404445
+
+Elapsed Time: 7.86491 seconds
+
+
+
+Best Solution Cost: 154640772125
+
+Elapsed Time: 5.77221 seconds
+
+
+
+Best Solution Cost: 154691454140
+
+Elapsed Time: 9.69177 seconds
+
+
+
+Best Solution Cost: 154599282936
+
+Elapsed Time: 3.65945 seconds
+
+
+
+Best Solution Cost: 154599142577
+
+Elapsed Time: 4.30686 seconds
+
+
+
+Best Solution Cost: 154842439051
+
+Elapsed Time: 3.65818 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 3.38409 seconds
+
+
+
+Best Solution Cost: 154827146535
+
+Elapsed Time: 4.22453 seconds
+
+
+
+Best Solution Cost: 154776504577
+
+Elapsed Time: 4.5521 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 4.42483 seconds
+
+
+
+Best Solution Cost: 154833021838
+
+Elapsed Time: 4.18601 seconds
+
+
+
+Best Solution Cost: 154599140315
+
+Elapsed Time: 8.5589 seconds
+
+
+
+Best Solution Cost: 154626467424
+
+Elapsed Time: 4.51395 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 4.93966 seconds
+
+
+
+Best Solution Cost: 154599143679
+
+Elapsed Time: 7.53224 seconds
+
+
+
+Best Solution Cost: 154827137168
+
+Elapsed Time: 3.90875 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 5.95783 seconds
+
+
+
+Best Solution Cost: 154825353812
+
+Elapsed Time: 4.37905 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 6.56335 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  J  *  *  *  *
+  *  *  *  *  *  *  *  Í  F  Ã  Ç  Õ  *  *
+  *  *  *  *  *  *  À  V  C  O  D  H  W  *
+  *  *  *  *  *  '  Z  I  S  _  A  L  -  *
+  *  *  *  *  *  Â  Ê  N  T  E  R  B  Y  *
+  *  *  *  *  *  *  Ô  G  U  M  P  Á  *  *
+  *  *  *  *  *  *  *  Ó  Q  X  Ú  É  *  *
+  *  *  *  *  *  *  *  *  *  K  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599140315
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154602431158
+
+Elapsed Time: 3.94906 seconds
+
+
+
+Best Solution Cost: 154845390564
+
+Elapsed Time: 4.68491 seconds
+
+
+
+Best Solution Cost: 154825347693
+
+Elapsed Time: 3.65377 seconds
+
+
+
+Best Solution Cost: 154606553122
+
+Elapsed Time: 6.27621 seconds
+
+
+
+Best Solution Cost: 154829268864
+
+Elapsed Time: 5.40794 seconds
+
+
+
+Best Solution Cost: 154629054188
+
+Elapsed Time: 5.32554 seconds
+
+
+
+Best Solution Cost: 154653571739
+
+Elapsed Time: 5.56074 seconds
+
+
+
+Best Solution Cost: 154671832336
+
+Elapsed Time: 6.72832 seconds
+
+
+
+Best Solution Cost: 154626466235
+
+Elapsed Time: 9.70318 seconds
+
+
+
+Best Solution Cost: 154599158266
+
+Elapsed Time: 3.98755 seconds
+
+
+
+Best Solution Cost: 154653552280
+
+Elapsed Time: 4.21519 seconds
+
+
+
+Best Solution Cost: 154599279485
+
+Elapsed Time: 8.93233 seconds
+
+
+
+Best Solution Cost: 154617262433
+
+Elapsed Time: 6.1288 seconds
+
+
+
+Best Solution Cost: 154626462871
+
+Elapsed Time: 5.82302 seconds
+
+
+
+Best Solution Cost: 154627609932
+
+Elapsed Time: 8.51578 seconds
+
+
+
+Best Solution Cost: 154628861769
+
+Elapsed Time: 10.7937 seconds
+
+
+
+Best Solution Cost: 154599153278
+
+Elapsed Time: 4.01541 seconds
+
+
+
+Best Solution Cost: 154626463828
+
+Elapsed Time: 8.56073 seconds
+
+
+
+Best Solution Cost: 154606430598
+
+Elapsed Time: 3.46476 seconds
+
+
+
+Best Solution Cost: 154599148087
+
+Elapsed Time: 6.4689 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  K  *  *  *  *  *  *  *
+  *  *  *  *  Ó  Q  X  Ú  É  *  *  *  *  *
+  *  *  *  Ô  G  U  M  P  Á  *  *  *  *  *
+  *  *  Â  Ê  N  T  E  R  B  Y  *  *  *  *
+  *  *  '  Z  I  S  _  A  L  -  *  *  *  *
+  *  *  *  À  V  C  O  D  H  W  *  *  *  *
+  *  *  *  *  Í  F  Ã  Ç  Õ  *  *  *  *  *
+  *  *  *  *  *  *  J  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599148087
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154669916070
+
+Elapsed Time: 5.38105 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 12.0209 seconds
+
+
+
+Best Solution Cost: 154670311212
+
+Elapsed Time: 9.61274 seconds
+
+
+
+Best Solution Cost: 154606437616
+
+Elapsed Time: 7.85304 seconds
+
+
+
+Best Solution Cost: 154748349082
+
+Elapsed Time: 4.18697 seconds
+
+
+
+Best Solution Cost: 154827138328
+
+Elapsed Time: 4.17213 seconds
+
+
+
+Best Solution Cost: 154604274335
+
+Elapsed Time: 6.94648 seconds
+
+
+
+Best Solution Cost: 154618928090
+
+Elapsed Time: 10.0417 seconds
+
+
+
+Best Solution Cost: 154669916070
+
+Elapsed Time: 4.53185 seconds
+
+
+
+Best Solution Cost: 154630148773
+
+Elapsed Time: 14.1672 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 5.19861 seconds
+
+
+
+Best Solution Cost: 154610705041
+
+Elapsed Time: 5.06857 seconds
+
+
+
+Best Solution Cost: 154611647261
+
+Elapsed Time: 5.64966 seconds
+
+
+
+Best Solution Cost: 154649811209
+
+Elapsed Time: 7.42806 seconds
+
+
+
+Best Solution Cost: 154602425619
+
+Elapsed Time: 5.6419 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 8.58759 seconds
+
+
+
+Best Solution Cost: 154649819122
+
+Elapsed Time: 6.29734 seconds
+
+
+
+Best Solution Cost: 154684199984
+
+Elapsed Time: 3.32927 seconds
+
+
+
+Best Solution Cost: 154604764854
+
+Elapsed Time: 5.1657 seconds
+
+
+
+Best Solution Cost: 154675925576
+
+Elapsed Time: 4.25257 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  W  -  Y  *  *  *  *  *  *  *  *
+  *  *  Õ  H  L  B  Á  É  *  *  *  *  *  *
+  *  *  Ç  D  A  R  P  Ú  *  *  *  *  *  *
+  *  J  Ã  O  _  E  M  X  K  *  *  *  *  *
+  *  *  F  C  S  T  U  Q  *  *  *  *  *  *
+  *  *  Í  V  I  N  G  Ó  *  *  *  *  *  *
+  *  *  *  À  Z  Ê  Ô  *  *  *  *  *  *  *
+  *  *  *  *  '  Â  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154599137792
+
+Elapsed Time: 5.16789 seconds
+
+
+
+Best Solution Cost: 154643467495
+
+Elapsed Time: 4.66634 seconds
+
+
+
+Best Solution Cost: 154626682216
+
+Elapsed Time: 8.09208 seconds
+
+
+
+Best Solution Cost: 154602546026
+
+Elapsed Time: 9.54157 seconds
+
+
+
+Best Solution Cost: 154721440822
+
+Elapsed Time: 7.57905 seconds
+
+
+
+Best Solution Cost: 154672705557
+
+Elapsed Time: 3.85176 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 3.50154 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 10.5043 seconds
+
+
+
+Best Solution Cost: 154626466409
+
+Elapsed Time: 5.56986 seconds
+
+
+
+Best Solution Cost: 154617262433
+
+Elapsed Time: 5.05877 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 9.28729 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 7.69757 seconds
+
+
+
+Best Solution Cost: 154630204207
+
+Elapsed Time: 5.49672 seconds
+
+
+
+Best Solution Cost: 154629047460
+
+Elapsed Time: 7.09609 seconds
+
+
+
+Best Solution Cost: 154825365093
+
+Elapsed Time: 4.18352 seconds
+
+
+
+Best Solution Cost: 154599269248
+
+Elapsed Time: 4.38128 seconds
+
+
+
+Best Solution Cost: 154680937099
+
+Elapsed Time: 7.28586 seconds
+
+
+
+Best Solution Cost: 154670303440
+
+Elapsed Time: 6.69781 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.74067 seconds
+
+
+
+Best Solution Cost: 154805934500
+
+Elapsed Time: 3.26867 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Â  '  *  *  *  *  *
+  *  *  *  *  *  *  Ô  Ê  Z  À  *  *  *  *
+  *  *  *  *  *  Ó  G  N  I  V  Í  *  *  *
+  *  *  *  *  *  Q  U  T  S  C  F  *  *  *
+  *  *  *  *  K  X  M  E  _  O  Ã  J  *  *
+  *  *  *  *  *  Ú  P  R  A  D  Ç  *  *  *
+  *  *  *  *  *  É  Á  B  L  H  Õ  *  *  *
+  *  *  *  *  *  *  *  Y  -  W  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599137792
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+
+Best Solution Cost: 154631603853
+
+Elapsed Time: 7.26029 seconds
+
+
+
+Best Solution Cost: 154773992353
+
+Elapsed Time: 6.94614 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 6.03364 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 3.43134 seconds
+
+
+
+Best Solution Cost: 154684193782
+
+Elapsed Time: 3.54128 seconds
+
+
+
+Best Solution Cost: 154653559849
+
+Elapsed Time: 7.03814 seconds
+
+
+
+Best Solution Cost: 154626471745
+
+Elapsed Time: 6.98395 seconds
+
+
+
+Best Solution Cost: 154626682216
+
+Elapsed Time: 7.81471 seconds
+
+
+
+Best Solution Cost: 154615691858
+
+Elapsed Time: 5.99958 seconds
+
+
+
+Best Solution Cost: 154604771959
+
+Elapsed Time: 4.42134 seconds
+
+
+
+Best Solution Cost: 154626470150
+
+Elapsed Time: 6.53851 seconds
+
+
+
+Best Solution Cost: 154626662206
+
+Elapsed Time: 10.6894 seconds
+
+
+
+Best Solution Cost: 154599149682
+
+Elapsed Time: 4.76398 seconds
+
+
+
+Best Solution Cost: 154602431158
+
+Elapsed Time: 5.85062 seconds
+
+
+
+Best Solution Cost: 154669916070
+
+Elapsed Time: 3.98122 seconds
+
+
+
+Best Solution Cost: 154604771959
+
+Elapsed Time: 3.7705 seconds
+
+
+
+Best Solution Cost: 154748337250
+
+Elapsed Time: 4.32272 seconds
+
+
+
+Best Solution Cost: 154744075513
+
+Elapsed Time: 5.41598 seconds
+
+
+
+Best Solution Cost: 154626680414
+
+Elapsed Time: 7.70426 seconds
+
+
+
+Best Solution Cost: 154741590217
+
+Elapsed Time: 3.79155 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  Y  -  W  *  *  *  *  *  *  *
+  *  *  É  Á  B  L  H  Õ  *  *  *  *  *  *
+  *  *  Ú  P  R  A  D  Ç  *  *  *  *  *  *
+  *  K  X  M  E  _  O  Ã  J  *  *  *  *  *
+  *  *  Q  U  T  S  C  F  *  *  *  *  *  *
+  *  *  Ó  G  N  I  V  Í  *  *  *  *  *  *
+  *  *  *  Ô  Ê  Z  À  *  *  *  *  *  *  *
+  *  *  *  *  Â  '  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186678824141
+
+Elapsed Time: 4.1352 seconds
+
+
+
+Best Solution Cost: 186687815675
+
+Elapsed Time: 3.82465 seconds
+
+
+
+Best Solution Cost: 186690257358
+
+Elapsed Time: 13.6947 seconds
+
+
+
+Best Solution Cost: 186700261008
+
+Elapsed Time: 5.38176 seconds
+
+
+
+Best Solution Cost: 186735225812
+
+Elapsed Time: 7.9747 seconds
+
+
+
+Best Solution Cost: 186677344349
+
+Elapsed Time: 3.79906 seconds
+
+
+
+Best Solution Cost: 186697854802
+
+Elapsed Time: 8.53246 seconds
+
+
+
+Best Solution Cost: 186743262069
+
+Elapsed Time: 6.6448 seconds
+
+
+
+Best Solution Cost: 186629797113
+
+Elapsed Time: 13.2914 seconds
+
+
+
+Best Solution Cost: 186630413498
+
+Elapsed Time: 4.9987 seconds
+
+
+
+Best Solution Cost: 186677332029
+
+Elapsed Time: 4.78898 seconds
+
+
+
+Best Solution Cost: 186747133928
+
+Elapsed Time: 4.78074 seconds
+
+
+
+Best Solution Cost: 186657014001
+
+Elapsed Time: 5.26409 seconds
+
+
+
+Best Solution Cost: 186747155257
+
+Elapsed Time: 3.69519 seconds
+
+
+
+Best Solution Cost: 186654489322
+
+Elapsed Time: 6.64466 seconds
+
+
+
+Best Solution Cost: 186677338189
+
+Elapsed Time: 7.36287 seconds
+
+
+
+Best Solution Cost: 186747146325
+
+Elapsed Time: 11.4451 seconds
+
+
+
+Best Solution Cost: 186771461772
+
+Elapsed Time: 4.26171 seconds
+
+
+
+Best Solution Cost: 186705388921
+
+Elapsed Time: 3.32597 seconds
+
+
+
+Best Solution Cost: 186741640601
+
+Elapsed Time: 4.84293 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  K  -  *  *  *  *  *  *  *  *  *
+  *  *  É  F  Í  Ó  À  *  *  *  *  *  *  *
+  *  X  C  M  S  P  J  *  *  *  *  *  *  *
+  *  V  I  E  _  O  Ã  *  *  *  *  *  *  *
+  Â  G  L  R  A  D  Ç  Õ  *  *  *  *  *  *
+  *  Á  U  T  N  B  Ú  *  *  *  *  *  *  *
+  *  '  Q  H  Ê  Z  W  *  *  *  *  *  *  *
+  *  *  *  Ô  Y  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629797113
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186706305609
+
+Elapsed Time: 5.88588 seconds
+
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 4.26215 seconds
+
+
+
+Best Solution Cost: 186677340268
+
+Elapsed Time: 5.43617 seconds
+
+
+
+Best Solution Cost: 186722507891
+
+Elapsed Time: 8.98718 seconds
+
+
+
+Best Solution Cost: 186688114084
+
+Elapsed Time: 4.47599 seconds
+
+
+
+Best Solution Cost: 186735259457
+
+Elapsed Time: 6.21935 seconds
+
+
+
+Best Solution Cost: 186677361311
+
+Elapsed Time: 6.82388 seconds
+
+
+
+Best Solution Cost: 186711217887
+
+Elapsed Time: 3.66962 seconds
+
+
+
+Best Solution Cost: 186751212732
+
+Elapsed Time: 7.95512 seconds
+
+
+
+Best Solution Cost: 186690264827
+
+Elapsed Time: 4.80204 seconds
+
+
+
+Best Solution Cost: 186695809492
+
+Elapsed Time: 5.53516 seconds
+
+
+
+Best Solution Cost: 186725086126
+
+Elapsed Time: 6.60098 seconds
+
+
+
+Best Solution Cost: 186835899327
+
+Elapsed Time: 3.56059 seconds
+
+
+
+Best Solution Cost: 186734756447
+
+Elapsed Time: 4.94432 seconds
+
+
+
+Best Solution Cost: 186840914359
+
+Elapsed Time: 5.94993 seconds
+
+
+
+Best Solution Cost: 186709531698
+
+Elapsed Time: 6.87143 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 6.15073 seconds
+
+
+
+Best Solution Cost: 186654464759
+
+Elapsed Time: 6.03707 seconds
+
+
+
+Best Solution Cost: 186687896620
+
+Elapsed Time: 11.8306 seconds
+
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 5.37652 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  -  K  *  *  *  *  *  *
+  *  *  *  *  À  Ó  Í  É  X  *  *  *  *  *
+  *  *  *  *  J  P  S  M  C  F  *  *  *  *
+  *  *  *  *  Ã  O  _  E  I  V  *  *  *  *
+  *  *  *  Õ  Ç  D  A  R  L  G  Â  *  *  *
+  *  *  *  *  Ú  B  N  T  U  Á  *  *  *  *
+  *  *  *  *  W  Z  Ê  H  Q  '  *  *  *  *
+  *  *  *  *  *  *  Y  Ô  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186654464759
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186685778120
+
+Elapsed Time: 5.55033 seconds
+
+
+
+Best Solution Cost: 186629803696
+
+Elapsed Time: 4.90056 seconds
+
+
+
+Best Solution Cost: 186708012839
+
+Elapsed Time: 14.3152 seconds
+
+
+
+Best Solution Cost: 186629807469
+
+Elapsed Time: 8.95414 seconds
+
+
+
+Best Solution Cost: 186684234654
+
+Elapsed Time: 6.02436 seconds
+
+
+
+Best Solution Cost: 186689828955
+
+Elapsed Time: 5.17474 seconds
+
+
+
+Best Solution Cost: 186685754382
+
+Elapsed Time: 4.72347 seconds
+
+
+
+Best Solution Cost: 186728784668
+
+Elapsed Time: 3.67158 seconds
+
+
+
+Best Solution Cost: 186690250890
+
+Elapsed Time: 8.5841 seconds
+
+
+
+Best Solution Cost: 186629807469
+
+Elapsed Time: 5.76927 seconds
+
+
+
+Best Solution Cost: 187011995567
+
+Elapsed Time: 3.55776 seconds
+
+
+
+Best Solution Cost: 186725637267
+
+Elapsed Time: 3.22435 seconds
+
+
+
+Best Solution Cost: 186826367561
+
+Elapsed Time: 5.83817 seconds
+
+
+
+Best Solution Cost: 187012706391
+
+Elapsed Time: 3.90291 seconds
+
+
+
+Best Solution Cost: 186728784668
+
+Elapsed Time: 4.56991 seconds
+
+
+
+Best Solution Cost: 186718070310
+
+Elapsed Time: 6.80009 seconds
+
+
+
+Best Solution Cost: 186723639674
+
+Elapsed Time: 4.16948 seconds
+
+
+
+Best Solution Cost: 186728787007
+
+Elapsed Time: 5.29212 seconds
+
+
+
+Best Solution Cost: 186728771501
+
+Elapsed Time: 6.51794 seconds
+
+
+
+Best Solution Cost: 186629807469
+
+Elapsed Time: 8.33627 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  Ô  Y  *  *  *  *  *  *  *
+  *  *  *  '  Q  H  Ê  Z  W  *  *  *  *  *
+  *  *  *  Á  U  T  N  B  Ú  *  *  *  *  *
+  *  *  Â  G  L  R  A  D  Ç  Õ  *  *  *  *
+  *  *  *  V  I  E  _  O  Ã  *  *  *  *  *
+  *  *  *  X  C  M  S  P  J  *  *  *  *  *
+  *  *  *  *  É  F  Í  Ó  À  *  *  *  *  *
+  *  *  *  *  *  K  -  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629803696
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 4.21847 seconds
+
+
+
+Best Solution Cost: 186932812974
+
+Elapsed Time: 5.68077 seconds
+
+
+
+Best Solution Cost: 186780791911
+
+Elapsed Time: 9.37586 seconds
+
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 6.24116 seconds
+
+
+
+Best Solution Cost: 186775263033
+
+Elapsed Time: 7.07387 seconds
+
+
+
+Best Solution Cost: 186737313244
+
+Elapsed Time: 4.14878 seconds
+
+
+
+Best Solution Cost: 186847220709
+
+Elapsed Time: 3.2709 seconds
+
+
+
+Best Solution Cost: 186747144785
+
+Elapsed Time: 5.63344 seconds
+
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 5.22672 seconds
+
+
+
+Best Solution Cost: 186709451330
+
+Elapsed Time: 3.78616 seconds
+
+
+
+Best Solution Cost: 186750455202
+
+Elapsed Time: 4.06203 seconds
+
+
+
+Best Solution Cost: 186807448334
+
+Elapsed Time: 4.14221 seconds
+
+
+
+Best Solution Cost: 186677327332
+
+Elapsed Time: 6.71311 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 7.40508 seconds
+
+
+
+Best Solution Cost: 186702862852
+
+Elapsed Time: 3.89014 seconds
+
+
+
+Best Solution Cost: 186711114738
+
+Elapsed Time: 9.41125 seconds
+
+
+
+Best Solution Cost: 186677336726
+
+Elapsed Time: 8.8411 seconds
+
+
+
+Best Solution Cost: 186722529259
+
+Elapsed Time: 12.8469 seconds
+
+
+
+Best Solution Cost: 186742201668
+
+Elapsed Time: 6.6238 seconds
+
+
+
+Best Solution Cost: 186688135798
+
+Elapsed Time: 4.69233 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  À  É  Y  *  *  *  *  *  *  *  *  *
+  *  X  Ó  B  Á  Ê  K  *  *  *  *  *  *  *
+  *  J  P  S  R  M  Ú  *  *  *  *  *  *  *
+  *  Ã  O  _  E  T  H  Ô  *  *  *  *  *  *
+  Õ  Ç  D  A  N  U  Q  *  *  *  *  *  *  *
+  *  Í  C  I  L  G  Â  *  *  *  *  *  *  *
+  *  W  Z  V  F  -  *  *  *  *  *  *  *  *
+  *  *  *  *  '  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186677327332
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 7.3244 seconds
+
+
+
+Best Solution Cost: 186791655769
+
+Elapsed Time: 3.85286 seconds
+
+
+
+Best Solution Cost: 186694765872
+
+Elapsed Time: 7.05675 seconds
+
+
+
+Best Solution Cost: 186690285271
+
+Elapsed Time: 5.53196 seconds
+
+
+
+Best Solution Cost: 186728773657
+
+Elapsed Time: 7.10684 seconds
+
+
+
+Best Solution Cost: 186822824903
+
+Elapsed Time: 4.75981 seconds
+
+
+
+Best Solution Cost: 186737034935
+
+Elapsed Time: 4.8634 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 7.60196 seconds
+
+
+
+Best Solution Cost: 186677335918
+
+Elapsed Time: 6.00517 seconds
+
+
+
+Best Solution Cost: 186692819577
+
+Elapsed Time: 6.52682 seconds
+
+
+
+Best Solution Cost: 186629807469
+
+Elapsed Time: 3.59774 seconds
+
+
+
+Best Solution Cost: 186736558176
+
+Elapsed Time: 4.17035 seconds
+
+
+
+Best Solution Cost: 186630633068
+
+Elapsed Time: 8.21623 seconds
+
+
+
+Best Solution Cost: 186630431362
+
+Elapsed Time: 4.04652 seconds
+
+
+
+Best Solution Cost: 186677361311
+
+Elapsed Time: 5.21237 seconds
+
+
+
+Best Solution Cost: 186677336303
+
+Elapsed Time: 7.2354 seconds
+
+
+
+Best Solution Cost: 186795469271
+
+Elapsed Time: 7.36888 seconds
+
+
+
+Best Solution Cost: 186737796270
+
+Elapsed Time: 4.47442 seconds
+
+
+
+Best Solution Cost: 186724170994
+
+Elapsed Time: 6.19043 seconds
+
+
+
+Best Solution Cost: 186655322890
+
+Elapsed Time: 6.88922 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Â  *  *  *  *  *  *
+  *  *  *  *  *  X  V  G  Á  '  *  *  *  *
+  *  *  *  *  É  C  I  L  U  Q  *  *  *  *
+  *  *  *  K  F  M  E  R  T  H  Ô  *  *  *
+  *  *  *  -  Í  S  _  A  N  Ê  Y  *  *  *
+  *  *  *  *  Ó  P  O  D  B  Z  *  *  *  *
+  *  *  *  *  À  J  Ã  Ç  Ú  W  *  *  *  *
+  *  *  *  *  *  *  *  Õ  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629807469
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186809842684
+
+Elapsed Time: 4.22755 seconds
+
+
+
+Best Solution Cost: 186740044633
+
+Elapsed Time: 5.31794 seconds
+
+
+
+Best Solution Cost: 186824451121
+
+Elapsed Time: 4.53554 seconds
+
+
+
+Best Solution Cost: 186654476155
+
+Elapsed Time: 8.08475 seconds
+
+
+
+Best Solution Cost: 186722522213
+
+Elapsed Time: 4.54125 seconds
+
+
+
+Best Solution Cost: 186747835068
+
+Elapsed Time: 5.25288 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 4.19292 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 3.63628 seconds
+
+
+
+Best Solution Cost: 186692815573
+
+Elapsed Time: 4.20639 seconds
+
+
+
+Best Solution Cost: 186690262286
+
+Elapsed Time: 6.94817 seconds
+
+
+
+Best Solution Cost: 186678328927
+
+Elapsed Time: 9.48322 seconds
+
+
+
+Best Solution Cost: 186730084273
+
+Elapsed Time: 6.93532 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 6.41339 seconds
+
+
+
+Best Solution Cost: 186699303061
+
+Elapsed Time: 6.37326 seconds
+
+
+
+Best Solution Cost: 186681647442
+
+Elapsed Time: 6.89569 seconds
+
+
+
+Best Solution Cost: 186677353936
+
+Elapsed Time: 3.82663 seconds
+
+
+
+Best Solution Cost: 186677338519
+
+Elapsed Time: 6.76517 seconds
+
+
+
+Best Solution Cost: 186712786108
+
+Elapsed Time: 4.17444 seconds
+
+
+
+Best Solution Cost: 186706309613
+
+Elapsed Time: 7.30901 seconds
+
+
+
+Best Solution Cost: 186677336880
+
+Elapsed Time: 7.35853 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  Ô  Y  *  *  *
+  *  *  *  *  *  *  *  '  Q  H  Ê  Z  W  *
+  *  *  *  *  *  *  *  Á  U  T  N  B  Ú  *
+  *  *  *  *  *  *  Â  G  L  R  A  D  Ç  Õ
+  *  *  *  *  *  *  *  V  I  E  _  O  Ã  *
+  *  *  *  *  *  *  *  F  C  M  S  P  J  *
+  *  *  *  *  *  *  *  *  X  É  Í  Ó  À  *
+  *  *  *  *  *  *  *  *  *  K  -  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186654476155
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186699313340
+
+Elapsed Time: 5.11177 seconds
+
+
+
+Best Solution Cost: 186677328141
+
+Elapsed Time: 9.37228 seconds
+
+
+
+Best Solution Cost: 186859797798
+
+Elapsed Time: 7.7924 seconds
+
+
+
+Best Solution Cost: 186718900620
+
+Elapsed Time: 4.99776 seconds
+
+
+
+Best Solution Cost: 186903304803
+
+Elapsed Time: 4.35956 seconds
+
+
+
+Best Solution Cost: 186678824141
+
+Elapsed Time: 4.3084 seconds
+
+
+
+Best Solution Cost: 186839093143
+
+Elapsed Time: 8.87157 seconds
+
+
+
+Best Solution Cost: 186677339229
+
+Elapsed Time: 5.87742 seconds
+
+
+
+Best Solution Cost: 186677335918
+
+Elapsed Time: 5.74559 seconds
+
+
+
+Best Solution Cost: 186630640190
+
+Elapsed Time: 4.03581 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 4.04632 seconds
+
+
+
+Best Solution Cost: 186727540880
+
+Elapsed Time: 5.2996 seconds
+
+
+
+Best Solution Cost: 186629807469
+
+Elapsed Time: 5.87669 seconds
+
+
+
+Best Solution Cost: 186677341192
+
+Elapsed Time: 11.2892 seconds
+
+
+
+Best Solution Cost: 186780771468
+
+Elapsed Time: 5.16008 seconds
+
+
+
+Best Solution Cost: 186725076886
+
+Elapsed Time: 10.4036 seconds
+
+
+
+Best Solution Cost: 186677337150
+
+Elapsed Time: 4.27941 seconds
+
+
+
+Best Solution Cost: 186690248580
+
+Elapsed Time: 3.68198 seconds
+
+
+
+Best Solution Cost: 186705410326
+
+Elapsed Time: 3.75703 seconds
+
+
+
+Best Solution Cost: 186678440841
+
+Elapsed Time: 3.21723 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  *  *  *  *  *  *  *  *
+  *  *  À  J  Ã  Ç  Ú  W  *  *  *  *  *  *
+  *  *  Ó  P  O  D  B  Z  *  *  *  *  *  *
+  *  -  Í  S  _  A  N  Ê  Y  *  *  *  *  *
+  *  K  F  M  E  R  T  H  Ô  *  *  *  *  *
+  *  *  É  C  I  L  U  Q  *  *  *  *  *  *
+  *  *  *  X  V  G  Á  '  *  *  *  *  *  *
+  *  *  *  *  *  Â  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629807469
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 10.3502 seconds
+
+
+
+Best Solution Cost: 186833457793
+
+Elapsed Time: 3.53896 seconds
+
+
+
+Best Solution Cost: 186775294603
+
+Elapsed Time: 3.63247 seconds
+
+
+
+Best Solution Cost: 186685762005
+
+Elapsed Time: 9.08495 seconds
+
+
+
+Best Solution Cost: 186779238217
+
+Elapsed Time: 5.32916 seconds
+
+
+
+Best Solution Cost: 186684243932
+
+Elapsed Time: 4.40631 seconds
+
+
+
+Best Solution Cost: 186732970220
+
+Elapsed Time: 7.35183 seconds
+
+
+
+Best Solution Cost: 186657014001
+
+Elapsed Time: 4.52829 seconds
+
+
+
+Best Solution Cost: 186677318747
+
+Elapsed Time: 5.75869 seconds
+
+
+
+Best Solution Cost: 186735248142
+
+Elapsed Time: 5.69018 seconds
+
+
+
+Best Solution Cost: 186677342347
+
+Elapsed Time: 4.36376 seconds
+
+
+
+Best Solution Cost: 186734777622
+
+Elapsed Time: 6.07689 seconds
+
+
+
+Best Solution Cost: 186741221094
+
+Elapsed Time: 5.13195 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 3.64215 seconds
+
+
+
+Best Solution Cost: 186831197979
+
+Elapsed Time: 4.56651 seconds
+
+
+
+Best Solution Cost: 186722516284
+
+Elapsed Time: 4.99931 seconds
+
+
+
+Best Solution Cost: 186709456258
+
+Elapsed Time: 6.84005 seconds
+
+
+
+Best Solution Cost: 186629802541
+
+Elapsed Time: 7.51396 seconds
+
+
+
+Best Solution Cost: 186739933935
+
+Elapsed Time: 6.4954 seconds
+
+
+
+Best Solution Cost: 186678333855
+
+Elapsed Time: 6.1737 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Â  *  *  *  *  *  *  *  *
+  *  *  *  X  V  G  Á  '  *  *  *  *  *  *
+  *  *  É  C  I  L  U  Q  *  *  *  *  *  *
+  *  K  F  M  E  R  T  H  Ô  *  *  *  *  *
+  *  -  Í  S  _  A  N  Ê  Y  *  *  *  *  *
+  *  *  Ó  P  O  D  B  Z  *  *  *  *  *  *
+  *  *  À  J  Ã  Ç  Ú  W  *  *  *  *  *  *
+  *  *  *  *  *  Õ  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629802541
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186736246234
+
+Elapsed Time: 4.06648 seconds
+
+
+
+Best Solution Cost: 186678328927
+
+Elapsed Time: 3.80999 seconds
+
+
+
+Best Solution Cost: 186747144785
+
+Elapsed Time: 3.80408 seconds
+
+
+
+Best Solution Cost: 186654484394
+
+Elapsed Time: 5.05955 seconds
+
+
+
+Best Solution Cost: 186629792069
+
+Elapsed Time: 13.788 seconds
+
+
+
+Best Solution Cost: 186690269832
+
+Elapsed Time: 4.12157 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 4.90443 seconds
+
+
+
+Best Solution Cost: 186737313244
+
+Elapsed Time: 4.44475 seconds
+
+
+
+Best Solution Cost: 186728784668
+
+Elapsed Time: 8.33121 seconds
+
+
+
+Best Solution Cost: 186706301066
+
+Elapsed Time: 4.96105 seconds
+
+
+
+Best Solution Cost: 186725086126
+
+Elapsed Time: 4.71335 seconds
+
+
+
+Best Solution Cost: 186739254339
+
+Elapsed Time: 6.31587 seconds
+
+
+
+Best Solution Cost: 186727538570
+
+Elapsed Time: 4.88895 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 4.13678 seconds
+
+
+
+Best Solution Cost: 186689842509
+
+Elapsed Time: 5.9165 seconds
+
+
+
+Best Solution Cost: 186918754262
+
+Elapsed Time: 3.6 seconds
+
+
+
+Best Solution Cost: 186688305210
+
+Elapsed Time: 5.45335 seconds
+
+
+
+Best Solution Cost: 186728774350
+
+Elapsed Time: 5.82285 seconds
+
+
+
+Best Solution Cost: 186747144862
+
+Elapsed Time: 4.6284 seconds
+
+
+
+Best Solution Cost: 186722521867
+
+Elapsed Time: 3.65601 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  Â  *  *  *  *
+  *  *  *  *  *  *  *  '  Á  G  V  X  *  *
+  *  *  *  *  *  *  *  Q  U  L  I  C  É  *
+  *  *  *  *  *  *  Ô  H  T  R  E  M  F  K
+  *  *  *  *  *  *  Y  Ê  N  A  _  S  Í  -
+  *  *  *  *  *  *  *  Z  B  D  O  P  Ó  *
+  *  *  *  *  *  *  *  W  Ú  Ç  Ã  J  À  *
+  *  *  *  *  *  *  *  *  *  Õ  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629792069
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+
+Best Solution Cost: 186716735238
+
+Elapsed Time: 4.81142 seconds
+
+
+
+Best Solution Cost: 186629769739
+
+Elapsed Time: 4.86384 seconds
+
+
+
+Best Solution Cost: 186694959064
+
+Elapsed Time: 8.91266 seconds
+
+
+
+Best Solution Cost: 186711185741
+
+Elapsed Time: 3.94967 seconds
+
+
+
+Best Solution Cost: 186736255782
+
+Elapsed Time: 3.46186 seconds
+
+
+
+Best Solution Cost: 186747151744
+
+Elapsed Time: 3.49007 seconds
+
+
+
+Best Solution Cost: 186714510871
+
+Elapsed Time: 3.91001 seconds
+
+
+
+Best Solution Cost: 186692822888
+
+Elapsed Time: 6.11389 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 5.63976 seconds
+
+
+
+Best Solution Cost: 186629834612
+
+Elapsed Time: 4.97476 seconds
+
+
+
+Best Solution Cost: 186689828955
+
+Elapsed Time: 9.32127 seconds
+
+
+
+Best Solution Cost: 186791637828
+
+Elapsed Time: 3.5503 seconds
+
+
+
+Best Solution Cost: 186754486408
+
+Elapsed Time: 4.8705 seconds
+
+
+
+Best Solution Cost: 186735236164
+
+Elapsed Time: 4.16311 seconds
+
+
+
+Best Solution Cost: 186677342347
+
+Elapsed Time: 8.02066 seconds
+
+
+
+Best Solution Cost: 186643134268
+
+Elapsed Time: 5.73981 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 3.99172 seconds
+
+
+
+Best Solution Cost: 186643129225
+
+Elapsed Time: 4.41882 seconds
+
+
+
+Best Solution Cost: 186677345196
+
+Elapsed Time: 8.48793 seconds
+
+
+
+Best Solution Cost: 186689826106
+
+Elapsed Time: 5.30645 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  K  -  *  *  *  *  *  *  *  *
+  *  *  *  É  F  Í  Ó  À  *  *  *  *  *  *
+  *  *  X  C  M  S  P  J  *  *  *  *  *  *
+  *  *  V  I  E  _  O  Ã  *  *  *  *  *  *
+  *  Â  G  L  R  A  D  Ç  Õ  *  *  *  *  *
+  *  *  Á  U  T  N  B  Ú  *  *  *  *  *  *
+  *  *  '  Q  H  Ê  Z  W  *  *  *  *  *  *
+  *  *  *  *  Ô  Y  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 186629769739
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.08124 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 7.64662 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.59906 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 6.11803 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.93674 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.99288 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.24601 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.72166 seconds
+
+
+
+Best Solution Cost: 156944019946
+
+Elapsed Time: 7.62516 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.10723 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.51189 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.44606 seconds
+
+
+
+Best Solution Cost: 157122587218
+
+Elapsed Time: 4.89746 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.78969 seconds
+
+
+
+Best Solution Cost: 156963886668
+
+Elapsed Time: 3.79653 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.281 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.7485 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 4.99604 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 3.95139 seconds
+
+
+
+Best Solution Cost: 157309213239
+
+Elapsed Time: 4.79035 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  K  Ó  X  -  *  *  *  *  *  *
+  *  *  *  J  Á  P  F  G  Õ  *  *  *  *  *
+  *  *  *  B  M  R  E  U  Q  *  *  *  *  *
+  *  *  Y  Ã  O  _  S  T  Í  *  *  *  *  *
+  *  *  À  Ç  D  A  I  N  Ê  '  *  *  *  *
+  *  *  *  Ú  V  C  L  H  Â  *  *  *  *  *
+  *  *  *  *  W  Z  É  Ô  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 6.41788 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.00283 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.80115 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.54218 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 9.17511 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 4.77417 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.86277 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 10.2643 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.58451 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 5.18817 seconds
+
+
+
+Best Solution Cost: 157836784606
+
+Elapsed Time: 3.58082 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 5.14889 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 7.66963 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 4.78675 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 6.95776 seconds
+
+
+
+Best Solution Cost: 157099593630
+
+Elapsed Time: 3.48882 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.02239 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 7.92161 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.39875 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.86877 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  '  *  *  *  *  *  *  *  *  *
+  *  Õ  Q  Í  Ê  Â  *  *  *  *  *  *  *  *
+  -  G  U  T  N  H  Ô  *  *  *  *  *  *  *
+  X  F  E  S  I  L  É  *  *  *  *  *  *  *
+  Ó  P  R  _  A  C  Z  *  *  *  *  *  *  *
+  K  Á  M  O  D  V  W  *  *  *  *  *  *  *
+  *  J  B  Ã  Ç  Ú  *  *  *  *  *  *  *  *
+  *  *  *  Y  À  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 5.20429 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.21163 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 4.75417 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.53272 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.88464 seconds
+
+
+
+Best Solution Cost: 157124595351
+
+Elapsed Time: 8.34601 seconds
+
+
+
+Best Solution Cost: 157077996081
+
+Elapsed Time: 3.8914 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.88953 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 5.5888 seconds
+
+
+
+Best Solution Cost: 156811584303
+
+Elapsed Time: 4.55297 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 7.55516 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.96247 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.33529 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 5.55915 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.58389 seconds
+
+
+
+Best Solution Cost: 156804915617
+
+Elapsed Time: 4.42915 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.11009 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.97242 seconds
+
+
+
+Best Solution Cost: 157197944916
+
+Elapsed Time: 5.37329 seconds
+
+
+
+Best Solution Cost: 156947401980
+
+Elapsed Time: 7.3907 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  W  Z  É  Ô  *  *  *  *  *
+  *  *  *  *  Ú  V  C  L  H  Â  *  *  *  *
+  *  *  *  À  Ç  D  A  I  N  Ê  '  *  *  *
+  *  *  *  Y  Ã  O  _  S  T  Í  *  *  *  *
+  *  *  *  *  B  M  R  E  U  Q  *  *  *  *
+  *  *  *  *  J  Á  P  F  G  Õ  *  *  *  *
+  *  *  *  *  *  K  Ó  X  -  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.16281 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.64127 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.38212 seconds
+
+
+
+Best Solution Cost: 157197145391
+
+Elapsed Time: 4.2173 seconds
+
+
+
+Best Solution Cost: 156802320537
+
+Elapsed Time: 3.10121 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.00509 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.95186 seconds
+
+
+
+Best Solution Cost: 156804916036
+
+Elapsed Time: 5.94182 seconds
+
+
+
+Best Solution Cost: 156968451220
+
+Elapsed Time: 3.60384 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 12.6484 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 3.54792 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 4.09293 seconds
+
+
+
+Best Solution Cost: 156825710843
+
+Elapsed Time: 5.72485 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.72906 seconds
+
+
+
+Best Solution Cost: 157089544414
+
+Elapsed Time: 4.13424 seconds
+
+
+
+Best Solution Cost: 157327916345
+
+Elapsed Time: 5.69338 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.99792 seconds
+
+
+
+Best Solution Cost: 156836596691
+
+Elapsed Time: 5.37505 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 13.0882 seconds
+
+
+
+Best Solution Cost: 157005846299
+
+Elapsed Time: 3.584 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  '  *  *  *  *  *  *  *  *  *  *  *
+  *  Â  Ê  Í  Q  Õ  *  *  *  *  *  *  *  *
+  Ô  H  N  T  U  G  -  *  *  *  *  *  *  *
+  É  L  I  S  E  F  X  *  *  *  *  *  *  *
+  Z  C  A  _  R  P  Ó  *  *  *  *  *  *  *
+  W  V  D  O  M  Á  K  *  *  *  *  *  *  *
+  *  Ú  Ç  Ã  B  J  *  *  *  *  *  *  *  *
+  *  *  À  Y  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156825932713
+
+Elapsed Time: 4.44226 seconds
+
+
+
+Best Solution Cost: 156802320537
+
+Elapsed Time: 4.72037 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 9.61175 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 7.25956 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.13925 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.95493 seconds
+
+
+
+Best Solution Cost: 157211100193
+
+Elapsed Time: 4.86214 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.81649 seconds
+
+
+
+Best Solution Cost: 156825932713
+
+Elapsed Time: 8.29252 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.58602 seconds
+
+
+
+Best Solution Cost: 156839353780
+
+Elapsed Time: 3.59927 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 4.38804 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.503 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.81749 seconds
+
+
+
+Best Solution Cost: 156947401980
+
+Elapsed Time: 7.64428 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.85067 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.53489 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.06504 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.73976 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 9.05552 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Y  À  *  *  *  *  *  *  *
+  *  *  *  J  B  Ã  Ç  Ú  *  *  *  *  *  *
+  *  *  K  Á  M  O  D  V  W  *  *  *  *  *
+  *  *  Ó  P  R  _  A  C  Z  *  *  *  *  *
+  *  *  X  F  E  S  I  L  É  *  *  *  *  *
+  *  *  -  G  U  T  N  H  Ô  *  *  *  *  *
+  *  *  *  Õ  Q  Í  Ê  Â  *  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.20899 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 9.46627 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.08573 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.60445 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.64462 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.64687 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 3.46818 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 6.19378 seconds
+
+
+
+Best Solution Cost: 156806710280
+
+Elapsed Time: 3.4966 seconds
+
+
+
+Best Solution Cost: 156944019946
+
+Elapsed Time: 4.2207 seconds
+
+
+
+Best Solution Cost: 157357752052
+
+Elapsed Time: 4.36027 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 9.78111 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.0634 seconds
+
+
+
+Best Solution Cost: 156959681854
+
+Elapsed Time: 4.06356 seconds
+
+
+
+Best Solution Cost: 156825710843
+
+Elapsed Time: 4.54527 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 5.24441 seconds
+
+
+
+Best Solution Cost: 157198481702
+
+Elapsed Time: 4.11746 seconds
+
+
+
+Best Solution Cost: 157122594871
+
+Elapsed Time: 4.41528 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 4.82658 seconds
+
+
+
+Best Solution Cost: 157089550220
+
+Elapsed Time: 3.23149 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  -  X  Ó  K  *  *  *  *
+  *  *  *  *  *  Õ  G  F  P  Á  J  *  *  *
+  *  *  *  *  *  Q  U  E  R  M  B  *  *  *
+  *  *  *  *  *  Í  T  S  _  O  Ã  Y  *  *
+  *  *  *  *  '  Ê  N  I  A  D  Ç  À  *  *
+  *  *  *  *  *  Â  H  L  C  V  Ú  *  *  *
+  *  *  *  *  *  *  Ô  É  Z  W  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 7.61698 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.82211 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.25993 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.71391 seconds
+
+
+
+Best Solution Cost: 156841618480
+
+Elapsed Time: 7.63527 seconds
+
+
+
+Best Solution Cost: 157181609770
+
+Elapsed Time: 6.42886 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 9.5073 seconds
+
+
+
+Best Solution Cost: 157167340072
+
+Elapsed Time: 9.17515 seconds
+
+
+
+Best Solution Cost: 157010222588
+
+Elapsed Time: 3.37395 seconds
+
+
+
+Best Solution Cost: 157197701417
+
+Elapsed Time: 4.08413 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.18863 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.87218 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.17687 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 4.39704 seconds
+
+
+
+Best Solution Cost: 157241096158
+
+Elapsed Time: 4.80095 seconds
+
+
+
+Best Solution Cost: 157241096158
+
+Elapsed Time: 4.23644 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 13.2383 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.35332 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 6.61002 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 3.38609 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Y  À  *  *  *  *  *  *  *
+  *  *  *  J  B  Ã  Ç  Ú  *  *  *  *  *  *
+  *  *  K  Á  M  O  D  V  W  *  *  *  *  *
+  *  *  Ó  P  R  _  A  C  Z  *  *  *  *  *
+  *  *  X  F  E  S  I  L  É  *  *  *  *  *
+  *  *  -  G  U  T  N  H  Ô  *  *  *  *  *
+  *  *  *  Õ  Q  Í  Ê  Â  *  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156947401980
+
+Elapsed Time: 3.95554 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 5.58665 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.37084 seconds
+
+
+
+Best Solution Cost: 157122587218
+
+Elapsed Time: 6.95003 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 5.91874 seconds
+
+
+
+Best Solution Cost: 157182733960
+
+Elapsed Time: 6.48415 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.31651 seconds
+
+
+
+Best Solution Cost: 156836469183
+
+Elapsed Time: 5.80112 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.45974 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.48001 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 4.84477 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.74047 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.34874 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 4.18372 seconds
+
+
+
+Best Solution Cost: 156959681854
+
+Elapsed Time: 9.93067 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 8.35995 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 3.20873 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.96824 seconds
+
+
+
+Best Solution Cost: 156959681854
+
+Elapsed Time: 6.56407 seconds
+
+
+
+Best Solution Cost: 157011376465
+
+Elapsed Time: 5.91484 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  Ô  É  Z  W  *  *  *
+  *  *  *  *  *  *  Â  H  L  C  V  Ú  *  *
+  *  *  *  *  *  '  Ê  N  I  A  D  Ç  À  *
+  *  *  *  *  *  *  Í  T  S  _  O  Ã  Y  *
+  *  *  *  *  *  *  Q  U  E  R  M  B  *  *
+  *  *  *  *  *  *  Õ  G  F  P  Á  J  *  *
+  *  *  *  *  *  *  *  -  X  Ó  K  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 157016701439
+
+Elapsed Time: 4.34662 seconds
+
+
+
+Best Solution Cost: 156959681854
+
+Elapsed Time: 6.00236 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 4.38964 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 5.0065 seconds
+
+
+
+Best Solution Cost: 157242156775
+
+Elapsed Time: 3.88872 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 6.16919 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.15207 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 3.61961 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.06966 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 6.77243 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 5.08695 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 5.42186 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 6.27522 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 7.29363 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.08819 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.27274 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 6.02205 seconds
+
+
+
+Best Solution Cost: 156809947353
+
+Elapsed Time: 6.53857 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 3.86584 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 8.29067 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Ô  É  Z  W  *  *
+  *  *  *  *  *  *  *  Â  H  L  C  V  Ú  *
+  *  *  *  *  *  *  '  Ê  N  I  A  D  Ç  À
+  *  *  *  *  *  *  *  Í  T  S  _  O  Ã  Y
+  *  *  *  *  *  *  *  Q  U  E  R  M  B  *
+  *  *  *  *  *  *  *  Õ  G  F  P  Á  J  *
+  *  *  *  *  *  *  *  *  -  X  Ó  K  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+
+Best Solution Cost: 156816515178
+
+Elapsed Time: 7.43177 seconds
+
+
+
+Best Solution Cost: 156825710843
+
+Elapsed Time: 9.05268 seconds
+
+
+
+Best Solution Cost: 156816900902
+
+Elapsed Time: 4.99559 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.15427 seconds
+
+
+
+Best Solution Cost: 156815903752
+
+Elapsed Time: 5.41687 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 6.26496 seconds
+
+
+
+Best Solution Cost: 157441352711
+
+Elapsed Time: 4.38918 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.61122 seconds
+
+
+
+Best Solution Cost: 157343340601
+
+Elapsed Time: 3.5334 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.68489 seconds
+
+
+
+Best Solution Cost: 157529149453
+
+Elapsed Time: 3.6513 seconds
+
+
+
+Best Solution Cost: 157274525218
+
+Elapsed Time: 3.69228 seconds
+
+
+
+Best Solution Cost: 156816515178
+
+Elapsed Time: 7.92081 seconds
+
+
+
+Best Solution Cost: 156921660697
+
+Elapsed Time: 9.06085 seconds
+
+
+
+Best Solution Cost: 157313545161
+
+Elapsed Time: 4.35014 seconds
+
+
+
+Best Solution Cost: 157089544414
+
+Elapsed Time: 7.80265 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 8.07646 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 4.56304 seconds
+
+
+
+Best Solution Cost: 156801709530
+
+Elapsed Time: 4.38761 seconds
+
+
+
+Best Solution Cost: 156801709111
+
+Elapsed Time: 5.68994 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  K  Ó  X  -  *  *  *  *  *  *
+  *  *  *  J  Á  P  F  G  Õ  *  *  *  *  *
+  *  *  *  B  M  R  E  U  Q  *  *  *  *  *
+  *  *  Y  Ã  O  _  S  T  Í  *  *  *  *  *
+  *  *  À  Ç  D  A  I  N  Ê  '  *  *  *  *
+  *  *  *  Ú  V  C  L  H  Â  *  *  *  *  *
+  *  *  *  *  W  Z  É  Ô  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 156801709111
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163204161646
+
+Elapsed Time: 3.5276 seconds
+
+
+
+Best Solution Cost: 163228309530
+
+Elapsed Time: 4.60464 seconds
+
+
+
+Best Solution Cost: 163109608605
+
+Elapsed Time: 4.87446 seconds
+
+
+
+Best Solution Cost: 163235589096
+
+Elapsed Time: 7.90282 seconds
+
+
+
+Best Solution Cost: 163275020704
+
+Elapsed Time: 3.8703 seconds
+
+
+
+Best Solution Cost: 163138233386
+
+Elapsed Time: 5.1812 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 10.1622 seconds
+
+
+
+Best Solution Cost: 163094124001
+
+Elapsed Time: 6.38625 seconds
+
+
+
+Best Solution Cost: 163094128681
+
+Elapsed Time: 5.17001 seconds
+
+
+
+Best Solution Cost: 163082025885
+
+Elapsed Time: 6.16528 seconds
+
+
+
+Best Solution Cost: 163082027895
+
+Elapsed Time: 5.48808 seconds
+
+
+
+Best Solution Cost: 163471364780
+
+Elapsed Time: 6.20424 seconds
+
+
+
+Best Solution Cost: 163094113861
+
+Elapsed Time: 3.58412 seconds
+
+
+
+Best Solution Cost: 163160373868
+
+Elapsed Time: 8.49732 seconds
+
+
+
+Best Solution Cost: 163105195546
+
+Elapsed Time: 6.38633 seconds
+
+
+
+Best Solution Cost: 163082023575
+
+Elapsed Time: 9.42539 seconds
+
+
+
+Best Solution Cost: 163333278778
+
+Elapsed Time: 5.12794 seconds
+
+
+
+Best Solution Cost: 163082022645
+
+Elapsed Time: 7.42787 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 4.21949 seconds
+
+
+
+Best Solution Cost: 163083601897
+
+Elapsed Time: 5.10112 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  K  W  À  *  *  *  *  *  *
+  *  *  *  *  X  Z  V  Í  Ó  *  *  *  *  *
+  *  *  *  '  F  I  S  T  H  Á  *  *  *  *
+  *  *  *  -  C  O  _  E  L  J  *  *  *  *
+  *  *  *  Â  Ã  N  A  R  P  É  *  *  *  *
+  *  *  *  Õ  Ç  D  M  U  G  *  *  *  *  *
+  *  *  *  *  Ê  Ú  B  Q  Ô  *  *  *  *  *
+  *  *  *  *  *  *  Y  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082022645
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163082723172
+
+Elapsed Time: 5.30897 seconds
+
+
+
+Best Solution Cost: 163094129221
+
+Elapsed Time: 7.63587 seconds
+
+
+
+Best Solution Cost: 163316628472
+
+Elapsed Time: 4.02734 seconds
+
+
+
+Best Solution Cost: 163314125928
+
+Elapsed Time: 3.63747 seconds
+
+
+
+Best Solution Cost: 163233602843
+
+Elapsed Time: 3.21567 seconds
+
+
+
+Best Solution Cost: 163094131441
+
+Elapsed Time: 6.22488 seconds
+
+
+
+Best Solution Cost: 163201562331
+
+Elapsed Time: 8.90565 seconds
+
+
+
+Best Solution Cost: 163201068947
+
+Elapsed Time: 8.44836 seconds
+
+
+
+Best Solution Cost: 163082736642
+
+Elapsed Time: 4.96295 seconds
+
+
+
+Best Solution Cost: 163086674368
+
+Elapsed Time: 4.32472 seconds
+
+
+
+Best Solution Cost: 163136860843
+
+Elapsed Time: 4.39279 seconds
+
+
+
+Best Solution Cost: 163435533466
+
+Elapsed Time: 5.30658 seconds
+
+
+
+Best Solution Cost: 163094107201
+
+Elapsed Time: 3.68795 seconds
+
+
+
+Best Solution Cost: 163109617095
+
+Elapsed Time: 6.90823 seconds
+
+
+
+Best Solution Cost: 163273428328
+
+Elapsed Time: 5.37889 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 5.92282 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 6.19082 seconds
+
+
+
+Best Solution Cost: 163082028945
+
+Elapsed Time: 5.80224 seconds
+
+
+
+Best Solution Cost: 163082011635
+
+Elapsed Time: 5.34792 seconds
+
+
+
+Best Solution Cost: 163082749572
+
+Elapsed Time: 5.30799 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  É  J  Á  *  *  *  *  *
+  *  *  *  *  Ô  G  P  L  H  Ó  *  *  *  *
+  *  *  *  *  Q  U  R  E  T  Í  À  *  *  *
+  *  *  *  Y  B  M  A  _  S  V  W  *  *  *
+  *  *  *  *  Ú  D  N  O  I  Z  K  *  *  *
+  *  *  *  *  Ê  Ç  Ã  C  F  X  *  *  *  *
+  *  *  *  *  *  Õ  Â  -  '  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082011635
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163273428538
+
+Elapsed Time: 5.31858 seconds
+
+
+
+Best Solution Cost: 163323407274
+
+Elapsed Time: 11.3224 seconds
+
+
+
+Best Solution Cost: 163082755242
+
+Elapsed Time: 8.58091 seconds
+
+
+
+Best Solution Cost: 163233601463
+
+Elapsed Time: 4.50295 seconds
+
+
+
+Best Solution Cost: 163082740992
+
+Elapsed Time: 11.7826 seconds
+
+
+
+Best Solution Cost: 163435516546
+
+Elapsed Time: 5.94219 seconds
+
+
+
+Best Solution Cost: 163082742792
+
+Elapsed Time: 4.59437 seconds
+
+
+
+Best Solution Cost: 163147254779
+
+Elapsed Time: 4.62112 seconds
+
+
+
+Best Solution Cost: 163082027355
+
+Elapsed Time: 14.2886 seconds
+
+
+
+Best Solution Cost: 163089585769
+
+Elapsed Time: 6.27171 seconds
+
+
+
+Best Solution Cost: 163289455258
+
+Elapsed Time: 4.69302 seconds
+
+
+
+Best Solution Cost: 163086680428
+
+Elapsed Time: 5.18643 seconds
+
+
+
+Best Solution Cost: 163082720052
+
+Elapsed Time: 3.88643 seconds
+
+
+
+Best Solution Cost: 163323397224
+
+Elapsed Time: 3.65358 seconds
+
+
+
+Best Solution Cost: 163157011543
+
+Elapsed Time: 6.16524 seconds
+
+
+
+Best Solution Cost: 163195538039
+
+Elapsed Time: 4.54547 seconds
+
+
+
+Best Solution Cost: 163338797506
+
+Elapsed Time: 4.28319 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 4.34965 seconds
+
+
+
+Best Solution Cost: 163435504546
+
+Elapsed Time: 6.07708 seconds
+
+
+
+Best Solution Cost: 163082740152
+
+Elapsed Time: 5.36571 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  É  J  Á  *  *  *  *
+  *  *  *  *  *  Ô  G  P  L  H  Ó  *  *  *
+  *  *  *  *  *  Q  U  R  E  T  Í  À  *  *
+  *  *  *  *  Y  B  M  A  _  S  V  W  *  *
+  *  *  *  *  *  Ú  D  N  O  I  Z  K  *  *
+  *  *  *  *  *  Ê  Ç  Ã  C  F  X  *  *  *
+  *  *  *  *  *  *  Õ  Â  -  '  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082027355
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163082016675
+
+Elapsed Time: 5.50653 seconds
+
+
+
+Best Solution Cost: 163082735172
+
+Elapsed Time: 7.66625 seconds
+
+
+
+Best Solution Cost: 163082026545
+
+Elapsed Time: 6.7118 seconds
+
+
+
+Best Solution Cost: 163332303181
+
+Elapsed Time: 5.01616 seconds
+
+
+
+Best Solution Cost: 163082746152
+
+Elapsed Time: 6.63362 seconds
+
+
+
+Best Solution Cost: 163122750523
+
+Elapsed Time: 8.6266 seconds
+
+
+
+Best Solution Cost: 163274996284
+
+Elapsed Time: 6.27235 seconds
+
+
+
+Best Solution Cost: 163138233086
+
+Elapsed Time: 6.01734 seconds
+
+
+
+Best Solution Cost: 163235591533
+
+Elapsed Time: 3.02737 seconds
+
+
+
+Best Solution Cost: 163275008464
+
+Elapsed Time: 4.36589 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 8.07708 seconds
+
+
+
+Best Solution Cost: 163082017065
+
+Elapsed Time: 8.58067 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 4.08985 seconds
+
+
+
+Best Solution Cost: 163085819017
+
+Elapsed Time: 5.56952 seconds
+
+
+
+Best Solution Cost: 163374297406
+
+Elapsed Time: 5.15243 seconds
+
+
+
+Best Solution Cost: 163435533466
+
+Elapsed Time: 6.15196 seconds
+
+
+
+Best Solution Cost: 163338785956
+
+Elapsed Time: 4.33877 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 5.83889 seconds
+
+
+
+Best Solution Cost: 163282562991
+
+Elapsed Time: 8.04197 seconds
+
+
+
+Best Solution Cost: 163449709731
+
+Elapsed Time: 3.54643 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Y  *  *  *  *  *  *
+  *  *  *  *  *  Ô  Q  B  Ú  Ê  *  *  *  *
+  *  *  *  *  *  G  U  M  D  Ç  Õ  *  *  *
+  *  *  *  *  É  P  R  A  N  Ã  Â  *  *  *
+  *  *  *  *  J  L  E  _  O  C  -  *  *  *
+  *  *  *  *  Á  H  T  S  I  F  '  *  *  *
+  *  *  *  *  *  Ó  Í  V  Z  X  *  *  *  *
+  *  *  *  *  *  *  À  W  K  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082016675
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163082747472
+
+Elapsed Time: 5.58555 seconds
+
+
+
+Best Solution Cost: 163516333955
+
+Elapsed Time: 3.43905 seconds
+
+
+
+Best Solution Cost: 163109623485
+
+Elapsed Time: 7.76702 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 12.35 seconds
+
+
+
+Best Solution Cost: 163275002254
+
+Elapsed Time: 4.31229 seconds
+
+
+
+Best Solution Cost: 163098482049
+
+Elapsed Time: 6.35654 seconds
+
+
+
+Best Solution Cost: 163094120461
+
+Elapsed Time: 4.15989 seconds
+
+
+
+Best Solution Cost: 163095040347
+
+Elapsed Time: 4.53726 seconds
+
+
+
+Best Solution Cost: 163085819617
+
+Elapsed Time: 8.9512 seconds
+
+
+
+Best Solution Cost: 163082042955
+
+Elapsed Time: 5.59438 seconds
+
+
+
+Best Solution Cost: 163136858443
+
+Elapsed Time: 4.83396 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 3.3469 seconds
+
+
+
+Best Solution Cost: 163095047097
+
+Elapsed Time: 5.06482 seconds
+
+
+
+Best Solution Cost: 163082025015
+
+Elapsed Time: 6.42735 seconds
+
+
+
+Best Solution Cost: 163085819017
+
+Elapsed Time: 5.45016 seconds
+
+
+
+Best Solution Cost: 163106041907
+
+Elapsed Time: 3.62911 seconds
+
+
+
+Best Solution Cost: 163086326042
+
+Elapsed Time: 4.63897 seconds
+
+
+
+Best Solution Cost: 163082025525
+
+Elapsed Time: 10.0029 seconds
+
+
+
+Best Solution Cost: 163366031356
+
+Elapsed Time: 5.49042 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 5.62135 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Y  *  *  *  *  *
+  *  *  *  *  *  *  Ô  Q  B  Ú  Ê  *  *  *
+  *  *  *  *  *  *  G  U  M  D  Ç  Õ  *  *
+  *  *  *  *  *  É  P  R  A  N  Ã  Â  *  *
+  *  *  *  *  *  J  L  E  _  O  C  -  *  *
+  *  *  *  *  *  Á  H  T  S  I  F  '  *  *
+  *  *  *  *  *  *  Ó  Í  V  Z  X  *  *  *
+  *  *  *  *  *  *  *  À  W  K  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082025015
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163195526459
+
+Elapsed Time: 6.2523 seconds
+
+
+
+Best Solution Cost: 163446777361
+
+Elapsed Time: 3.53012 seconds
+
+
+
+Best Solution Cost: 163288750888
+
+Elapsed Time: 3.63208 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 5.69129 seconds
+
+
+
+Best Solution Cost: 163387423009
+
+Elapsed Time: 4.87423 seconds
+
+
+
+Best Solution Cost: 163329732683
+
+Elapsed Time: 4.07103 seconds
+
+
+
+Best Solution Cost: 163082022765
+
+Elapsed Time: 11.6218 seconds
+
+
+
+Best Solution Cost: 163104078312
+
+Elapsed Time: 6.06134 seconds
+
+
+
+Best Solution Cost: 163082735472
+
+Elapsed Time: 6.74353 seconds
+
+
+
+Best Solution Cost: 163116683249
+
+Elapsed Time: 8.60262 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 5.08354 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 7.12513 seconds
+
+
+
+Best Solution Cost: 163275025024
+
+Elapsed Time: 7.87912 seconds
+
+
+
+Best Solution Cost: 163082013075
+
+Elapsed Time: 4.23792 seconds
+
+
+
+Best Solution Cost: 163082748372
+
+Elapsed Time: 11.8182 seconds
+
+
+
+Best Solution Cost: 163337690050
+
+Elapsed Time: 6.04014 seconds
+
+
+
+Best Solution Cost: 163414703830
+
+Elapsed Time: 5.92584 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 4.18578 seconds
+
+
+
+Best Solution Cost: 163085819017
+
+Elapsed Time: 8.14426 seconds
+
+
+
+Best Solution Cost: 163085819947
+
+Elapsed Time: 5.79476 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  '  -  Â  Õ  *  *  *  *  *  *  *  *
+  *  X  F  C  Ã  Ç  Ê  *  *  *  *  *  *  *
+  K  Z  I  O  N  D  Ú  *  *  *  *  *  *  *
+  W  V  S  _  A  M  B  Y  *  *  *  *  *  *
+  À  Í  T  E  R  U  Q  *  *  *  *  *  *  *
+  *  Ó  H  L  P  G  Ô  *  *  *  *  *  *  *
+  *  *  Á  J  É  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082013075
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 7.29286 seconds
+
+
+
+Best Solution Cost: 163337689600
+
+Elapsed Time: 9.49448 seconds
+
+
+
+Best Solution Cost: 163146575221
+
+Elapsed Time: 4.25418 seconds
+
+
+
+Best Solution Cost: 163082027355
+
+Elapsed Time: 5.41436 seconds
+
+
+
+Best Solution Cost: 163105187806
+
+Elapsed Time: 4.46919 seconds
+
+
+
+Best Solution Cost: 163366479659
+
+Elapsed Time: 7.78276 seconds
+
+
+
+Best Solution Cost: 163105195546
+
+Elapsed Time: 5.00116 seconds
+
+
+
+Best Solution Cost: 163435533466
+
+Elapsed Time: 6.28007 seconds
+
+
+
+Best Solution Cost: 163082892760
+
+Elapsed Time: 3.55301 seconds
+
+
+
+Best Solution Cost: 163387423669
+
+Elapsed Time: 5.69663 seconds
+
+
+
+Best Solution Cost: 163082026455
+
+Elapsed Time: 6.53023 seconds
+
+
+
+Best Solution Cost: 163082745942
+
+Elapsed Time: 12.0066 seconds
+
+
+
+Best Solution Cost: 163083607417
+
+Elapsed Time: 6.05068 seconds
+
+
+
+Best Solution Cost: 163085819017
+
+Elapsed Time: 4.56779 seconds
+
+
+
+Best Solution Cost: 163136865643
+
+Elapsed Time: 4.42007 seconds
+
+
+
+Best Solution Cost: 163275012544
+
+Elapsed Time: 5.22732 seconds
+
+
+
+Best Solution Cost: 163218128169
+
+Elapsed Time: 7.38882 seconds
+
+
+
+Best Solution Cost: 163085820517
+
+Elapsed Time: 3.87541 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 10.8539 seconds
+
+
+
+Best Solution Cost: 163219138682
+
+Elapsed Time: 6.56299 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  Õ  Â  -  '  *  *  *  *
+  *  *  *  *  *  Ê  Ç  Ã  C  F  X  *  *  *
+  *  *  *  *  *  Ú  D  N  O  I  Z  K  *  *
+  *  *  *  *  Y  B  M  A  _  S  V  W  *  *
+  *  *  *  *  *  Q  U  R  E  T  Í  À  *  *
+  *  *  *  *  *  Ô  G  P  L  H  Ó  *  *  *
+  *  *  *  *  *  *  *  É  J  Á  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082026455
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163095044877
+
+Elapsed Time: 4.91166 seconds
+
+
+
+Best Solution Cost: 163275016744
+
+Elapsed Time: 5.97002 seconds
+
+
+
+Best Solution Cost: 163082017125
+
+Elapsed Time: 9.45582 seconds
+
+
+
+Best Solution Cost: 163082746542
+
+Elapsed Time: 4.68444 seconds
+
+
+
+Best Solution Cost: 163082753172
+
+Elapsed Time: 4.94214 seconds
+
+
+
+Best Solution Cost: 163104110350
+
+Elapsed Time: 4.72027 seconds
+
+
+
+Best Solution Cost: 163094130091
+
+Elapsed Time: 3.76432 seconds
+
+
+
+Best Solution Cost: 163329752663
+
+Elapsed Time: 6.56072 seconds
+
+
+
+Best Solution Cost: 163125426044
+
+Elapsed Time: 3.8206 seconds
+
+
+
+Best Solution Cost: 163294318222
+
+Elapsed Time: 3.88521 seconds
+
+
+
+Best Solution Cost: 163082033625
+
+Elapsed Time: 12.1197 seconds
+
+
+
+Best Solution Cost: 163082025315
+
+Elapsed Time: 7.83315 seconds
+
+
+
+Best Solution Cost: 163480848757
+
+Elapsed Time: 3.62528 seconds
+
+
+
+Best Solution Cost: 163460902549
+
+Elapsed Time: 5.79791 seconds
+
+
+
+Best Solution Cost: 163082763642
+
+Elapsed Time: 4.05987 seconds
+
+
+
+Best Solution Cost: 163082780437
+
+Elapsed Time: 5.84316 seconds
+
+
+
+Best Solution Cost: 163195523849
+
+Elapsed Time: 3.40775 seconds
+
+
+
+Best Solution Cost: 163211310811
+
+Elapsed Time: 9.87803 seconds
+
+
+
+Best Solution Cost: 163105189726
+
+Elapsed Time: 9.65734 seconds
+
+
+
+Best Solution Cost: 163082025525
+
+Elapsed Time: 7.84634 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  K  W  À  *  *  *  *  *  *
+  *  *  *  *  X  Z  V  Í  Ó  *  *  *  *  *
+  *  *  *  '  F  I  S  T  H  Á  *  *  *  *
+  *  *  *  -  C  O  _  E  L  J  *  *  *  *
+  *  *  *  Â  Ã  N  A  R  P  É  *  *  *  *
+  *  *  *  Õ  Ç  D  M  U  G  *  *  *  *  *
+  *  *  *  *  Ê  Ú  B  Q  Ô  *  *  *  *  *
+  *  *  *  *  *  *  Y  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082017125
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163082745762
+
+Elapsed Time: 14.3659 seconds
+
+
+
+Best Solution Cost: 163082026155
+
+Elapsed Time: 13.2722 seconds
+
+
+
+Best Solution Cost: 163082785897
+
+Elapsed Time: 7.30403 seconds
+
+
+
+Best Solution Cost: 163437280297
+
+Elapsed Time: 3.96957 seconds
+
+
+
+Best Solution Cost: 163082029575
+
+Elapsed Time: 3.9901 seconds
+
+
+
+Best Solution Cost: 163460910739
+
+Elapsed Time: 4.58164 seconds
+
+
+
+Best Solution Cost: 163082028945
+
+Elapsed Time: 12.0553 seconds
+
+
+
+Best Solution Cost: 163340914626
+
+Elapsed Time: 3.7616 seconds
+
+
+
+Best Solution Cost: 163206771588
+
+Elapsed Time: 6.20255 seconds
+
+
+
+Best Solution Cost: 163435533466
+
+Elapsed Time: 4.85787 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 4.31167 seconds
+
+
+
+Best Solution Cost: 163082735922
+
+Elapsed Time: 12.9141 seconds
+
+
+
+Best Solution Cost: 163082029215
+
+Elapsed Time: 7.03066 seconds
+
+
+
+Best Solution Cost: 163468123391
+
+Elapsed Time: 4.12111 seconds
+
+
+
+Best Solution Cost: 163145207478
+
+Elapsed Time: 3.43802 seconds
+
+
+
+Best Solution Cost: 163082022615
+
+Elapsed Time: 10.9236 seconds
+
+
+
+Best Solution Cost: 163204561444
+
+Elapsed Time: 4.43496 seconds
+
+
+
+Best Solution Cost: 163279983810
+
+Elapsed Time: 3.83105 seconds
+
+
+
+Best Solution Cost: 163082015835
+
+Elapsed Time: 10.8347 seconds
+
+
+
+Best Solution Cost: 163437274027
+
+Elapsed Time: 4.75202 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  Y  *  *  *  *  *  *  *
+  *  *  *  *  Ê  Ú  B  Q  Ô  *  *  *  *  *
+  *  *  *  Õ  Ç  D  M  U  G  *  *  *  *  *
+  *  *  *  Â  Ã  N  A  R  P  É  *  *  *  *
+  *  *  *  -  C  O  _  E  L  J  *  *  *  *
+  *  *  *  '  F  I  S  T  H  Á  *  *  *  *
+  *  *  *  *  X  Z  V  Í  Ó  *  *  *  *  *
+  *  *  *  *  *  K  W  À  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082015835
+-----x-----
+Solving:  ENPT_Rand_5.txt :
+
+
+Best Solution Cost: 163147432006
+
+Elapsed Time: 6.88446 seconds
+
+
+
+Best Solution Cost: 163274033059
+
+Elapsed Time: 3.99664 seconds
+
+
+
+Best Solution Cost: 163082748192
+
+Elapsed Time: 4.90898 seconds
+
+
+
+Best Solution Cost: 163094127781
+
+Elapsed Time: 5.47953 seconds
+
+
+
+Best Solution Cost: 163085818627
+
+Elapsed Time: 7.18775 seconds
+
+
+
+Best Solution Cost: 163082750592
+
+Elapsed Time: 7.38868 seconds
+
+
+
+Best Solution Cost: 163337692870
+
+Elapsed Time: 7.37595 seconds
+
+
+
+Best Solution Cost: 163082023725
+
+Elapsed Time: 7.42747 seconds
+
+
+
+Best Solution Cost: 163388166109
+
+Elapsed Time: 5.84401 seconds
+
+
+
+Best Solution Cost: 163136865643
+
+Elapsed Time: 3.89032 seconds
+
+
+
+Best Solution Cost: 163310318740
+
+Elapsed Time: 6.17299 seconds
+
+
+
+Best Solution Cost: 163195533569
+
+Elapsed Time: 9.19816 seconds
+
+
+
+Best Solution Cost: 163154272150
+
+Elapsed Time: 7.51839 seconds
+
+
+
+Best Solution Cost: 163082744982
+
+Elapsed Time: 5.57606 seconds
+
+
+
+Best Solution Cost: 163435525096
+
+Elapsed Time: 5.12198 seconds
+
+
+
+Best Solution Cost: 163185720512
+
+Elapsed Time: 6.45382 seconds
+
+
+
+Best Solution Cost: 163435527016
+
+Elapsed Time: 6.05782 seconds
+
+
+
+Best Solution Cost: 163446770971
+
+Elapsed Time: 4.831 seconds
+
+
+
+Best Solution Cost: 163094111581
+
+Elapsed Time: 7.63511 seconds
+
+
+
+Best Solution Cost: 163082023575
+
+Elapsed Time: 8.68043 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  Y  *  *  *  *  *  *  *  *  *  *
+  *  Ê  Ú  B  Q  Ô  *  *  *  *  *  *  *  *
+  Õ  Ç  D  M  U  G  *  *  *  *  *  *  *  *
+  Â  Ã  N  A  R  P  É  *  *  *  *  *  *  *
+  -  C  O  _  E  L  J  *  *  *  *  *  *  *
+  '  F  I  S  T  H  Á  *  *  *  *  *  *  *
+  *  X  Z  V  Í  Ó  *  *  *  *  *  *  *  *
+  *  *  K  W  À  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 163082023575
+-----x-----

@@ -1,0 +1,3 @@
+
+Cost: 0.282854
+Words per minute: 42.42465

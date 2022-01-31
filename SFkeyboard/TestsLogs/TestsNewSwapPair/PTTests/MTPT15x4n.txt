@@ -1,0 +1,7 @@
+
+Portuguese_Rand_1.txt 16.5549
+Portuguese_Rand_2.txt 16.592
+Portuguese_Rand_3.txt 16.4293
+Portuguese_Rand_4.txt 16.5143
+Portuguese_Rand_5.txt 17.0764
+Portuguese.txt 16.8123

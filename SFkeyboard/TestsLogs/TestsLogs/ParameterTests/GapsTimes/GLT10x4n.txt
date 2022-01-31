@@ -1,0 +1,5 @@
+English.txt - Gap Mean by instance: 6.37192e-05%%
+French.txt - Gap Mean by instance: 0.00662648%%
+Italian.txt - Gap Mean by instance: 0%%
+Spanish.txt - Gap Mean by instance: 0.000482177%%
+

@@ -1,0 +1,858 @@
+ENFR
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791301349
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791301349
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+Solving:  ENFR.txt :
+
+-----x-----
+Best Global Solution Cost: 14791297112
+-----x-----
+ENFR_Rand
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+Solving:  ENFR_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 1335842414
+-----x-----
+ENFR_Rand
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+Solving:  ENFR_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 1335488258
+-----x-----
+ENFR_Rand
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+Solving:  ENFR_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 1340635460
+-----x-----
+ENFR_Rand
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+Solving:  ENFR_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 1345997834
+-----x-----
+ENFR_Rand
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+Solving:  ENFR_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 1339592850
+-----x-----
+ENIT
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+Solving:  ENIT.txt :
+
+-----x-----
+Best Global Solution Cost: 5285936686
+-----x-----
+ENIT_Rand
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+Solving:  ENIT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 3393703758
+-----x-----
+ENIT_Rand
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+Solving:  ENIT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 3407824969
+-----x-----
+ENIT_Rand
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+Solving:  ENIT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 3397282147
+-----x-----
+ENIT_Rand
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+Solving:  ENIT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 3412537681
+-----x-----
+ENIT_Rand
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+Solving:  ENIT_Rand_5.txt :
+
+-----x-----
+Best Global Solution Cost: 3408761792
+-----x-----
+ENPT
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+Solving:  ENPT.txt :
+
+-----x-----
+Best Global Solution Cost: 1125154222878
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194725220
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194732820
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194725295
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194740320
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194733345
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194741320
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194728595
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194730095
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194726170
+-----x-----
+Solving:  ENPT_Rand_1.txt :
+
+-----x-----
+Best Global Solution Cost: 158194738070
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599141504
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599141504
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599125032
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599149682
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154602426547
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599138894
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599140170
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599141098
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599139590
+-----x-----
+Solving:  ENPT_Rand_2.txt :
+
+-----x-----
+Best Global Solution Cost: 154599140315
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186630637418
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186643122718
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629802541
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629799153
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629765581
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186630429014
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629807469
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629794148
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186629777054
+-----x-----
+Solving:  ENPT_Rand_3.txt :
+
+-----x-----
+Best Global Solution Cost: 186643130726
+-----x-----
+ENPT_Rand
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801673343
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801650543
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801675025
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801670807
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801670237
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801672403
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801662342
+-----x-----
+Solving:  ENPT_Rand_4.txt :
+
+-----x-----
+Best Global Solution Cost: 156801670522
+-----x-----
+Solving:  ENPT_Rand_4.txt :

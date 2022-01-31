@@ -1,0 +1,101 @@
+
+
+Best Solution Cost: 8065511269
+
+Elapsed Time: 0.137474 seconds
+
+
+
+Best Solution Cost: 8067607190
+
+Elapsed Time: 0.187621 seconds
+
+
+
+Best Solution Cost: 8068854058
+
+Elapsed Time: 0.224648 seconds
+
+
+
+Best Solution Cost: 8067385162
+
+Elapsed Time: 0.220556 seconds
+
+
+
+Best Solution Cost: 8057857843
+
+Elapsed Time: 0.123274 seconds
+
+
+
+Best Solution Cost: 8083781538
+
+Elapsed Time: 0.144505 seconds
+
+
+
+Best Solution Cost: 8058046725
+
+Elapsed Time: 0.170893 seconds
+
+
+
+Best Solution Cost: 8084601543
+
+Elapsed Time: 0.0924928 seconds
+
+
+
+Best Solution Cost: 8073797791
+
+Elapsed Time: 0.105908 seconds
+
+
+
+Best Solution Cost: 8068774452
+
+Elapsed Time: 0.163986 seconds
+
+
+
+Best Solution Cost: 8057857843
+
+Elapsed Time: 0.166911 seconds
+
+
+
+Best Solution Cost: 8075662141
+
+Elapsed Time: 0.089632 seconds
+
+
+
+Best Solution Cost: 8074352086
+
+Elapsed Time: 0.102557 seconds
+
+
+
+Best Solution Cost: 8075662141
+
+Elapsed Time: 0.102535 seconds
+
+
+
+Best Solution Cost: 8087411509
+
+Elapsed Time: 0.0830388 seconds
+
+
+-----x-----
+Best Solution: 
+  *  Z  F  C  O  D  U  Q  J  *
+  *  K  V  I  N  S  E  M  G  X
+  *  W  H  L  T  A  R  P  B  Y
+
+-----x-----
+Best Global Solution Cost: 8057857843
+Global Time: 2.11603
+-----x-----

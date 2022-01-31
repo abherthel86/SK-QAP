@@ -1,0 +1,5 @@
+English.txt - Time Gap Mean by instance: -16.1028 %%
+French.txt - Time Gap Mean by instance: 0.764529 %%
+Italian.txt - Time Gap Mean by instance: 12.852 %%
+Spanish.txt - Time Gap Mean by instance: 5.51117 %%
+

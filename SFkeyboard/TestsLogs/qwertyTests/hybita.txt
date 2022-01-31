@@ -1,0 +1,11 @@
+
+-----x-----
+Best Solution: 
+  X  V  P  R  E  S  D  F  *  *
+  Y  B  M  A  T  O  C  H  K  *
+  W  Z  G  L  I  N  U  Q  J  *
+
+-----x-----
+Best Global Solution Cost: 2613909849
+Global Time: 8.25731
+-----x-----

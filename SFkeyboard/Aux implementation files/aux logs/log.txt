@@ -1,0 +1,29 @@
+D E L A ' T S à N U Q I P R O C X V M Y ê é F ù B G è H J ç ô ë W Z â K û î ï ä ø 
+Initial Solution: 
+  ô  ä  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  E  O  M  â  è  J  à  *  *  *  *  *
+  *  S  N  C  H  ë  B  ç  G  *  *  *  *  *
+  *  I  T  é  û  X  ø  ù  Z  *  *  *  *  *
+  *  *  R  P  V  ï  W  î  F  *  *  *  *  *
+  *  *  A  U  Q  ê  K  Y  '  *  *  *  *  *
+  *  *  *  *  *  L  D  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+Initial Solution Cost: 18625476059
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  ä  ï  J  X  ç  *  *  *  *  *
+  *  *  *  *  ë  '  D  U  Q  ù  *  *  *  *
+  *  *  *  *  Z  L  E  N  O  F  û  *  *  *
+  *  *  *  *  à  S  ø  T  I  V  K  *  *  *
+  *  *  *  *  Y  P  A  R  C  H  *  *  *  *
+  *  *  *  *  W  B  M  é  G  ô  *  *  *  *
+  *  *  *  *  *  î  ê  è  â  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Solution Best Cost: 13541416368

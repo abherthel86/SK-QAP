@@ -1,0 +1,29 @@
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+Initial Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  R  M  V  Y  *  *  *  *  *  *
+  *  *  *  E  U  Z  G  '  L  *  *  *  *  *
+  *  *  *  S  Q  H  _  B  J  *  *  *  *  *
+  *  *  *  *  P  X  F  -  D  *  *  *  *  *
+  *  *  *  *  O  C  K  W  N  *  *  *  *  *
+  *  *  *  *  *  T  A  I  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+Initial Solution Cost: 1585050337
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+  *  *  *  *  V  L  D  G  Z  *  *  *  *  *
+  *  *  *  -  Y  A  N  I  P  *  *  *  *  *
+  *  *  *  K  R  E  _  S  M  *  *  *  *  *
+  *  *  *  *  C  H  T  O  U  Q  *  *  *  *
+  *  *  *  *  X  B  W  F  J  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Solution Best Cost: 1199070166

@@ -1,0 +1,63 @@
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085351094134
+
+
+Best Solution Cost: 1085523597619
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085570350194
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085634042753
+
+
+Best Solution Cost: 1085259968469
+
+
+Best Solution Cost: 1085440265282
+
+
+Best Solution Cost: 1085259968469
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  X  *  *  *  *  *  *  *
+  *  *  *  *  K  Q  U  T  G  *  *  *  *  *
+  *  *  *  *  J  M  E  R  N  Z  *  *  *  *
+  *  *  *  *  B  S  _  A  I  V  *  *  *  *
+  *  *  *  *  Y  P  O  D  C  *  *  *  *  *
+  *  *  *  *  *  W  F  L  H  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1085259968469
+Global Time: 8.40717
+-----x-----

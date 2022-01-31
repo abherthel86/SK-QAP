@@ -1,0 +1,29 @@
+D E Q U N O A L S Y P R M e T C I a i H B G o V u F Z J n K X W w ? 
+Initial Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  O  I  S  *  *  *  *  *  *
+  *  *  *  *  N  M  C  T  R  *  *  *  *  *
+  *  *  *  A  P  X  w  n  Y  *  *  *  *  *
+  *  *  *  U  G  K  E  W  J  *  *  *  *  *
+  *  *  *  L  F  a  ?  D  o  *  *  *  *  *
+  *  *  *  *  H  Z  Q  u  e  *  *  *  *  *
+  *  *  *  *  *  V  i  B  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+Initial Solution Cost: 1675448315
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  w  *  *  *  *  *  *  *
+  *  *  *  *  X  o  G  F  *  *  *  *  *  *
+  *  *  *  *  B  I  D  U  Q  *  *  *  *  *
+  *  *  *  Z  M  R  E  N  e  *  *  *  *  *
+  *  *  *  i  C  A  ?  S  V  *  *  *  *  *
+  *  *  *  *  H  L  O  T  a  *  *  *  *  *
+  *  *  *  *  n  Y  P  J  u  *  *  *  *  *
+  *  *  *  *  *  W  K  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Solution Best Cost: 1229359070

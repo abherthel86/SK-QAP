@@ -1,0 +1,63 @@
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939961541
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+
+Best Solution Cost: 3939954074
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  W  V  M  B  Y  *  *  *  *  *  *  *
+  *  *  P  R  A  L  Z  *  *  *  *  *  *  *
+  *  X  D  E  _  I  G  *  *  *  *  *  *  *
+  *  J  U  N  O  C  F  *  *  *  *  *  *  *
+  *  *  Q  T  S  H  K  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 3939954074
+Global Time: 8.91387
+-----x-----

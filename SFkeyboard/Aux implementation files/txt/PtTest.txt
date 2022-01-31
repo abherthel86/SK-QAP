@@ -1,0 +1,49 @@
+
+
+Best Solution Cost: 1.464.964.953.177
+
+
+RVND Stats: Swap Count: 545 Time: 0,36s - Swap Pair Count: 4 Time: 4,24s - Move Contour Count: 371 Time: 0,56s
+Perturbation 1 Count: 5 Perturbation 2 Count: 4
+Elapsed Time: 5,164 seconds
+
+Cpu Time: 5,164 seconds
+
+
+
+Best Solution Cost: 1.414.258.896.250
+
+
+RVND Stats: Swap Count: 327 Time: 0,6s - Swap Pair Count: 5 Time: 6,676s - Move Contour Count: 196 Time: 0,864s
+Perturbation 1 Count: 4 Perturbation 2 Count: 7
+Elapsed Time: 2,996 seconds
+
+Cpu Time: 8,16 seconds
+
+d e a o q u m p r c n s Ã © Ã £ i Ã   f t h l b Ã ¡ j Ã § g v z Ã ª Ã ³ Ã º Ã ­ 
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  v  *  *  *  *  *  *  *  *
+  *  *  *  *  h  z  ³  l  *  *  *  *  *  *
+  *  *  *  *  Ã  Ã  m  q     *  *  *  *  *
+  *  *  *  º  Ã  g  ¡  p  i  *  *  *  *  *
+  *  *  *  a  n  r  Ã  t  f  *  *  *  *  *
+  *  *  *  j  Ã  §  ­  c  Ã  b  *  *  *  *
+  *  *  *  d  ©  o  e  £  Ã  *  *  *  *  *
+  *  *  *  *  u  ª  s  Ã  *  *  *  *  *  *
+  *  *  *  *  *  *  Ã  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  * 30  *  *  *  *  *  *  *  *
+  *  *  *  * 21 31 35 22  *  *  *  *  *  *
+  *  *  *  * 17 34  6  4 18  *  *  *  *  *
+  *  *  * 37 27 29 25  7 16  *  *  *  *  *
+  *  *  *  2 10  8 14 20 19  *  *  *  *  *
+  *  *  * 26 24 28 39  9 12 23  *  *  *  *
+  *  *  *  0 13  3  1 15 32  *  *  *  *  *
+  *  *  *  *  5 33 11 36  *  *  *  *  *  *
+  *  *  *  *  *  * 38  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1.414.258.896.250

@@ -1,0 +1,6540 @@
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11239519364
+
+Elapsed Time: 0.733325 seconds
+
+
+
+Best Solution Cost: 11244800393
+
+Elapsed Time: 2.19655 seconds
+
+
+
+Best Solution Cost: 11287298504
+
+Elapsed Time: 1.13775 seconds
+
+
+
+Best Solution Cost: 11287298504
+
+Elapsed Time: 0.871117 seconds
+
+
+
+Best Solution Cost: 11284780073
+
+Elapsed Time: 1.09965 seconds
+
+
+
+Best Solution Cost: 11241447201
+
+Elapsed Time: 0.945032 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.13477 seconds
+
+
+
+Best Solution Cost: 11239446565
+
+Elapsed Time: 0.746053 seconds
+
+
+
+Best Solution Cost: 11258286644
+
+Elapsed Time: 1.14713 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.31907 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.19784 seconds
+
+
+
+Best Solution Cost: 11245975135
+
+Elapsed Time: 1.47308 seconds
+
+
+
+Best Solution Cost: 11238628109
+
+Elapsed Time: 0.667985 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 0.983939 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.33936 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Ô  *  *  *  *  *
+  *  *  *  *  *  *  Â  Z  H  Á  Ê  *  *  *
+  *  *  *  *  *  *  V  I  N  T  G  Ó  *  *
+  *  *  *  *  *  Í  C  D  A  R  L  X  *  *
+  *  *  *  *  *  Ç  Ã  O  _  E  U  J  *  *
+  *  *  *  *  *  Õ  F  P  S  M  Q  K  *  *
+  *  *  *  *  *  *  W  À  É  B  Ú  *  *  *
+  *  *  *  *  *  *  *  *  -  Y  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 16.9927
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.18718 seconds
+
+
+
+Best Solution Cost: 11244635452
+
+Elapsed Time: 1.15661 seconds
+
+
+
+Best Solution Cost: 11245152366
+
+Elapsed Time: 2.01408 seconds
+
+
+
+Best Solution Cost: 11241367057
+
+Elapsed Time: 0.74626 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 0.75009 seconds
+
+
+
+Best Solution Cost: 11287327877
+
+Elapsed Time: 1.29358 seconds
+
+
+
+Best Solution Cost: 11245975135
+
+Elapsed Time: 1.48392 seconds
+
+
+
+Best Solution Cost: 11239208715
+
+Elapsed Time: 1.68198 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.61753 seconds
+
+
+
+Best Solution Cost: 11239072129
+
+Elapsed Time: 1.59378 seconds
+
+
+
+Best Solution Cost: 11238628109
+
+Elapsed Time: 2.58926 seconds
+
+
+
+Best Solution Cost: 11262515276
+
+Elapsed Time: 0.996435 seconds
+
+
+
+Best Solution Cost: 11243536005
+
+Elapsed Time: 2.0804 seconds
+
+
+
+Best Solution Cost: 11239340274
+
+Elapsed Time: 0.837912 seconds
+
+
+
+Best Solution Cost: 11244151441
+
+Elapsed Time: 1.11915 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  Ç  Í  *  *  *  *  *  *
+  *  *  *  *  W  F  Ã  C  V  Â  *  *  *  *
+  *  *  *  *  À  P  O  D  I  Z  *  *  *  *
+  *  *  *  -  É  S  _  A  N  H  Ô  *  *  *
+  *  *  *  Y  B  M  E  R  T  Á  *  *  *  *
+  *  *  *  *  Ú  Q  U  L  G  Ê  *  *  *  *
+  *  *  *  *  *  K  J  X  Ó  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 21.1482
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11250959853
+
+Elapsed Time: 0.730772 seconds
+
+
+
+Best Solution Cost: 11260206403
+
+Elapsed Time: 0.727699 seconds
+
+
+
+Best Solution Cost: 11250999067
+
+Elapsed Time: 0.592723 seconds
+
+
+
+Best Solution Cost: 11239510422
+
+Elapsed Time: 1.0597 seconds
+
+
+
+Best Solution Cost: 11248070582
+
+Elapsed Time: 1.07159 seconds
+
+
+
+Best Solution Cost: 11243879960
+
+Elapsed Time: 1.73032 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 0.993119 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.35881 seconds
+
+
+
+Best Solution Cost: 11306149755
+
+Elapsed Time: 0.890768 seconds
+
+
+
+Best Solution Cost: 11245975135
+
+Elapsed Time: 1.23708 seconds
+
+
+
+Best Solution Cost: 11300931821
+
+Elapsed Time: 1.11371 seconds
+
+
+
+Best Solution Cost: 11239072129
+
+Elapsed Time: 1.08562 seconds
+
+
+
+Best Solution Cost: 11239446565
+
+Elapsed Time: 1.00658 seconds
+
+
+
+Best Solution Cost: 11239446565
+
+Elapsed Time: 1.51181 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 1.05363 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  Y  -  *  *  *  *
+  *  *  *  *  *  *  *  Ú  B  É  À  W  *  *
+  *  *  *  *  *  *  K  Q  M  S  P  F  Õ  *
+  *  *  *  *  *  *  J  U  E  _  O  Ã  Ç  *
+  *  *  *  *  *  *  X  L  R  A  D  C  Í  *
+  *  *  *  *  *  *  Ó  G  T  N  I  V  *  *
+  *  *  *  *  *  *  *  Ê  Á  H  Z  Â  *  *
+  *  *  *  *  *  *  *  *  *  Ô  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 16.1639
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11244398667
+
+Elapsed Time: 2.69863 seconds
+
+
+
+Best Solution Cost: 11246029654
+
+Elapsed Time: 0.644431 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.17428 seconds
+
+
+
+Best Solution Cost: 11238628109
+
+Elapsed Time: 1.37274 seconds
+
+
+
+Best Solution Cost: 11241925656
+
+Elapsed Time: 1.51001 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 0.676106 seconds
+
+
+
+Best Solution Cost: 11239314426
+
+Elapsed Time: 0.888161 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 1.2333 seconds
+
+
+
+Best Solution Cost: 11238628109
+
+Elapsed Time: 1.18654 seconds
+
+
+
+Best Solution Cost: 11239456973
+
+Elapsed Time: 1.00071 seconds
+
+
+
+Best Solution Cost: 11283822916
+
+Elapsed Time: 1.40101 seconds
+
+
+
+Best Solution Cost: 11239208715
+
+Elapsed Time: 1.40151 seconds
+
+
+
+Best Solution Cost: 11247223098
+
+Elapsed Time: 0.550302 seconds
+
+
+
+Best Solution Cost: 11288161733
+
+Elapsed Time: 1.4813 seconds
+
+
+
+Best Solution Cost: 11269077410
+
+Elapsed Time: 0.76557 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Í  Ç  Õ  *  *  *
+  *  *  *  *  *  *  Â  V  C  Ã  F  W  *  *
+  *  *  *  *  *  *  Z  I  D  O  P  À  *  *
+  *  *  *  *  *  Ô  H  N  A  _  S  É  -  *
+  *  *  *  *  *  *  Á  T  R  E  M  B  Y  *
+  *  *  *  *  *  *  Ê  G  L  U  Q  Ú  *  *
+  *  *  *  *  *  *  *  Ó  X  J  K  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 17.9846
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11247845279
+
+Elapsed Time: 1.33471 seconds
+
+
+
+Best Solution Cost: 11239900993
+
+Elapsed Time: 1.16365 seconds
+
+
+
+Best Solution Cost: 11248938142
+
+Elapsed Time: 0.915012 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 1.51316 seconds
+
+
+
+Best Solution Cost: 11239519364
+
+Elapsed Time: 1.62609 seconds
+
+
+
+Best Solution Cost: 11259591935
+
+Elapsed Time: 1.7414 seconds
+
+
+
+Best Solution Cost: 11246441233
+
+Elapsed Time: 0.956109 seconds
+
+
+
+Best Solution Cost: 11275825110
+
+Elapsed Time: 0.751383 seconds
+
+
+
+Best Solution Cost: 11240854532
+
+Elapsed Time: 0.845531 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 1.05328 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.59466 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 2.13556 seconds
+
+
+
+Best Solution Cost: 11243513161
+
+Elapsed Time: 1.47704 seconds
+
+
+
+Best Solution Cost: 11245719424
+
+Elapsed Time: 0.73439 seconds
+
+
+
+Best Solution Cost: 11239314426
+
+Elapsed Time: 0.988636 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  K  J  X  Ó  *  *  *  *  *  *
+  *  *  *  Ú  Q  U  L  G  Ê  *  *  *  *  *
+  *  *  Y  B  M  E  R  T  Á  *  *  *  *  *
+  *  *  -  É  S  _  A  N  H  Ô  *  *  *  *
+  *  *  *  À  P  O  D  I  Z  *  *  *  *  *
+  *  *  *  W  F  Ã  C  V  Â  *  *  *  *  *
+  *  *  *  *  Õ  Ç  Í  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 18.8306
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.23425 seconds
+
+
+
+Best Solution Cost: 11251027135
+
+Elapsed Time: 1.13074 seconds
+
+
+
+Best Solution Cost: 11249077516
+
+Elapsed Time: 1.32906 seconds
+
+
+
+Best Solution Cost: 11249037939
+
+Elapsed Time: 1.15861 seconds
+
+
+
+Best Solution Cost: 11247311419
+
+Elapsed Time: 0.7366 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.19525 seconds
+
+
+
+Best Solution Cost: 11247813561
+
+Elapsed Time: 1.54387 seconds
+
+
+
+Best Solution Cost: 11284780073
+
+Elapsed Time: 0.965457 seconds
+
+
+
+Best Solution Cost: 11247587096
+
+Elapsed Time: 1.74546 seconds
+
+
+
+Best Solution Cost: 11287298504
+
+Elapsed Time: 1.17317 seconds
+
+
+
+Best Solution Cost: 11239510422
+
+Elapsed Time: 0.858002 seconds
+
+
+
+Best Solution Cost: 11239471182
+
+Elapsed Time: 1.19926 seconds
+
+
+
+Best Solution Cost: 11261186950
+
+Elapsed Time: 1.72668 seconds
+
+
+
+Best Solution Cost: 11259440627
+
+Elapsed Time: 1.72058 seconds
+
+
+
+Best Solution Cost: 11244266849
+
+Elapsed Time: 0.918728 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  Ç  Í  *  *  *  *  *  *
+  *  *  *  *  W  F  Ã  C  V  Â  *  *  *  *
+  *  *  *  *  À  P  O  D  I  Z  *  *  *  *
+  *  *  *  -  É  S  _  A  N  H  Ô  *  *  *
+  *  *  *  Y  B  M  E  R  T  Á  *  *  *  *
+  *  *  *  *  Ú  Q  U  L  G  Ê  *  *  *  *
+  *  *  *  *  *  K  J  X  Ó  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 18.6357
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11239379514
+
+Elapsed Time: 1.44991 seconds
+
+
+
+Best Solution Cost: 11243913834
+
+Elapsed Time: 0.847169 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.25039 seconds
+
+
+
+Best Solution Cost: 11239519364
+
+Elapsed Time: 1.53948 seconds
+
+
+
+Best Solution Cost: 11241716404
+
+Elapsed Time: 1.50877 seconds
+
+
+
+Best Solution Cost: 11244650244
+
+Elapsed Time: 1.00481 seconds
+
+
+
+Best Solution Cost: 11287509590
+
+Elapsed Time: 0.68285 seconds
+
+
+
+Best Solution Cost: 11238628109
+
+Elapsed Time: 0.971593 seconds
+
+
+
+Best Solution Cost: 11246607822
+
+Elapsed Time: 0.955024 seconds
+
+
+
+Best Solution Cost: 11246495432
+
+Elapsed Time: 0.867006 seconds
+
+
+
+Best Solution Cost: 11239379514
+
+Elapsed Time: 0.750601 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.66437 seconds
+
+
+
+Best Solution Cost: 11261170035
+
+Elapsed Time: 0.986228 seconds
+
+
+
+Best Solution Cost: 11239510422
+
+Elapsed Time: 1.00079 seconds
+
+
+
+Best Solution Cost: 11239446565
+
+Elapsed Time: 0.665124 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  Õ  Ç  Í  *  *  *  *  *  *  *  *
+  *  *  W  F  Ã  C  V  Â  *  *  *  *  *  *
+  *  *  À  P  O  D  I  Z  *  *  *  *  *  *
+  *  -  É  S  _  A  N  H  Ô  *  *  *  *  *
+  *  Y  B  M  E  R  T  Á  *  *  *  *  *  *
+  *  *  Ú  Q  U  L  G  Ê  *  *  *  *  *  *
+  *  *  *  K  J  X  Ó  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 16.1441
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11243576473
+
+Elapsed Time: 1.02028 seconds
+
+
+
+Best Solution Cost: 11275372095
+
+Elapsed Time: 0.760465 seconds
+
+
+
+Best Solution Cost: 11245975135
+
+Elapsed Time: 1.35555 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 0.854022 seconds
+
+
+
+Best Solution Cost: 11241386375
+
+Elapsed Time: 0.713963 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.96518 seconds
+
+
+
+Best Solution Cost: 11239446565
+
+Elapsed Time: 0.920178 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.67971 seconds
+
+
+
+Best Solution Cost: 11254032097
+
+Elapsed Time: 1.05096 seconds
+
+
+
+Best Solution Cost: 11242467936
+
+Elapsed Time: 1.62231 seconds
+
+
+
+Best Solution Cost: 11260824766
+
+Elapsed Time: 1.09524 seconds
+
+
+
+Best Solution Cost: 11287357686
+
+Elapsed Time: 1.29975 seconds
+
+
+
+Best Solution Cost: 11248938142
+
+Elapsed Time: 1.28591 seconds
+
+
+
+Best Solution Cost: 11245071816
+
+Elapsed Time: 1.56063 seconds
+
+
+
+Best Solution Cost: 11243050007
+
+Elapsed Time: 1.16166 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  Ç  Í  *  *  *  *  *  *
+  *  *  *  *  W  F  Ã  C  V  Â  *  *  *  *
+  *  *  *  *  À  P  O  D  I  Z  *  *  *  *
+  *  *  *  -  É  S  _  A  N  H  Ô  *  *  *
+  *  *  *  Y  B  M  E  R  T  Á  *  *  *  *
+  *  *  *  *  Ú  Q  U  L  G  Ê  *  *  *  *
+  *  *  *  *  *  K  J  X  Ó  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 18.3458
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11260824766
+
+Elapsed Time: 0.603926 seconds
+
+
+
+Best Solution Cost: 11239905743
+
+Elapsed Time: 1.26045 seconds
+
+
+
+Best Solution Cost: 11257645474
+
+Elapsed Time: 0.611931 seconds
+
+
+
+Best Solution Cost: 11249332606
+
+Elapsed Time: 0.776208 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.6712 seconds
+
+
+
+Best Solution Cost: 11245320890
+
+Elapsed Time: 1.18979 seconds
+
+
+
+Best Solution Cost: 11248070582
+
+Elapsed Time: 0.847261 seconds
+
+
+
+Best Solution Cost: 11239072129
+
+Elapsed Time: 1.72411 seconds
+
+
+
+Best Solution Cost: 11247311419
+
+Elapsed Time: 0.795062 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.46372 seconds
+
+
+
+Best Solution Cost: 11248070582
+
+Elapsed Time: 1.16678 seconds
+
+
+
+Best Solution Cost: 11247311419
+
+Elapsed Time: 0.857315 seconds
+
+
+
+Best Solution Cost: 11245719424
+
+Elapsed Time: 1.57805 seconds
+
+
+
+Best Solution Cost: 11239353666
+
+Elapsed Time: 0.802864 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 0.989009 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  Õ  Ç  Í  *  *  *  *  *  *  *  *
+  *  *  W  F  Ã  C  V  Â  *  *  *  *  *  *
+  *  *  À  P  O  D  I  Z  *  *  *  *  *  *
+  *  -  É  S  _  A  N  H  Ô  *  *  *  *  *
+  *  Y  B  M  E  R  T  Á  *  *  *  *  *  *
+  *  *  Ú  Q  U  L  G  Ê  *  *  *  *  *  *
+  *  *  *  K  J  X  Ó  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 16.3377
+-----x-----
+Solving:  Portuguese.txt :
+
+
+Best Solution Cost: 11239072129
+
+Elapsed Time: 1.13516 seconds
+
+
+
+Best Solution Cost: 11242544596
+
+Elapsed Time: 1.24782 seconds
+
+
+
+Best Solution Cost: 11245333994
+
+Elapsed Time: 0.652396 seconds
+
+
+
+Best Solution Cost: 11241445483
+
+Elapsed Time: 1.05769 seconds
+
+
+
+Best Solution Cost: 11356121626
+
+Elapsed Time: 0.556217 seconds
+
+
+
+Best Solution Cost: 11239519364
+
+Elapsed Time: 1.14607 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 0.682317 seconds
+
+
+
+Best Solution Cost: 11238588869
+
+Elapsed Time: 1.47909 seconds
+
+
+
+Best Solution Cost: 11287298504
+
+Elapsed Time: 1.36049 seconds
+
+
+
+Best Solution Cost: 11243879960
+
+Elapsed Time: 1.01613 seconds
+
+
+
+Best Solution Cost: 11246029654
+
+Elapsed Time: 0.691467 seconds
+
+
+
+Best Solution Cost: 11245320890
+
+Elapsed Time: 1.31208 seconds
+
+
+
+Best Solution Cost: 11248088045
+
+Elapsed Time: 1.17528 seconds
+
+
+
+Best Solution Cost: 11239905743
+
+Elapsed Time: 1.03856 seconds
+
+
+
+Best Solution Cost: 11238379851
+
+Elapsed Time: 1.54647 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  Ó  X  J  K  *  *  *  *  *  *  *  *
+  *  Ê  G  L  U  Q  Ú  *  *  *  *  *  *  *
+  *  Á  T  R  E  M  B  Y  *  *  *  *  *  *
+  Ô  H  N  A  _  S  É  -  *  *  *  *  *  *
+  *  Z  I  D  O  P  À  *  *  *  *  *  *  *
+  *  Â  V  C  Ã  F  W  *  *  *  *  *  *  *
+  *  *  *  Í  Ç  Õ  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 11238379851
+Global Time: 16.0972
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1580708550
+
+Elapsed Time: 0.634312 seconds
+
+
+
+Best Solution Cost: 1577507158
+
+Elapsed Time: 1.18246 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.60996 seconds
+
+
+
+Best Solution Cost: 1576801336
+
+Elapsed Time: 1.03829 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.5161 seconds
+
+
+
+Best Solution Cost: 1575048862
+
+Elapsed Time: 1.19069 seconds
+
+
+
+Best Solution Cost: 1576081464
+
+Elapsed Time: 0.709615 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 1.48828 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.06724 seconds
+
+
+
+Best Solution Cost: 1583452376
+
+Elapsed Time: 0.983914 seconds
+
+
+
+Best Solution Cost: 1575048862
+
+Elapsed Time: 1.34278 seconds
+
+
+
+Best Solution Cost: 1589045172
+
+Elapsed Time: 0.883882 seconds
+
+
+
+Best Solution Cost: 1587047169
+
+Elapsed Time: 0.879402 seconds
+
+
+
+Best Solution Cost: 1589245962
+
+Elapsed Time: 0.594093 seconds
+
+
+
+Best Solution Cost: 1581504632
+
+Elapsed Time: 1.08537 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Y  Á  -  *  *  *  *  *  *
+  *  *  *  *  K  É  B  G  Q  *  *  *  *  *
+  *  *  *  Â  À  M  R  L  U  J  *  *  *  *
+  *  *  *  Ó  P  O  _  A  T  Ê  *  *  *  *
+  *  *  *  W  Ã  C  S  E  N  H  Ô  *  *  *
+  *  *  *  *  Ç  F  I  D  V  Ú  *  *  *  *
+  *  *  *  *  *  Õ  X  Z  Í  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 18.2064
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1574171760
+
+Elapsed Time: 1.27758 seconds
+
+
+
+Best Solution Cost: 1577263898
+
+Elapsed Time: 1.65728 seconds
+
+
+
+Best Solution Cost: 1574183501
+
+Elapsed Time: 1.38158 seconds
+
+
+
+Best Solution Cost: 1574137263
+
+Elapsed Time: 0.887104 seconds
+
+
+
+Best Solution Cost: 1577526629
+
+Elapsed Time: 1.43426 seconds
+
+
+
+Best Solution Cost: 1578443117
+
+Elapsed Time: 0.807375 seconds
+
+
+
+Best Solution Cost: 1579031114
+
+Elapsed Time: 1.68291 seconds
+
+
+
+Best Solution Cost: 1575049659
+
+Elapsed Time: 1.4841 seconds
+
+
+
+Best Solution Cost: 1576972750
+
+Elapsed Time: 1.40083 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.999919 seconds
+
+
+
+Best Solution Cost: 1575558490
+
+Elapsed Time: 0.737656 seconds
+
+
+
+Best Solution Cost: 1575048862
+
+Elapsed Time: 1.0893 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.0322 seconds
+
+
+
+Best Solution Cost: 1574171760
+
+Elapsed Time: 1.3682 seconds
+
+
+
+Best Solution Cost: 1574005351
+
+Elapsed Time: 0.826376 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Y  Á  -  *  *  *  *
+  *  *  *  *  *  *  K  É  B  G  Q  *  *  *
+  *  *  *  *  *  Â  À  M  R  L  U  J  *  *
+  *  *  *  *  *  Ó  P  O  _  A  T  Ê  *  *
+  *  *  *  *  *  W  Ã  C  S  E  N  H  Ô  *
+  *  *  *  *  *  *  Ç  F  I  D  V  Ú  *  *
+  *  *  *  *  *  *  *  Õ  X  Z  Í  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 18.0667
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1575605120
+
+Elapsed Time: 1.58649 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.832639 seconds
+
+
+
+Best Solution Cost: 1578870956
+
+Elapsed Time: 2.08012 seconds
+
+
+
+Best Solution Cost: 1579662611
+
+Elapsed Time: 0.747904 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.20021 seconds
+
+
+
+Best Solution Cost: 1575693790
+
+Elapsed Time: 0.662787 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.797228 seconds
+
+
+
+Best Solution Cost: 1574465501
+
+Elapsed Time: 0.99192 seconds
+
+
+
+Best Solution Cost: 1574137263
+
+Elapsed Time: 1.03934 seconds
+
+
+
+Best Solution Cost: 1575693790
+
+Elapsed Time: 1.49344 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 0.795509 seconds
+
+
+
+Best Solution Cost: 1574331534
+
+Elapsed Time: 0.725805 seconds
+
+
+
+Best Solution Cost: 1573896368
+
+Elapsed Time: 1.04145 seconds
+
+
+
+Best Solution Cost: 1575558490
+
+Elapsed Time: 0.94299 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 0.862719 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  W  Ó  Â  *  *  *  *  *  *  *
+  *  *  *  Ç  Ã  P  À  K  *  *  *  *  *  *
+  *  *  Õ  F  C  O  M  É  Y  *  *  *  *  *
+  *  *  X  I  S  _  R  B  Á  *  *  *  *  *
+  *  *  Z  D  E  A  L  G  -  *  *  *  *  *
+  *  *  Í  V  N  T  U  Q  *  *  *  *  *  *
+  *  *  *  Ú  H  Ê  J  *  *  *  *  *  *  *
+  *  *  *  *  Ô  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 15.8005
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1573993032
+
+Elapsed Time: 0.926136 seconds
+
+
+
+Best Solution Cost: 1573367313
+
+Elapsed Time: 0.909236 seconds
+
+
+
+Best Solution Cost: 1575048862
+
+Elapsed Time: 0.590456 seconds
+
+
+
+Best Solution Cost: 1573896368
+
+Elapsed Time: 1.4059 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.92105 seconds
+
+
+
+Best Solution Cost: 1573367313
+
+Elapsed Time: 1.13431 seconds
+
+
+
+Best Solution Cost: 1575581980
+
+Elapsed Time: 0.864626 seconds
+
+
+
+Best Solution Cost: 1574183501
+
+Elapsed Time: 1.7066 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.07398 seconds
+
+
+
+Best Solution Cost: 1575586972
+
+Elapsed Time: 1.16527 seconds
+
+
+
+Best Solution Cost: 1575106075
+
+Elapsed Time: 1.26818 seconds
+
+
+
+Best Solution Cost: 1575878214
+
+Elapsed Time: 0.786641 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.22296 seconds
+
+
+
+Best Solution Cost: 1580334761
+
+Elapsed Time: 0.577341 seconds
+
+
+
+Best Solution Cost: 1575693790
+
+Elapsed Time: 1.08437 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  Õ  X  Z  Í  *  *  *
+  *  *  *  *  *  *  Ç  F  I  D  V  Ú  *  *
+  *  *  *  *  *  W  Ã  C  S  E  N  H  Ô  *
+  *  *  *  *  *  Ó  P  O  _  A  T  Ê  *  *
+  *  *  *  *  *  Â  À  M  R  L  U  J  *  *
+  *  *  *  *  *  *  K  É  B  G  Q  *  *  *
+  *  *  *  *  *  *  *  Y  Á  -  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 17.6371
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.19768 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 1.80504 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 1.50365 seconds
+
+
+
+Best Solution Cost: 1574130920
+
+Elapsed Time: 0.932906 seconds
+
+
+
+Best Solution Cost: 1577532358
+
+Elapsed Time: 1.5592 seconds
+
+
+
+Best Solution Cost: 1576845096
+
+Elapsed Time: 1.16229 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.21735 seconds
+
+
+
+Best Solution Cost: 1574497743
+
+Elapsed Time: 1.19964 seconds
+
+
+
+Best Solution Cost: 1585251055
+
+Elapsed Time: 0.623617 seconds
+
+
+
+Best Solution Cost: 1580424318
+
+Elapsed Time: 0.927069 seconds
+
+
+
+Best Solution Cost: 1573993032
+
+Elapsed Time: 1.35335 seconds
+
+
+
+Best Solution Cost: 1575297283
+
+Elapsed Time: 1.09571 seconds
+
+
+
+Best Solution Cost: 1580699154
+
+Elapsed Time: 1.59145 seconds
+
+
+
+Best Solution Cost: 1575605120
+
+Elapsed Time: 1.03641 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.12718 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  Õ  X  Z  Í  *  *
+  *  *  *  *  *  *  *  Ç  F  I  D  V  Ú  *
+  *  *  *  *  *  *  W  Ã  C  S  E  N  H  Ô
+  *  *  *  *  *  *  Ó  P  O  _  A  T  Ê  *
+  *  *  *  *  *  *  Â  À  M  R  L  U  J  *
+  *  *  *  *  *  *  *  K  É  B  G  Q  *  *
+  *  *  *  *  *  *  *  *  Y  Á  -  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 18.3325
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.54645 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 0.734192 seconds
+
+
+
+Best Solution Cost: 1575607522
+
+Elapsed Time: 1.63845 seconds
+
+
+
+Best Solution Cost: 1574281609
+
+Elapsed Time: 0.956089 seconds
+
+
+
+Best Solution Cost: 1575693790
+
+Elapsed Time: 0.898602 seconds
+
+
+
+Best Solution Cost: 1573367313
+
+Elapsed Time: 1.07763 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 0.759111 seconds
+
+
+
+Best Solution Cost: 1591624872
+
+Elapsed Time: 1.02322 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.71991 seconds
+
+
+
+Best Solution Cost: 1573922162
+
+Elapsed Time: 1.04553 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.634418 seconds
+
+
+
+Best Solution Cost: 1574183501
+
+Elapsed Time: 1.71053 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 1.52865 seconds
+
+
+
+Best Solution Cost: 1573367313
+
+Elapsed Time: 0.695677 seconds
+
+
+
+Best Solution Cost: 1577526629
+
+Elapsed Time: 1.52963 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  -  Á  Y  *  *  *  *  *  *  *
+  *  *  *  Q  G  B  É  K  *  *  *  *  *  *
+  *  *  J  U  L  R  M  À  Â  *  *  *  *  *
+  *  *  Ê  T  A  _  O  P  Ó  *  *  *  *  *
+  *  Ô  H  N  E  S  C  Ã  W  *  *  *  *  *
+  *  *  Ú  V  D  I  F  Ç  *  *  *  *  *  *
+  *  *  *  Í  Z  X  Õ  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 17.4981
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1575288840
+
+Elapsed Time: 1.47823 seconds
+
+
+
+Best Solution Cost: 1575607677
+
+Elapsed Time: 1.2429 seconds
+
+
+
+Best Solution Cost: 1576034287
+
+Elapsed Time: 1.1754 seconds
+
+
+
+Best Solution Cost: 1573993032
+
+Elapsed Time: 0.893858 seconds
+
+
+
+Best Solution Cost: 1575640243
+
+Elapsed Time: 0.671954 seconds
+
+
+
+Best Solution Cost: 1574010142
+
+Elapsed Time: 0.889227 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.765095 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.04204 seconds
+
+
+
+Best Solution Cost: 1574305933
+
+Elapsed Time: 1.74572 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.02979 seconds
+
+
+
+Best Solution Cost: 1574171760
+
+Elapsed Time: 1.47758 seconds
+
+
+
+Best Solution Cost: 1574039052
+
+Elapsed Time: 1.99442 seconds
+
+
+
+Best Solution Cost: 1574465501
+
+Elapsed Time: 1.38439 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 0.772506 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.17146 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  -  Á  Y  *  *  *  *  *  *
+  *  *  *  *  Q  G  B  É  K  *  *  *  *  *
+  *  *  *  J  U  L  R  M  À  Â  *  *  *  *
+  *  *  *  Ê  T  A  _  O  P  Ó  *  *  *  *
+  *  *  Ô  H  N  E  S  C  Ã  W  *  *  *  *
+  *  *  *  Ú  V  D  I  F  Ç  *  *  *  *  *
+  *  *  *  *  Í  Z  X  Õ  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 19.7346
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1578553255
+
+Elapsed Time: 0.631332 seconds
+
+
+
+Best Solution Cost: 1573329669
+
+Elapsed Time: 1.7858 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.678726 seconds
+
+
+
+Best Solution Cost: 1573997134
+
+Elapsed Time: 1.30411 seconds
+
+
+
+Best Solution Cost: 1575848424
+
+Elapsed Time: 0.963835 seconds
+
+
+
+Best Solution Cost: 1576512465
+
+Elapsed Time: 1.08882 seconds
+
+
+
+Best Solution Cost: 1580380331
+
+Elapsed Time: 0.73851 seconds
+
+
+
+Best Solution Cost: 1573329669
+
+Elapsed Time: 0.737898 seconds
+
+
+
+Best Solution Cost: 1573617602
+
+Elapsed Time: 1.64817 seconds
+
+
+
+Best Solution Cost: 1573367313
+
+Elapsed Time: 0.602787 seconds
+
+
+
+Best Solution Cost: 1579307874
+
+Elapsed Time: 1.60309 seconds
+
+
+
+Best Solution Cost: 1574352089
+
+Elapsed Time: 0.886011 seconds
+
+
+
+Best Solution Cost: 1574533488
+
+Elapsed Time: 0.728293 seconds
+
+
+
+Best Solution Cost: 1575483104
+
+Elapsed Time: 1.16019 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.28653 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Â  Ó  W  *  *  *  *
+  *  *  *  *  *  *  K  À  P  Ã  Ç  *  *  *
+  *  *  *  *  *  Y  É  M  O  C  F  Õ  *  *
+  *  *  *  *  *  Á  B  R  _  S  I  X  *  *
+  *  *  *  *  *  -  G  L  A  E  D  Z  *  *
+  *  *  *  *  *  *  Q  U  T  N  V  Í  *  *
+  *  *  *  *  *  *  *  J  Ê  H  Ú  *  *  *
+  *  *  *  *  *  *  *  *  *  Ô  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 15.8441
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1577742891
+
+Elapsed Time: 0.982592 seconds
+
+
+
+Best Solution Cost: 1580334487
+
+Elapsed Time: 1.05613 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 2.78294 seconds
+
+
+
+Best Solution Cost: 1575640243
+
+Elapsed Time: 0.868332 seconds
+
+
+
+Best Solution Cost: 1577549663
+
+Elapsed Time: 0.86429 seconds
+
+
+
+Best Solution Cost: 1574497743
+
+Elapsed Time: 0.9278 seconds
+
+
+
+Best Solution Cost: 1580276510
+
+Elapsed Time: 1.27915 seconds
+
+
+
+Best Solution Cost: 1576054210
+
+Elapsed Time: 0.729861 seconds
+
+
+
+Best Solution Cost: 1574088050
+
+Elapsed Time: 1.18101 seconds
+
+
+
+Best Solution Cost: 1575693790
+
+Elapsed Time: 0.79639 seconds
+
+
+
+Best Solution Cost: 1579606536
+
+Elapsed Time: 0.934627 seconds
+
+
+
+Best Solution Cost: 1575878214
+
+Elapsed Time: 1.03951 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.17453 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.01725 seconds
+
+
+
+Best Solution Cost: 1573856036
+
+Elapsed Time: 0.677179 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Â  Ó  W  *  *  *  *
+  *  *  *  *  *  *  K  À  P  Ã  Ç  *  *  *
+  *  *  *  *  *  Y  É  M  O  C  F  Õ  *  *
+  *  *  *  *  *  Á  B  R  _  S  I  X  *  *
+  *  *  *  *  *  -  G  L  A  E  D  Z  *  *
+  *  *  *  *  *  *  Q  U  T  N  V  Í  *  *
+  *  *  *  *  *  *  *  J  Ê  H  Ú  *  *  *
+  *  *  *  *  *  *  *  *  *  Ô  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 16.3116
+-----x-----
+Solving:  Portuguese_Rand_1.txt :
+
+
+Best Solution Cost: 1575605120
+
+Elapsed Time: 0.779355 seconds
+
+
+
+Best Solution Cost: 1573993032
+
+Elapsed Time: 1.16651 seconds
+
+
+
+Best Solution Cost: 1576018450
+
+Elapsed Time: 0.769381 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 0.961526 seconds
+
+
+
+Best Solution Cost: 1575209121
+
+Elapsed Time: 0.863234 seconds
+
+
+
+Best Solution Cost: 1575943915
+
+Elapsed Time: 0.761223 seconds
+
+
+
+Best Solution Cost: 1574319421
+
+Elapsed Time: 0.946872 seconds
+
+
+
+Best Solution Cost: 1575288840
+
+Elapsed Time: 0.627993 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 1.46063 seconds
+
+
+
+Best Solution Cost: 1581371188
+
+Elapsed Time: 0.601195 seconds
+
+
+
+Best Solution Cost: 1575525769
+
+Elapsed Time: 1.233 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.892785 seconds
+
+
+
+Best Solution Cost: 1573327186
+
+Elapsed Time: 0.778967 seconds
+
+
+
+Best Solution Cost: 1574274114
+
+Elapsed Time: 1.682 seconds
+
+
+
+Best Solution Cost: 1583317226
+
+Elapsed Time: 0.596677 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  -  Á  Y  *  *  *  *  *  *  *
+  *  *  *  Q  G  B  É  K  *  *  *  *  *  *
+  *  *  J  U  L  R  M  À  Â  *  *  *  *  *
+  *  *  Ê  T  A  _  O  P  Ó  *  *  *  *  *
+  *  Ô  H  N  E  S  C  Ã  W  *  *  *  *  *
+  *  *  Ú  V  D  I  F  Ç  *  *  *  *  *  *
+  *  *  *  Í  Z  X  Õ  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1573327186
+Global Time: 14.1213
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1536886757
+
+Elapsed Time: 1.4896 seconds
+
+
+
+Best Solution Cost: 1541964359
+
+Elapsed Time: 0.766001 seconds
+
+
+
+Best Solution Cost: 1540034387
+
+Elapsed Time: 1.03194 seconds
+
+
+
+Best Solution Cost: 1537422547
+
+Elapsed Time: 0.665322 seconds
+
+
+
+Best Solution Cost: 1537472211
+
+Elapsed Time: 1.09788 seconds
+
+
+
+Best Solution Cost: 1540709463
+
+Elapsed Time: 0.949051 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 0.786802 seconds
+
+
+
+Best Solution Cost: 1539283591
+
+Elapsed Time: 1.28626 seconds
+
+
+
+Best Solution Cost: 1540139216
+
+Elapsed Time: 1.21124 seconds
+
+
+
+Best Solution Cost: 1536831283
+
+Elapsed Time: 0.805513 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 1.75993 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 1.37739 seconds
+
+
+
+Best Solution Cost: 1546230036
+
+Elapsed Time: 0.708308 seconds
+
+
+
+Best Solution Cost: 1538948726
+
+Elapsed Time: 1.26096 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.41683 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  J  Õ  *  *  *  *  *  *
+  *  *  *  *  W  H  Ã  Ç  Í  *  *  *  *  *
+  *  *  *  Â  Ê  N  O  D  C  Z  *  *  *  *
+  *  *  *  Ô  F  S  _  A  I  V  *  *  *  *
+  *  *  *  -  À  T  E  R  L  B  Y  *  *  *
+  *  *  *  *  Q  U  M  P  G  Ó  *  *  *  *
+  *  *  *  *  K  Ú  X  Á  É  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536831283
+Global Time: 16.613
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1539643181
+
+Elapsed Time: 1.01207 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 0.658523 seconds
+
+
+
+Best Solution Cost: 1536887071
+
+Elapsed Time: 1.02002 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.08367 seconds
+
+
+
+Best Solution Cost: 1539378073
+
+Elapsed Time: 1.23029 seconds
+
+
+
+Best Solution Cost: 1540219381
+
+Elapsed Time: 0.738561 seconds
+
+
+
+Best Solution Cost: 1536861085
+
+Elapsed Time: 0.94441 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 0.960949 seconds
+
+
+
+Best Solution Cost: 1539253407
+
+Elapsed Time: 1.38898 seconds
+
+
+
+Best Solution Cost: 1542153734
+
+Elapsed Time: 0.592184 seconds
+
+
+
+Best Solution Cost: 1539303345
+
+Elapsed Time: 1.2629 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 1.45435 seconds
+
+
+
+Best Solution Cost: 1539732392
+
+Elapsed Time: 1.53809 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 0.898561 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 1.02823 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  É  Á  X  Ú  K  *  *  *  *
+  *  *  *  *  Y  G  P  M  U  Q  *  *  *  *
+  *  *  *  *  B  L  R  E  T  À  -  *  *  *
+  *  *  *  *  V  I  A  _  S  F  Ó  *  *  *
+  *  *  *  *  Z  C  D  O  N  Ê  Ô  *  *  *
+  *  *  *  *  *  Í  Ç  Ã  H  W  *  *  *  *
+  *  *  *  *  *  *  Õ  J  Â  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536861085
+Global Time: 15.8118
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1539352718
+
+Elapsed Time: 1.0764 seconds
+
+
+
+Best Solution Cost: 1541596906
+
+Elapsed Time: 0.779193 seconds
+
+
+
+Best Solution Cost: 1540034387
+
+Elapsed Time: 0.81122 seconds
+
+
+
+Best Solution Cost: 1543078123
+
+Elapsed Time: 0.619503 seconds
+
+
+
+Best Solution Cost: 1541030163
+
+Elapsed Time: 1.34219 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 1.09953 seconds
+
+
+
+Best Solution Cost: 1537083682
+
+Elapsed Time: 0.983657 seconds
+
+
+
+Best Solution Cost: 1539101379
+
+Elapsed Time: 1.48666 seconds
+
+
+
+Best Solution Cost: 1540139216
+
+Elapsed Time: 0.909104 seconds
+
+
+
+Best Solution Cost: 1538788344
+
+Elapsed Time: 1.04884 seconds
+
+
+
+Best Solution Cost: 1540822344
+
+Elapsed Time: 1.09737 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 0.623379 seconds
+
+
+
+Best Solution Cost: 1536928063
+
+Elapsed Time: 0.943511 seconds
+
+
+
+Best Solution Cost: 1538788344
+
+Elapsed Time: 0.871721 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 2.23353 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Y  -  W  *  *  *  *  *  *
+  *  *  *  É  Á  B  L  H  Õ  *  *  *  *  *
+  *  *  *  Ú  P  R  A  D  Ç  *  *  *  *  *
+  *  *  K  X  M  E  _  O  Ã  J  *  *  *  *
+  *  *  *  Q  U  T  S  C  F  *  *  *  *  *
+  *  *  *  Ó  G  N  I  V  Í  *  *  *  *  *
+  *  *  *  *  Ô  Ê  Z  À  *  *  *  *  *  *
+  *  *  *  *  *  Â  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536928063
+Global Time: 15.9258
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1541765882
+
+Elapsed Time: 0.775077 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 1.29825 seconds
+
+
+
+Best Solution Cost: 1542322234
+
+Elapsed Time: 1.06878 seconds
+
+
+
+Best Solution Cost: 1543919544
+
+Elapsed Time: 0.637254 seconds
+
+
+
+Best Solution Cost: 1537078629
+
+Elapsed Time: 1.05355 seconds
+
+
+
+Best Solution Cost: 1537037960
+
+Elapsed Time: 0.908418 seconds
+
+
+
+Best Solution Cost: 1537768939
+
+Elapsed Time: 1.47974 seconds
+
+
+
+Best Solution Cost: 1540088667
+
+Elapsed Time: 1.43378 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.96375 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 1.07865 seconds
+
+
+
+Best Solution Cost: 1538919991
+
+Elapsed Time: 1.57654 seconds
+
+
+
+Best Solution Cost: 1538141313
+
+Elapsed Time: 1.81628 seconds
+
+
+
+Best Solution Cost: 1536930481
+
+Elapsed Time: 1.41917 seconds
+
+
+
+Best Solution Cost: 1541533292
+
+Elapsed Time: 0.853912 seconds
+
+
+
+Best Solution Cost: 1538976220
+
+Elapsed Time: 0.958444 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  K  *  *  *  *  *
+  *  *  *  *  *  *  É  Ú  X  Q  Ó  *  *  *
+  *  *  *  *  *  *  Á  P  M  U  G  Ô  *  *
+  *  *  *  *  *  Y  B  R  E  T  N  Ê  Â  *
+  *  *  *  *  *  W  L  A  _  S  I  Z  *  *
+  *  *  *  *  *  *  H  D  O  C  V  À  *  *
+  *  *  *  *  *  *  Õ  Ç  Ã  F  Í  *  *  *
+  *  *  *  *  *  *  *  *  J  -  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536930481
+Global Time: 18.3216
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1540895844
+
+Elapsed Time: 1.16267 seconds
+
+
+
+Best Solution Cost: 1541057816
+
+Elapsed Time: 0.826021 seconds
+
+
+
+Best Solution Cost: 1540138287
+
+Elapsed Time: 0.667414 seconds
+
+
+
+Best Solution Cost: 1539762815
+
+Elapsed Time: 0.632477 seconds
+
+
+
+Best Solution Cost: 1544745255
+
+Elapsed Time: 1.07751 seconds
+
+
+
+Best Solution Cost: 1539858820
+
+Elapsed Time: 1.15891 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.59851 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 1.01022 seconds
+
+
+
+Best Solution Cost: 1537281760
+
+Elapsed Time: 1.11708 seconds
+
+
+
+Best Solution Cost: 1538797373
+
+Elapsed Time: 0.788163 seconds
+
+
+
+Best Solution Cost: 1538851979
+
+Elapsed Time: 0.601273 seconds
+
+
+
+Best Solution Cost: 1538417188
+
+Elapsed Time: 0.730286 seconds
+
+
+
+Best Solution Cost: 1540038284
+
+Elapsed Time: 1.41167 seconds
+
+
+
+Best Solution Cost: 1537281760
+
+Elapsed Time: 1.08286 seconds
+
+
+
+Best Solution Cost: 1541463262
+
+Elapsed Time: 0.57275 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  Ô  Ê  F  À  Q  -  *  *  *  *  *
+  *  *  W  H  N  S  T  U  Ú  *  *  *  *  *
+  *  *  J  Ã  O  _  E  M  X  K  *  *  *  *
+  *  *  Õ  Ç  D  A  R  P  Á  *  *  *  *  *
+  *  *  *  Í  C  I  L  G  É  *  *  *  *  *
+  *  *  *  Â  Z  V  B  Ó  *  *  *  *  *  *
+  *  *  *  *  *  *  Y  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1537281760
+Global Time: 14.4378
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1539829241
+
+Elapsed Time: 1.62134 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 0.678991 seconds
+
+
+
+Best Solution Cost: 1536827840
+
+Elapsed Time: 1.78781 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 0.738482 seconds
+
+
+
+Best Solution Cost: 1536827840
+
+Elapsed Time: 1.43766 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 1.05461 seconds
+
+
+
+Best Solution Cost: 1536842679
+
+Elapsed Time: 0.717388 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 0.598369 seconds
+
+
+
+Best Solution Cost: 1537044528
+
+Elapsed Time: 1.30708 seconds
+
+
+
+Best Solution Cost: 1540001395
+
+Elapsed Time: 0.791745 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 0.759828 seconds
+
+
+
+Best Solution Cost: 1537002514
+
+Elapsed Time: 1.30691 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.41641 seconds
+
+
+
+Best Solution Cost: 1539786408
+
+Elapsed Time: 0.801618 seconds
+
+
+
+Best Solution Cost: 1536928063
+
+Elapsed Time: 1.46249 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  -  W  Ô  *  *  *  *
+  *  *  *  *  *  K  Q  À  F  Ê  Ú  *  *  *
+  *  *  *  *  *  É  U  T  S  N  H  Â  *  *
+  *  *  *  *  *  X  M  E  _  O  Ã  J  *  *
+  *  *  *  *  *  Á  P  R  A  D  Ç  Õ  *  *
+  *  *  *  *  *  Ó  G  L  I  C  Í  *  *  *
+  *  *  *  *  *  *  Y  B  V  Z  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536827840
+Global Time: 16.4807
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1544671949
+
+Elapsed Time: 0.789271 seconds
+
+
+
+Best Solution Cost: 1541533292
+
+Elapsed Time: 1.00877 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.54756 seconds
+
+
+
+Best Solution Cost: 1539675049
+
+Elapsed Time: 0.878832 seconds
+
+
+
+Best Solution Cost: 1536928063
+
+Elapsed Time: 1.04595 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 0.984576 seconds
+
+
+
+Best Solution Cost: 1538861856
+
+Elapsed Time: 0.791694 seconds
+
+
+
+Best Solution Cost: 1540098255
+
+Elapsed Time: 0.752561 seconds
+
+
+
+Best Solution Cost: 1539210403
+
+Elapsed Time: 1.94751 seconds
+
+
+
+Best Solution Cost: 1538334210
+
+Elapsed Time: 1.73242 seconds
+
+
+
+Best Solution Cost: 1541843374
+
+Elapsed Time: 0.71613 seconds
+
+
+
+Best Solution Cost: 1540038284
+
+Elapsed Time: 0.702548 seconds
+
+
+
+Best Solution Cost: 1540222923
+
+Elapsed Time: 1.01436 seconds
+
+
+
+Best Solution Cost: 1539434818
+
+Elapsed Time: 0.763543 seconds
+
+
+
+Best Solution Cost: 1539283591
+
+Elapsed Time: 1.04162 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  K  *  *  *  *  *  *
+  *  *  *  *  *  Ó  Q  X  Ú  É  *  *  *  *
+  *  *  *  *  Ô  G  U  M  P  Á  *  *  *  *
+  *  *  *  Â  Ê  N  T  E  R  B  Y  *  *  *
+  *  *  *  *  Z  I  S  _  A  L  -  *  *  *
+  *  *  *  *  À  V  C  O  D  H  W  *  *  *
+  *  *  *  *  *  Í  F  Ã  Ç  Õ  *  *  *  *
+  *  *  *  *  *  *  *  J  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536928063
+Global Time: 15.7173
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1536827840
+
+Elapsed Time: 1.12076 seconds
+
+
+
+Best Solution Cost: 1542425856
+
+Elapsed Time: 0.84319 seconds
+
+
+
+Best Solution Cost: 1537652490
+
+Elapsed Time: 0.664444 seconds
+
+
+
+Best Solution Cost: 1538919991
+
+Elapsed Time: 1.34968 seconds
+
+
+
+Best Solution Cost: 1543754558
+
+Elapsed Time: 0.956163 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.21816 seconds
+
+
+
+Best Solution Cost: 1540102698
+
+Elapsed Time: 1.47165 seconds
+
+
+
+Best Solution Cost: 1536959737
+
+Elapsed Time: 2.08379 seconds
+
+
+
+Best Solution Cost: 1540223272
+
+Elapsed Time: 0.736303 seconds
+
+
+
+Best Solution Cost: 1549294379
+
+Elapsed Time: 1.1336 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 0.942897 seconds
+
+
+
+Best Solution Cost: 1539315398
+
+Elapsed Time: 0.732184 seconds
+
+
+
+Best Solution Cost: 1536928063
+
+Elapsed Time: 0.90473 seconds
+
+
+
+Best Solution Cost: 1541201163
+
+Elapsed Time: 1.2404 seconds
+
+
+
+Best Solution Cost: 1540098255
+
+Elapsed Time: 0.931078 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Z  V  B  Y  *  *  *
+  *  *  *  *  *  *  Í  C  I  L  G  Ó  *  *
+  *  *  *  *  *  Õ  Ç  D  A  R  P  Á  *  *
+  *  *  *  *  *  J  Ã  O  _  E  M  X  *  *
+  *  *  *  *  *  Â  H  N  S  T  U  É  *  *
+  *  *  *  *  *  *  Ú  Ê  F  À  Q  K  *  *
+  *  *  *  *  *  *  *  Ô  W  -  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536827840
+Global Time: 16.329
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1538817388
+
+Elapsed Time: 0.986093 seconds
+
+
+
+Best Solution Cost: 1540167971
+
+Elapsed Time: 0.593243 seconds
+
+
+
+Best Solution Cost: 1538848102
+
+Elapsed Time: 0.638664 seconds
+
+
+
+Best Solution Cost: 1540088667
+
+Elapsed Time: 1.86307 seconds
+
+
+
+Best Solution Cost: 1539644028
+
+Elapsed Time: 0.713806 seconds
+
+
+
+Best Solution Cost: 1540234507
+
+Elapsed Time: 0.969116 seconds
+
+
+
+Best Solution Cost: 1540709463
+
+Elapsed Time: 1.09319 seconds
+
+
+
+Best Solution Cost: 1538788344
+
+Elapsed Time: 0.703608 seconds
+
+
+
+Best Solution Cost: 1539207125
+
+Elapsed Time: 1.338 seconds
+
+
+
+Best Solution Cost: 1536827840
+
+Elapsed Time: 1.94061 seconds
+
+
+
+Best Solution Cost: 1536861085
+
+Elapsed Time: 0.647682 seconds
+
+
+
+Best Solution Cost: 1538284787
+
+Elapsed Time: 1.06217 seconds
+
+
+
+Best Solution Cost: 1541620491
+
+Elapsed Time: 1.26003 seconds
+
+
+
+Best Solution Cost: 1539266691
+
+Elapsed Time: 0.682404 seconds
+
+
+
+Best Solution Cost: 1539442556
+
+Elapsed Time: 1.33842 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  Y  B  V  Z  *  *  *  *  *  *  *
+  *  *  Ó  G  L  I  C  Í  *  *  *  *  *  *
+  *  *  Á  P  R  A  D  Ç  Õ  *  *  *  *  *
+  *  *  X  M  E  _  O  Ã  J  *  *  *  *  *
+  *  *  É  U  T  S  N  H  Â  *  *  *  *  *
+  *  *  K  Q  À  F  Ê  Ú  *  *  *  *  *  *
+  *  *  *  *  -  W  Ô  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536827840
+Global Time: 15.8301
+-----x-----
+Solving:  Portuguese_Rand_2.txt :
+
+
+Best Solution Cost: 1536827840
+
+Elapsed Time: 0.752022 seconds
+
+
+
+Best Solution Cost: 1536831283
+
+Elapsed Time: 1.00791 seconds
+
+
+
+Best Solution Cost: 1538245874
+
+Elapsed Time: 1.03194 seconds
+
+
+
+Best Solution Cost: 1539303345
+
+Elapsed Time: 0.870417 seconds
+
+
+
+Best Solution Cost: 1540783032
+
+Elapsed Time: 0.793797 seconds
+
+
+
+Best Solution Cost: 1541877387
+
+Elapsed Time: 0.639421 seconds
+
+
+
+Best Solution Cost: 1537652490
+
+Elapsed Time: 1.26662 seconds
+
+
+
+Best Solution Cost: 1542912407
+
+Elapsed Time: 0.844084 seconds
+
+
+
+Best Solution Cost: 1536985554
+
+Elapsed Time: 1.52399 seconds
+
+
+
+Best Solution Cost: 1540610305
+
+Elapsed Time: 1.29057 seconds
+
+
+
+Best Solution Cost: 1538797373
+
+Elapsed Time: 0.679707 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 0.739193 seconds
+
+
+
+Best Solution Cost: 1539477785
+
+Elapsed Time: 1.13649 seconds
+
+
+
+Best Solution Cost: 1543076436
+
+Elapsed Time: 0.655106 seconds
+
+
+
+Best Solution Cost: 1539256685
+
+Elapsed Time: 1.34649 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  Â  J  Õ  *  *  *  *  *  *  *  *  *
+  *  Ú  H  Ã  Ç  Í  *  *  *  *  *  *  *  *
+  Ô  Ê  N  O  D  C  Z  *  *  *  *  *  *  *
+  W  F  S  _  A  I  V  *  *  *  *  *  *  *
+  -  À  T  E  R  L  B  *  *  *  *  *  *  *
+  *  Q  U  M  P  G  Y  *  *  *  *  *  *  *
+  *  K  É  X  Á  Ó  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1536827840
+Global Time: 14.5778
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1858116063
+
+Elapsed Time: 1.25015 seconds
+
+
+
+Best Solution Cost: 1859123478
+
+Elapsed Time: 0.782405 seconds
+
+
+
+Best Solution Cost: 1859238276
+
+Elapsed Time: 0.778883 seconds
+
+
+
+Best Solution Cost: 1857561196
+
+Elapsed Time: 0.995114 seconds
+
+
+
+Best Solution Cost: 1858233984
+
+Elapsed Time: 0.752836 seconds
+
+
+
+Best Solution Cost: 1864304173
+
+Elapsed Time: 0.646222 seconds
+
+
+
+Best Solution Cost: 1858123608
+
+Elapsed Time: 1.11837 seconds
+
+
+
+Best Solution Cost: 1859077533
+
+Elapsed Time: 1.15347 seconds
+
+
+
+Best Solution Cost: 1857741555
+
+Elapsed Time: 2.04987 seconds
+
+
+
+Best Solution Cost: 1857987964
+
+Elapsed Time: 0.803805 seconds
+
+
+
+Best Solution Cost: 1863172224
+
+Elapsed Time: 0.732296 seconds
+
+
+
+Best Solution Cost: 1859077533
+
+Elapsed Time: 1.07755 seconds
+
+
+
+Best Solution Cost: 1859222123
+
+Elapsed Time: 0.615516 seconds
+
+
+
+Best Solution Cost: 1859607507
+
+Elapsed Time: 1.14438 seconds
+
+
+
+Best Solution Cost: 1857993835
+
+Elapsed Time: 0.791495 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  Õ  W  *  *  *  *  *  *  *  *
+  *  *  *  Ú  Ç  Ã  J  À  *  *  *  *  *  *
+  *  *  Z  B  D  O  P  Ó  *  *  *  *  *  *
+  *  Ô  Ê  N  A  _  S  Í  -  *  *  *  *  *
+  *  Â  H  T  R  E  M  F  K  *  *  *  *  *
+  *  *  Q  U  L  I  C  É  *  *  *  *  *  *
+  *  *  *  Á  G  V  X  Y  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857561196
+Global Time: 14.6924
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1862165505
+
+Elapsed Time: 0.904871 seconds
+
+
+
+Best Solution Cost: 1868479203
+
+Elapsed Time: 0.801923 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 0.904632 seconds
+
+
+
+Best Solution Cost: 1860065398
+
+Elapsed Time: 1.06003 seconds
+
+
+
+Best Solution Cost: 1861389399
+
+Elapsed Time: 0.835587 seconds
+
+
+
+Best Solution Cost: 1859620121
+
+Elapsed Time: 0.600158 seconds
+
+
+
+Best Solution Cost: 1857637128
+
+Elapsed Time: 1.27088 seconds
+
+
+
+Best Solution Cost: 1860293496
+
+Elapsed Time: 0.758626 seconds
+
+
+
+Best Solution Cost: 1858995504
+
+Elapsed Time: 0.75505 seconds
+
+
+
+Best Solution Cost: 1858187133
+
+Elapsed Time: 1.17234 seconds
+
+
+
+Best Solution Cost: 1860207281
+
+Elapsed Time: 1.65281 seconds
+
+
+
+Best Solution Cost: 1858630962
+
+Elapsed Time: 1.26279 seconds
+
+
+
+Best Solution Cost: 1858104420
+
+Elapsed Time: 0.743515 seconds
+
+
+
+Best Solution Cost: 1858142879
+
+Elapsed Time: 1.95607 seconds
+
+
+
+Best Solution Cost: 1858834570
+
+Elapsed Time: 1.79353 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Z  V  F  -  *  *  *
+  *  *  *  *  *  *  Í  C  I  L  G  Â  *  *
+  *  *  *  *  *  Õ  Ç  D  A  N  U  Q  *  *
+  *  *  *  *  *  *  Ã  O  _  E  T  H  Ô  *
+  *  *  *  *  *  *  J  P  S  R  M  Ú  *  *
+  *  *  *  *  *  *  X  Ó  B  Á  Ê  K  *  *
+  *  *  *  *  *  *  *  À  É  W  Y  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857637128
+Global Time: 16.4728
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1861290102
+
+Elapsed Time: 1.29001 seconds
+
+
+
+Best Solution Cost: 1857561196
+
+Elapsed Time: 1.18892 seconds
+
+
+
+Best Solution Cost: 1859551307
+
+Elapsed Time: 1.09078 seconds
+
+
+
+Best Solution Cost: 1859389333
+
+Elapsed Time: 1.18687 seconds
+
+
+
+Best Solution Cost: 1861079739
+
+Elapsed Time: 0.894963 seconds
+
+
+
+Best Solution Cost: 1857741555
+
+Elapsed Time: 1.29499 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 1.08248 seconds
+
+
+
+Best Solution Cost: 1859763081
+
+Elapsed Time: 0.830015 seconds
+
+
+
+Best Solution Cost: 1858671114
+
+Elapsed Time: 1.32399 seconds
+
+
+
+Best Solution Cost: 1857552652
+
+Elapsed Time: 1.21391 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 1.9329 seconds
+
+
+
+Best Solution Cost: 1868480841
+
+Elapsed Time: 0.698024 seconds
+
+
+
+Best Solution Cost: 1861157425
+
+Elapsed Time: 0.947417 seconds
+
+
+
+Best Solution Cost: 1858737986
+
+Elapsed Time: 1.29649 seconds
+
+
+
+Best Solution Cost: 1860244794
+
+Elapsed Time: 1.4376 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  Ô  Â  *  *  *  *  *  *
+  *  *  *  *  *  Z  Ê  H  Q  *  *  *  *  *
+  *  *  *  *  Ú  B  N  T  U  Á  *  *  *  *
+  *  *  *  Õ  Ç  D  A  R  L  G  *  *  *  *
+  *  *  *  W  Ã  O  _  E  I  V  *  *  *  *
+  *  *  *  *  J  P  S  M  C  X  *  *  *  *
+  *  *  *  *  Y  Ó  Í  F  É  *  *  *  *  *
+  *  *  *  *  *  À  -  K  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857552652
+Global Time: 17.7094
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1858757077
+
+Elapsed Time: 0.989672 seconds
+
+
+
+Best Solution Cost: 1857967265
+
+Elapsed Time: 1.40395 seconds
+
+
+
+Best Solution Cost: 1861136822
+
+Elapsed Time: 0.77944 seconds
+
+
+
+Best Solution Cost: 1858086804
+
+Elapsed Time: 1.92085 seconds
+
+
+
+Best Solution Cost: 1858090623
+
+Elapsed Time: 0.638768 seconds
+
+
+
+Best Solution Cost: 1859481784
+
+Elapsed Time: 0.749806 seconds
+
+
+
+Best Solution Cost: 1857928835
+
+Elapsed Time: 1.48083 seconds
+
+
+
+Best Solution Cost: 1858429801
+
+Elapsed Time: 0.802559 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 1.22112 seconds
+
+
+
+Best Solution Cost: 1858097483
+
+Elapsed Time: 1.17139 seconds
+
+
+
+Best Solution Cost: 1857741555
+
+Elapsed Time: 1.56977 seconds
+
+
+
+Best Solution Cost: 1858233984
+
+Elapsed Time: 0.837537 seconds
+
+
+
+Best Solution Cost: 1858748513
+
+Elapsed Time: 0.768613 seconds
+
+
+
+Best Solution Cost: 1858686283
+
+Elapsed Time: 1.88537 seconds
+
+
+
+Best Solution Cost: 1857958388
+
+Elapsed Time: 1.04263 seconds
+
+
+-----x-----
+Best Solution: 
+  *  Ô  Q  H  Ú  K  *  *  *  *  *  *  *  *
+  Â  G  U  T  M  Ê  Y  *  *  *  *  *  *  *
+  F  L  N  E  R  Á  W  *  *  *  *  *  *  *
+  V  I  A  _  S  B  É  *  *  *  *  *  *  *
+  Z  C  D  O  P  Ó  À  *  *  *  *  *  *  *
+  *  Í  Ç  Ã  J  X  *  *  *  *  *  *  *  *
+  *  *  Õ  -  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857741555
+Global Time: 17.2623
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1861393657
+
+Elapsed Time: 2.10891 seconds
+
+
+
+Best Solution Cost: 1867063795
+
+Elapsed Time: 0.978272 seconds
+
+
+
+Best Solution Cost: 1858699263
+
+Elapsed Time: 1.1591 seconds
+
+
+
+Best Solution Cost: 1859112537
+
+Elapsed Time: 1.43526 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 1.17465 seconds
+
+
+
+Best Solution Cost: 1857637128
+
+Elapsed Time: 1.13682 seconds
+
+
+
+Best Solution Cost: 1858820045
+
+Elapsed Time: 0.831929 seconds
+
+
+
+Best Solution Cost: 1859043949
+
+Elapsed Time: 0.651749 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 0.899254 seconds
+
+
+
+Best Solution Cost: 1858233984
+
+Elapsed Time: 0.625612 seconds
+
+
+
+Best Solution Cost: 1859873602
+
+Elapsed Time: 1.2437 seconds
+
+
+
+Best Solution Cost: 1860012189
+
+Elapsed Time: 0.727208 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 0.922016 seconds
+
+
+
+Best Solution Cost: 1859436757
+
+Elapsed Time: 0.860549 seconds
+
+
+
+Best Solution Cost: 1864898812
+
+Elapsed Time: 0.760769 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  -  F  V  Z  *  *  *
+  *  *  *  *  *  *  Â  G  L  I  C  Í  *  *
+  *  *  *  *  *  *  Q  U  N  A  D  Ç  Õ  *
+  *  *  *  *  *  Y  H  T  E  _  O  Ã  *  *
+  *  *  *  *  *  Ô  Ú  M  R  S  P  J  *  *
+  *  *  *  *  *  *  K  Ê  Á  B  Ó  X  *  *
+  *  *  *  *  *  *  *  *  W  É  À  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857637050
+Global Time: 15.5158
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1863058631
+
+Elapsed Time: 1.11949 seconds
+
+
+
+Best Solution Cost: 1858726435
+
+Elapsed Time: 0.51743 seconds
+
+
+
+Best Solution Cost: 1861410849
+
+Elapsed Time: 1.03402 seconds
+
+
+
+Best Solution Cost: 1860074413
+
+Elapsed Time: 1.03254 seconds
+
+
+
+Best Solution Cost: 1858095596
+
+Elapsed Time: 1.54103 seconds
+
+
+
+Best Solution Cost: 1860114018
+
+Elapsed Time: 1.3057 seconds
+
+
+
+Best Solution Cost: 1859253103
+
+Elapsed Time: 0.650023 seconds
+
+
+
+Best Solution Cost: 1860207281
+
+Elapsed Time: 1.21928 seconds
+
+
+
+Best Solution Cost: 1858686283
+
+Elapsed Time: 1.30664 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 2.51483 seconds
+
+
+
+Best Solution Cost: 1859370305
+
+Elapsed Time: 1.06169 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 1.12771 seconds
+
+
+
+Best Solution Cost: 1858376294
+
+Elapsed Time: 2.1483 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 0.662169 seconds
+
+
+
+Best Solution Cost: 1860565210
+
+Elapsed Time: 1.33525 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  *  *  *  *  *  *  *  *
+  *  *  *  *  Í  Ç  Ã  J  X  *  *  *  *  *
+  *  *  *  Z  C  D  O  P  Ó  À  *  *  *  *
+  *  *  *  V  I  A  _  S  B  É  *  *  *  *
+  *  *  *  F  L  N  E  R  Á  W  *  *  *  *
+  *  *  *  -  G  U  T  M  Ê  *  *  *  *  *
+  *  *  *  *  Â  Q  H  Ú  K  *  *  *  *  *
+  *  *  *  *  *  *  Y  Ô  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857637050
+Global Time: 18.5761
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1866562469
+
+Elapsed Time: 1.0804 seconds
+
+
+
+Best Solution Cost: 1859123478
+
+Elapsed Time: 1.36155 seconds
+
+
+
+Best Solution Cost: 1859152153
+
+Elapsed Time: 0.618039 seconds
+
+
+
+Best Solution Cost: 1861188208
+
+Elapsed Time: 1.37111 seconds
+
+
+
+Best Solution Cost: 1858333550
+
+Elapsed Time: 1.15601 seconds
+
+
+
+Best Solution Cost: 1861540630
+
+Elapsed Time: 1.28018 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 1.57149 seconds
+
+
+
+Best Solution Cost: 1865197756
+
+Elapsed Time: 0.580019 seconds
+
+
+
+Best Solution Cost: 1861699128
+
+Elapsed Time: 0.880225 seconds
+
+
+
+Best Solution Cost: 1861516942
+
+Elapsed Time: 1.93722 seconds
+
+
+
+Best Solution Cost: 1858424948
+
+Elapsed Time: 0.998473 seconds
+
+
+
+Best Solution Cost: 1857550172
+
+Elapsed Time: 1.0833 seconds
+
+
+
+Best Solution Cost: 1863824715
+
+Elapsed Time: 0.836833 seconds
+
+
+
+Best Solution Cost: 1858233984
+
+Elapsed Time: 1.13746 seconds
+
+
+
+Best Solution Cost: 1857637128
+
+Elapsed Time: 1.73024 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Õ  *  *  *  *  *  *
+  *  *  *  *  *  *  Ú  Ç  Ã  J  W  *  *  *
+  *  *  *  *  *  Z  B  D  O  P  Ó  À  *  *
+  *  *  *  *  Ô  Ê  N  A  _  S  Í  -  *  *
+  *  *  *  *  Â  H  T  R  E  M  F  K  *  *
+  *  *  *  *  *  Q  U  L  I  C  É  *  *  *
+  *  *  *  *  *  *  Á  G  V  X  Y  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857550172
+Global Time: 17.6225
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1863267110
+
+Elapsed Time: 0.876607 seconds
+
+
+
+Best Solution Cost: 1859521236
+
+Elapsed Time: 0.923688 seconds
+
+
+
+Best Solution Cost: 1860739711
+
+Elapsed Time: 0.708005 seconds
+
+
+
+Best Solution Cost: 1860314229
+
+Elapsed Time: 0.7924 seconds
+
+
+
+Best Solution Cost: 1857765032
+
+Elapsed Time: 0.986697 seconds
+
+
+
+Best Solution Cost: 1862311637
+
+Elapsed Time: 0.624025 seconds
+
+
+
+Best Solution Cost: 1860465928
+
+Elapsed Time: 1.65207 seconds
+
+
+
+Best Solution Cost: 1860934103
+
+Elapsed Time: 0.795396 seconds
+
+
+
+Best Solution Cost: 1861211440
+
+Elapsed Time: 0.69741 seconds
+
+
+
+Best Solution Cost: 1858065990
+
+Elapsed Time: 1.68192 seconds
+
+
+
+Best Solution Cost: 1860973150
+
+Elapsed Time: 1.52146 seconds
+
+
+
+Best Solution Cost: 1865383440
+
+Elapsed Time: 0.76825 seconds
+
+
+
+Best Solution Cost: 1858686283
+
+Elapsed Time: 1.61862 seconds
+
+
+
+Best Solution Cost: 1860325069
+
+Elapsed Time: 1.96407 seconds
+
+
+
+Best Solution Cost: 1857884869
+
+Elapsed Time: 0.694995 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  Ô  W  É  Y  *  *  *  *  *  *  *  *  *
+  K  Ê  Á  B  Ó  X  *  *  *  *  *  *  *  *
+  Ú  M  R  S  P  J  *  *  *  *  *  *  *  *
+  H  T  E  _  O  Ã  À  *  *  *  *  *  *  *
+  Q  U  N  A  D  Ç  Õ  *  *  *  *  *  *  *
+  Â  G  L  I  C  Í  *  *  *  *  *  *  *  *
+  *  -  F  V  Z  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857765032
+Global Time: 16.3056
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 2.0278 seconds
+
+
+
+Best Solution Cost: 1859257608
+
+Elapsed Time: 1.07797 seconds
+
+
+
+Best Solution Cost: 1860012189
+
+Elapsed Time: 0.93495 seconds
+
+
+
+Best Solution Cost: 1858726435
+
+Elapsed Time: 1.15208 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 0.850438 seconds
+
+
+
+Best Solution Cost: 1858278781
+
+Elapsed Time: 1.37389 seconds
+
+
+
+Best Solution Cost: 1861323709
+
+Elapsed Time: 1.09433 seconds
+
+
+
+Best Solution Cost: 1860070364
+
+Elapsed Time: 1.00726 seconds
+
+
+
+Best Solution Cost: 1857637050
+
+Elapsed Time: 2.85941 seconds
+
+
+
+Best Solution Cost: 1858655687
+
+Elapsed Time: 0.930213 seconds
+
+
+
+Best Solution Cost: 1857944754
+
+Elapsed Time: 1.38409 seconds
+
+
+
+Best Solution Cost: 1857844557
+
+Elapsed Time: 0.906728 seconds
+
+
+
+Best Solution Cost: 1859939661
+
+Elapsed Time: 1.16726 seconds
+
+
+
+Best Solution Cost: 1857637128
+
+Elapsed Time: 1.28087 seconds
+
+
+
+Best Solution Cost: 1863442850
+
+Elapsed Time: 0.692596 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Z  V  F  -  *  *  *
+  *  *  *  *  *  *  Í  C  I  L  G  Â  *  *
+  *  *  *  *  *  Õ  Ç  D  A  N  U  Q  *  *
+  *  *  *  *  *  *  Ã  O  _  E  T  H  Y  *
+  *  *  *  *  *  *  J  P  S  R  M  Ú  Ô  *
+  *  *  *  *  *  *  X  Ó  B  Á  Ê  K  *  *
+  *  *  *  *  *  *  *  À  É  W  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857637050
+Global Time: 18.7399
+-----x-----
+Solving:  Portuguese_Rand_3.txt :
+
+
+Best Solution Cost: 1858086804
+
+Elapsed Time: 0.691409 seconds
+
+
+
+Best Solution Cost: 1861980518
+
+Elapsed Time: 0.75978 seconds
+
+
+
+Best Solution Cost: 1858066792
+
+Elapsed Time: 1.16582 seconds
+
+
+
+Best Solution Cost: 1859123478
+
+Elapsed Time: 0.918955 seconds
+
+
+
+Best Solution Cost: 1860074413
+
+Elapsed Time: 1.73313 seconds
+
+
+
+Best Solution Cost: 1859019576
+
+Elapsed Time: 0.848688 seconds
+
+
+
+Best Solution Cost: 1859043949
+
+Elapsed Time: 0.737179 seconds
+
+
+
+Best Solution Cost: 1857550172
+
+Elapsed Time: 1.31798 seconds
+
+
+
+Best Solution Cost: 1858104420
+
+Elapsed Time: 1.59961 seconds
+
+
+
+Best Solution Cost: 1869154104
+
+Elapsed Time: 0.626439 seconds
+
+
+
+Best Solution Cost: 1859257608
+
+Elapsed Time: 0.671312 seconds
+
+
+
+Best Solution Cost: 1862863472
+
+Elapsed Time: 1.26608 seconds
+
+
+
+Best Solution Cost: 1862163813
+
+Elapsed Time: 1.03164 seconds
+
+
+
+Best Solution Cost: 1860608708
+
+Elapsed Time: 0.938819 seconds
+
+
+
+Best Solution Cost: 1857552652
+
+Elapsed Time: 1.01293 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  K  -  À  *  *  *  *  *  *
+  *  *  *  Y  É  F  Í  Ó  W  *  *  *  *  *
+  *  *  *  X  C  M  S  P  J  *  *  *  *  *
+  *  *  *  V  I  E  _  O  Ã  *  *  *  *  *
+  *  *  *  G  L  R  A  D  Ç  Õ  *  *  *  *
+  *  *  *  Á  U  T  N  B  Ú  *  *  *  *  *
+  *  *  *  *  Q  H  Ê  Z  *  *  *  *  *  *
+  *  *  *  *  *  Â  Ô  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1857550172
+Global Time: 15.3198
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.09101 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 0.861695 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.21361 seconds
+
+
+
+Best Solution Cost: 1564585105
+
+Elapsed Time: 0.60931 seconds
+
+
+
+Best Solution Cost: 1569090731
+
+Elapsed Time: 1.58392 seconds
+
+
+
+Best Solution Cost: 1561891121
+
+Elapsed Time: 2.27126 seconds
+
+
+
+Best Solution Cost: 1571750203
+
+Elapsed Time: 0.675899 seconds
+
+
+
+Best Solution Cost: 1567216997
+
+Elapsed Time: 0.966964 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.05198 seconds
+
+
+
+Best Solution Cost: 1559858403
+
+Elapsed Time: 1.10259 seconds
+
+
+
+Best Solution Cost: 1559170618
+
+Elapsed Time: 0.719739 seconds
+
+
+
+Best Solution Cost: 1559800483
+
+Elapsed Time: 1.24758 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 1.40597 seconds
+
+
+
+Best Solution Cost: 1560217812
+
+Elapsed Time: 0.671997 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 2.08312 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  À  W  Y  *  *  *  *
+  *  *  *  *  *  *  Ú  Ç  Ã  B  J  *  *  *
+  *  *  *  *  *  Õ  H  D  O  M  Á  K  *  *
+  *  *  *  *  *  Z  L  A  _  R  P  Ó  *  *
+  *  *  *  *  *  É  C  I  S  E  F  X  *  *
+  *  *  *  *  *  Ô  V  N  T  U  G  *  *  *
+  *  *  *  *  *  *  Â  Ê  Í  Q  -  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 17.5566
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1570233825
+
+Elapsed Time: 0.824829 seconds
+
+
+
+Best Solution Cost: 1569458288
+
+Elapsed Time: 0.698793 seconds
+
+
+
+Best Solution Cost: 1566971478
+
+Elapsed Time: 1.59261 seconds
+
+
+
+Best Solution Cost: 1560540859
+
+Elapsed Time: 1.03532 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.15857 seconds
+
+
+
+Best Solution Cost: 1563264064
+
+Elapsed Time: 2.06676 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 1.37119 seconds
+
+
+
+Best Solution Cost: 1565066548
+
+Elapsed Time: 1.85771 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 1.2119 seconds
+
+
+
+Best Solution Cost: 1560814668
+
+Elapsed Time: 0.94735 seconds
+
+
+
+Best Solution Cost: 1560217812
+
+Elapsed Time: 1.08832 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.850183 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.52483 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.30566 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.741046 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  K  Ó  X  *  *  *  *  *  *
+  *  *  *  *  J  Á  P  F  G  -  *  *  *  *
+  *  *  *  Y  B  M  R  E  U  Q  *  *  *  *
+  *  *  *  W  Ã  O  _  S  T  Í  *  *  *  *
+  *  *  *  À  Ç  D  A  I  N  Ê  *  *  *  *
+  *  *  *  *  Ú  H  L  C  V  Â  *  *  *  *
+  *  *  *  *  *  Õ  Z  É  Ô  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 18.2751
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1558991858
+
+Elapsed Time: 0.701094 seconds
+
+
+
+Best Solution Cost: 1569211784
+
+Elapsed Time: 0.952935 seconds
+
+
+
+Best Solution Cost: 1563401827
+
+Elapsed Time: 0.758652 seconds
+
+
+
+Best Solution Cost: 1564665722
+
+Elapsed Time: 1.06702 seconds
+
+
+
+Best Solution Cost: 1567948047
+
+Elapsed Time: 0.720335 seconds
+
+
+
+Best Solution Cost: 1559153002
+
+Elapsed Time: 1.22015 seconds
+
+
+
+Best Solution Cost: 1571023908
+
+Elapsed Time: 1.13717 seconds
+
+
+
+Best Solution Cost: 1571407936
+
+Elapsed Time: 0.755891 seconds
+
+
+
+Best Solution Cost: 1565912914
+
+Elapsed Time: 1.2761 seconds
+
+
+
+Best Solution Cost: 1565662890
+
+Elapsed Time: 1.11475 seconds
+
+
+
+Best Solution Cost: 1562255029
+
+Elapsed Time: 1.33496 seconds
+
+
+
+Best Solution Cost: 1569037384
+
+Elapsed Time: 1.74947 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 1.08602 seconds
+
+
+
+Best Solution Cost: 1572111251
+
+Elapsed Time: 0.715424 seconds
+
+
+
+Best Solution Cost: 1565330541
+
+Elapsed Time: 0.703854 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  K  Ó  X  Â  *  *  *
+  *  *  *  *  *  *  J  Á  P  F  G  -  *  *
+  *  *  *  *  *  Y  B  M  R  E  U  Q  *  *
+  *  *  *  *  *  W  Ã  O  _  S  T  Í  *  *
+  *  *  *  *  *  *  Ç  D  A  I  N  Ê  *  *
+  *  *  *  *  *  *  Ú  V  C  L  H  Õ  *  *
+  *  *  *  *  *  *  *  À  Z  É  Ô  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558991858
+Global Time: 15.2938
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1560540859
+
+Elapsed Time: 1.43132 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.0234 seconds
+
+
+
+Best Solution Cost: 1565389137
+
+Elapsed Time: 0.906282 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.860041 seconds
+
+
+
+Best Solution Cost: 1570985771
+
+Elapsed Time: 0.694443 seconds
+
+
+
+Best Solution Cost: 1560217812
+
+Elapsed Time: 1.10779 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.04039 seconds
+
+
+
+Best Solution Cost: 1563458067
+
+Elapsed Time: 0.943974 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.50847 seconds
+
+
+
+Best Solution Cost: 1563722510
+
+Elapsed Time: 1.1965 seconds
+
+
+
+Best Solution Cost: 1562255029
+
+Elapsed Time: 0.911532 seconds
+
+
+
+Best Solution Cost: 1565840769
+
+Elapsed Time: 0.692804 seconds
+
+
+
+Best Solution Cost: 1561891121
+
+Elapsed Time: 1.48248 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.746573 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 2.47872 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  Õ  Z  É  Ô  *  *  *  *
+  *  *  *  *  *  Ú  H  L  C  V  Â  *  *  *
+  *  *  *  *  À  Ç  D  A  I  N  Ê  *  *  *
+  *  *  *  *  W  Ã  O  _  S  T  Í  *  *  *
+  *  *  *  *  Y  B  M  R  E  U  Q  *  *  *
+  *  *  *  *  *  J  Á  P  F  G  -  *  *  *
+  *  *  *  *  *  *  K  Ó  X  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 17.0247
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1562092928
+
+Elapsed Time: 1.12211 seconds
+
+
+
+Best Solution Cost: 1567153953
+
+Elapsed Time: 0.619767 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.755861 seconds
+
+
+
+Best Solution Cost: 1560217812
+
+Elapsed Time: 2.48296 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 1.18643 seconds
+
+
+
+Best Solution Cost: 1569491886
+
+Elapsed Time: 0.638928 seconds
+
+
+
+Best Solution Cost: 1560534379
+
+Elapsed Time: 2.04952 seconds
+
+
+
+Best Solution Cost: 1570337706
+
+Elapsed Time: 1.89364 seconds
+
+
+
+Best Solution Cost: 1565382485
+
+Elapsed Time: 1.55319 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 0.950446 seconds
+
+
+
+Best Solution Cost: 1563754823
+
+Elapsed Time: 1.54272 seconds
+
+
+
+Best Solution Cost: 1567153953
+
+Elapsed Time: 0.630866 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.11136 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 1.06435 seconds
+
+
+
+Best Solution Cost: 1571407936
+
+Elapsed Time: 1.33266 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  Õ  Z  É  Ô  *  *  *  *  *  *  *
+  *  *  Ú  H  L  C  V  Â  *  *  *  *  *  *
+  *  À  Ç  D  A  I  N  Ê  *  *  *  *  *  *
+  *  W  Ã  O  _  S  T  Í  *  *  *  *  *  *
+  *  Y  B  M  R  E  U  Q  *  *  *  *  *  *
+  *  *  J  Á  P  F  G  -  *  *  *  *  *  *
+  *  *  *  K  Ó  X  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 18.9348
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1561810288
+
+Elapsed Time: 1.14183 seconds
+
+
+
+Best Solution Cost: 1563556923
+
+Elapsed Time: 1.93111 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 1.57176 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 1.11706 seconds
+
+
+
+Best Solution Cost: 1560946723
+
+Elapsed Time: 0.622709 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.783625 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.4649 seconds
+
+
+
+Best Solution Cost: 1565385248
+
+Elapsed Time: 1.20157 seconds
+
+
+
+Best Solution Cost: 1563372785
+
+Elapsed Time: 1.47581 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.48225 seconds
+
+
+
+Best Solution Cost: 1558991858
+
+Elapsed Time: 0.950777 seconds
+
+
+
+Best Solution Cost: 1570575045
+
+Elapsed Time: 1.0125 seconds
+
+
+
+Best Solution Cost: 1560217812
+
+Elapsed Time: 1.02711 seconds
+
+
+
+Best Solution Cost: 1562255029
+
+Elapsed Time: 1.01467 seconds
+
+
+
+Best Solution Cost: 1568475598
+
+Elapsed Time: 0.723284 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Õ  Z  É  Ô  *  *  *  *  *
+  *  *  *  *  Ú  H  L  C  V  Â  *  *  *  *
+  *  *  *  À  Ç  D  A  I  N  Ê  *  *  *  *
+  *  *  *  W  Ã  O  _  S  T  Í  *  *  *  *
+  *  *  *  Y  B  M  R  E  U  Q  *  *  *  *
+  *  *  *  *  J  Á  P  F  G  -  *  *  *  *
+  *  *  *  *  *  K  Ó  X  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 17.521
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1560761164
+
+Elapsed Time: 1.01836 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.27989 seconds
+
+
+
+Best Solution Cost: 1563344521
+
+Elapsed Time: 0.624015 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 1.01616 seconds
+
+
+
+Best Solution Cost: 1563754129
+
+Elapsed Time: 1.0429 seconds
+
+
+
+Best Solution Cost: 1565860769
+
+Elapsed Time: 0.898466 seconds
+
+
+
+Best Solution Cost: 1564588545
+
+Elapsed Time: 2.22184 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.710412 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.580108 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 0.84427 seconds
+
+
+
+Best Solution Cost: 1568181805
+
+Elapsed Time: 1.1517 seconds
+
+
+
+Best Solution Cost: 1567532670
+
+Elapsed Time: 0.643756 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.16197 seconds
+
+
+
+Best Solution Cost: 1563723451
+
+Elapsed Time: 0.684832 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.56981 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  Y  W  À  *  *  *  *  *  *  *  *  *
+  *  J  B  Ã  Ç  Ú  *  *  *  *  *  *  *  *
+  K  Á  M  O  D  H  Õ  *  *  *  *  *  *  *
+  Ó  P  R  _  A  L  Z  *  *  *  *  *  *  *
+  X  F  E  S  I  C  É  *  *  *  *  *  *  *
+  *  G  U  T  N  V  Ô  *  *  *  *  *  *  *
+  *  -  Q  Í  Ê  Â  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 15.4485
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1561373652
+
+Elapsed Time: 0.629873 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.66564 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 0.738758 seconds
+
+
+
+Best Solution Cost: 1566859798
+
+Elapsed Time: 0.887879 seconds
+
+
+
+Best Solution Cost: 1563304811
+
+Elapsed Time: 1.7208 seconds
+
+
+
+Best Solution Cost: 1561020460
+
+Elapsed Time: 0.799721 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 0.771408 seconds
+
+
+
+Best Solution Cost: 1563593010
+
+Elapsed Time: 1.37114 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 0.700811 seconds
+
+
+
+Best Solution Cost: 1575295988
+
+Elapsed Time: 0.618737 seconds
+
+
+
+Best Solution Cost: 1564585105
+
+Elapsed Time: 0.729385 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 0.998081 seconds
+
+
+
+Best Solution Cost: 1565662890
+
+Elapsed Time: 0.571464 seconds
+
+
+
+Best Solution Cost: 1560516821
+
+Elapsed Time: 0.984513 seconds
+
+
+
+Best Solution Cost: 1561327972
+
+Elapsed Time: 1.80176 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  K  Ó  X  *  *  *  *  *  *  *  *  *
+  *  J  Á  P  F  G  -  *  *  *  *  *  *  *
+  Y  B  M  R  E  U  Q  *  *  *  *  *  *  *
+  W  Ã  O  _  S  T  Í  *  *  *  *  *  *  *
+  À  Ç  D  A  I  N  Ê  *  *  *  *  *  *  *
+  *  Ú  H  L  C  V  Â  *  *  *  *  *  *  *
+  *  *  Õ  Z  É  Ô  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 13.99
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1562296409
+
+Elapsed Time: 1.39103 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 0.742253 seconds
+
+
+
+Best Solution Cost: 1568050688
+
+Elapsed Time: 0.856569 seconds
+
+
+
+Best Solution Cost: 1562255029
+
+Elapsed Time: 1.51087 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.2219 seconds
+
+
+
+Best Solution Cost: 1561891121
+
+Elapsed Time: 0.869347 seconds
+
+
+
+Best Solution Cost: 1559529340
+
+Elapsed Time: 0.810538 seconds
+
+
+
+Best Solution Cost: 1559153002
+
+Elapsed Time: 1.27366 seconds
+
+
+
+Best Solution Cost: 1570985771
+
+Elapsed Time: 0.854405 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.8931 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 1.87983 seconds
+
+
+
+Best Solution Cost: 1566316710
+
+Elapsed Time: 0.96911 seconds
+
+
+
+Best Solution Cost: 1563264064
+
+Elapsed Time: 1.42706 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.669504 seconds
+
+
+
+Best Solution Cost: 1563240066
+
+Elapsed Time: 0.879725 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  À  W  Y  *  *  *
+  *  *  *  *  *  *  *  Ú  Ç  Ã  B  J  *  *
+  *  *  *  *  *  *  Õ  H  D  O  M  Á  K  *
+  *  *  *  *  *  *  Z  L  A  _  R  P  Ó  *
+  *  *  *  *  *  *  É  C  I  S  E  F  X  *
+  *  *  *  *  *  *  Ô  V  N  T  U  G  *  *
+  *  *  *  *  *  *  *  Â  Ê  Í  Q  -  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 17.2489
+-----x-----
+Solving:  Portuguese_Rand_4.txt :
+
+
+Best Solution Cost: 1566117129
+
+Elapsed Time: 1.33377 seconds
+
+
+
+Best Solution Cost: 1560393067
+
+Elapsed Time: 1.03084 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 2.14737 seconds
+
+
+
+Best Solution Cost: 1567055438
+
+Elapsed Time: 1.4051 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.36105 seconds
+
+
+
+Best Solution Cost: 1558959923
+
+Elapsed Time: 1.02232 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 0.837646 seconds
+
+
+
+Best Solution Cost: 1559153002
+
+Elapsed Time: 1.22931 seconds
+
+
+
+Best Solution Cost: 1560540859
+
+Elapsed Time: 0.910481 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.37855 seconds
+
+
+
+Best Solution Cost: 1566779721
+
+Elapsed Time: 1.26833 seconds
+
+
+
+Best Solution Cost: 1558838421
+
+Elapsed Time: 1.66077 seconds
+
+
+
+Best Solution Cost: 1575115908
+
+Elapsed Time: 1.1401 seconds
+
+
+
+Best Solution Cost: 1558965756
+
+Elapsed Time: 1.30341 seconds
+
+
+
+Best Solution Cost: 1560638302
+
+Elapsed Time: 0.686904 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  X  Ó  K  *  *  *  *
+  *  *  *  *  *  -  G  F  P  Á  J  *  *  *
+  *  *  *  *  *  Q  U  E  R  M  B  Y  *  *
+  *  *  *  *  *  Í  T  S  _  O  Ã  W  *  *
+  *  *  *  *  *  Ê  N  I  A  D  Ç  À  *  *
+  *  *  *  *  *  Â  V  C  L  H  Ú  *  *  *
+  *  *  *  *  *  *  Ô  É  Z  Õ  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1558838421
+Global Time: 18.7159
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.24568 seconds
+
+
+
+Best Solution Cost: 1622670394
+
+Elapsed Time: 1.43342 seconds
+
+
+
+Best Solution Cost: 1626383906
+
+Elapsed Time: 1.00374 seconds
+
+
+
+Best Solution Cost: 1626215816
+
+Elapsed Time: 0.910929 seconds
+
+
+
+Best Solution Cost: 1628484511
+
+Elapsed Time: 1.15388 seconds
+
+
+
+Best Solution Cost: 1627094877
+
+Elapsed Time: 1.13706 seconds
+
+
+
+Best Solution Cost: 1623999149
+
+Elapsed Time: 0.791274 seconds
+
+
+
+Best Solution Cost: 1622732111
+
+Elapsed Time: 1.18587 seconds
+
+
+
+Best Solution Cost: 1626404566
+
+Elapsed Time: 1.59466 seconds
+
+
+
+Best Solution Cost: 1624025573
+
+Elapsed Time: 1.44993 seconds
+
+
+
+Best Solution Cost: 1629081068
+
+Elapsed Time: 1.44528 seconds
+
+
+
+Best Solution Cost: 1632132573
+
+Elapsed Time: 0.666514 seconds
+
+
+
+Best Solution Cost: 1622631551
+
+Elapsed Time: 1.32626 seconds
+
+
+
+Best Solution Cost: 1622599136
+
+Elapsed Time: 1.98148 seconds
+
+
+
+Best Solution Cost: 1628268106
+
+Elapsed Time: 0.755075 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  J  Á  W  *  *  *
+  *  *  *  *  *  *  É  G  P  L  H  Ó  *  *
+  *  *  *  *  *  *  Q  U  R  E  T  Í  À  *
+  *  *  *  *  *  Y  B  M  A  _  S  V  K  *
+  *  *  *  *  *  Ô  Ú  D  N  O  I  Z  *  *
+  *  *  *  *  *  *  Ê  Ç  Ã  C  F  X  *  *
+  *  *  *  *  *  *  *  Õ  Â  -  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622599136
+Global Time: 18.0811
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.19769 seconds
+
+
+
+Best Solution Cost: 1622805289
+
+Elapsed Time: 1.50601 seconds
+
+
+
+Best Solution Cost: 1622841415
+
+Elapsed Time: 1.04403 seconds
+
+
+
+Best Solution Cost: 1622578648
+
+Elapsed Time: 0.835999 seconds
+
+
+
+Best Solution Cost: 1624042492
+
+Elapsed Time: 1.0341 seconds
+
+
+
+Best Solution Cost: 1624574596
+
+Elapsed Time: 1.17856 seconds
+
+
+
+Best Solution Cost: 1625324321
+
+Elapsed Time: 1.09025 seconds
+
+
+
+Best Solution Cost: 1629497066
+
+Elapsed Time: 0.737799 seconds
+
+
+
+Best Solution Cost: 1624150856
+
+Elapsed Time: 1.22545 seconds
+
+
+
+Best Solution Cost: 1626249953
+
+Elapsed Time: 1.54384 seconds
+
+
+
+Best Solution Cost: 1633660179
+
+Elapsed Time: 0.645024 seconds
+
+
+
+Best Solution Cost: 1629593848
+
+Elapsed Time: 1.38698 seconds
+
+
+
+Best Solution Cost: 1626398578
+
+Elapsed Time: 0.966569 seconds
+
+
+
+Best Solution Cost: 1626652782
+
+Elapsed Time: 1.75168 seconds
+
+
+
+Best Solution Cost: 1636082148
+
+Elapsed Time: 0.659188 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Ô  Y  *  *  *  *  *
+  *  *  *  *  *  *  Õ  Ú  B  Q  É  *  *  *
+  *  *  *  *  *  *  Ç  D  M  U  G  *  *  *
+  *  *  *  *  *  Ê  Ã  N  A  R  P  J  *  *
+  *  *  *  *  *  Â  C  O  _  E  L  Á  *  *
+  *  *  *  *  *  *  F  I  S  T  H  W  *  *
+  *  *  *  *  *  *  X  Z  V  Í  Ó  *  *  *
+  *  *  *  *  *  *  *  K  -  À  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622578648
+Global Time: 16.8032
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1624025573
+
+Elapsed Time: 1.93509 seconds
+
+
+
+Best Solution Cost: 1622988825
+
+Elapsed Time: 1.73618 seconds
+
+
+
+Best Solution Cost: 1623898537
+
+Elapsed Time: 1.60735 seconds
+
+
+
+Best Solution Cost: 1632718629
+
+Elapsed Time: 0.687945 seconds
+
+
+
+Best Solution Cost: 1626219038
+
+Elapsed Time: 1.57908 seconds
+
+
+
+Best Solution Cost: 1632716842
+
+Elapsed Time: 1.40181 seconds
+
+
+
+Best Solution Cost: 1622843459
+
+Elapsed Time: 1.6096 seconds
+
+
+
+Best Solution Cost: 1626082562
+
+Elapsed Time: 0.919242 seconds
+
+
+
+Best Solution Cost: 1626055470
+
+Elapsed Time: 1.59417 seconds
+
+
+
+Best Solution Cost: 1622615185
+
+Elapsed Time: 2.21826 seconds
+
+
+
+Best Solution Cost: 1627655528
+
+Elapsed Time: 1.05137 seconds
+
+
+
+Best Solution Cost: 1630145700
+
+Elapsed Time: 1.04411 seconds
+
+
+
+Best Solution Cost: 1630618829
+
+Elapsed Time: 0.781715 seconds
+
+
+
+Best Solution Cost: 1628837720
+
+Elapsed Time: 0.773674 seconds
+
+
+
+Best Solution Cost: 1626404566
+
+Elapsed Time: 0.98516 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  -  Â  Õ  *  *  *  *  *  *  *
+  *  *  X  F  C  Ã  Ç  Ê  *  *  *  *  *  *
+  *  K  Z  I  O  N  D  Ú  *  *  *  *  *  *
+  *  W  V  S  _  A  M  B  Y  *  *  *  *  *
+  *  À  Í  T  E  R  U  Q  *  *  *  *  *  *
+  *  *  Ó  H  L  P  G  Ô  *  *  *  *  *  *
+  *  *  *  Á  J  É  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622615185
+Global Time: 19.9248
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1628876179
+
+Elapsed Time: 1.28001 seconds
+
+
+
+Best Solution Cost: 1625569744
+
+Elapsed Time: 1.04029 seconds
+
+
+
+Best Solution Cost: 1622593515
+
+Elapsed Time: 1.25383 seconds
+
+
+
+Best Solution Cost: 1629636687
+
+Elapsed Time: 0.702925 seconds
+
+
+
+Best Solution Cost: 1626757712
+
+Elapsed Time: 0.720142 seconds
+
+
+
+Best Solution Cost: 1629372242
+
+Elapsed Time: 0.709047 seconds
+
+
+
+Best Solution Cost: 1622615185
+
+Elapsed Time: 1.47352 seconds
+
+
+
+Best Solution Cost: 1624025573
+
+Elapsed Time: 0.705003 seconds
+
+
+
+Best Solution Cost: 1631531658
+
+Elapsed Time: 1.21702 seconds
+
+
+
+Best Solution Cost: 1622832820
+
+Elapsed Time: 2.10892 seconds
+
+
+
+Best Solution Cost: 1624079303
+
+Elapsed Time: 1.22372 seconds
+
+
+
+Best Solution Cost: 1628484511
+
+Elapsed Time: 1.32179 seconds
+
+
+
+Best Solution Cost: 1622631551
+
+Elapsed Time: 1.00666 seconds
+
+
+
+Best Solution Cost: 1624612501
+
+Elapsed Time: 1.40844 seconds
+
+
+
+Best Solution Cost: 1626101095
+
+Elapsed Time: 1.2203 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  J  Á  W  *  *  *  *  *  *  *  *
+  *  É  G  P  L  H  Ó  *  *  *  *  *  *  *
+  *  Q  U  R  E  T  Í  *  *  *  *  *  *  *
+  Y  B  M  A  _  S  V  À  *  *  *  *  *  *
+  Ô  Ú  D  N  O  I  Z  K  *  *  *  *  *  *
+  *  Ê  Ç  Ã  C  F  X  *  *  *  *  *  *  *
+  *  *  Õ  Â  -  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622593515
+Global Time: 17.3916
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1622579007
+
+Elapsed Time: 0.749596 seconds
+
+
+
+Best Solution Cost: 1626057253
+
+Elapsed Time: 0.991628 seconds
+
+
+
+Best Solution Cost: 1626744555
+
+Elapsed Time: 1.56436 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.70006 seconds
+
+
+
+Best Solution Cost: 1626215816
+
+Elapsed Time: 0.715534 seconds
+
+
+
+Best Solution Cost: 1636984865
+
+Elapsed Time: 0.766835 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 0.771456 seconds
+
+
+
+Best Solution Cost: 1635878910
+
+Elapsed Time: 0.84399 seconds
+
+
+
+Best Solution Cost: 1624203564
+
+Elapsed Time: 0.674223 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.30584 seconds
+
+
+
+Best Solution Cost: 1625774434
+
+Elapsed Time: 1.33 seconds
+
+
+
+Best Solution Cost: 1627676759
+
+Elapsed Time: 1.2863 seconds
+
+
+
+Best Solution Cost: 1624777971
+
+Elapsed Time: 1.84286 seconds
+
+
+
+Best Solution Cost: 1622580379
+
+Elapsed Time: 1.04141 seconds
+
+
+
+Best Solution Cost: 1625629342
+
+Elapsed Time: 0.562298 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  Â  Ê  Õ  *  *
+  *  *  *  *  *  *  *  X  F  C  Ã  Ç  Ô  *
+  *  *  *  *  *  *  K  Z  I  O  N  D  Ú  *
+  *  *  *  *  *  *  -  V  S  _  A  M  B  Y
+  *  *  *  *  *  *  À  Í  T  E  R  U  Q  *
+  *  *  *  *  *  *  *  Ó  H  L  P  G  É  *
+  *  *  *  *  *  *  *  *  W  Á  J  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622579007
+Global Time: 16.1464
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1627343345
+
+Elapsed Time: 1.02254 seconds
+
+
+
+Best Solution Cost: 1624684439
+
+Elapsed Time: 1.02595 seconds
+
+
+
+Best Solution Cost: 1629554094
+
+Elapsed Time: 0.721547 seconds
+
+
+
+Best Solution Cost: 1622788963
+
+Elapsed Time: 1.08638 seconds
+
+
+
+Best Solution Cost: 1633816383
+
+Elapsed Time: 0.611827 seconds
+
+
+
+Best Solution Cost: 1624490225
+
+Elapsed Time: 1.86137 seconds
+
+
+
+Best Solution Cost: 1623407615
+
+Elapsed Time: 0.85342 seconds
+
+
+
+Best Solution Cost: 1626281521
+
+Elapsed Time: 1.45535 seconds
+
+
+
+Best Solution Cost: 1626769978
+
+Elapsed Time: 0.819433 seconds
+
+
+
+Best Solution Cost: 1630197883
+
+Elapsed Time: 0.954592 seconds
+
+
+
+Best Solution Cost: 1628640889
+
+Elapsed Time: 0.851332 seconds
+
+
+
+Best Solution Cost: 1624633912
+
+Elapsed Time: 0.697702 seconds
+
+
+
+Best Solution Cost: 1630817091
+
+Elapsed Time: 0.870965 seconds
+
+
+
+Best Solution Cost: 1625869053
+
+Elapsed Time: 1.62636 seconds
+
+
+
+Best Solution Cost: 1623383248
+
+Elapsed Time: 1.26508 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  Ô  Y  *  *  *  *  *
+  *  *  *  *  *  *  Ê  Ú  B  Q  É  *  *  *
+  *  *  *  *  *  Õ  Ç  D  M  U  G  *  *  *
+  *  *  *  *  *  Â  Ã  N  A  R  P  J  *  *
+  *  *  *  *  *  -  C  O  _  E  L  Á  *  *
+  *  *  *  *  *  K  F  I  S  T  H  W  *  *
+  *  *  *  *  *  À  Z  V  Í  Ó  X  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622788963
+Global Time: 15.7238
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1623012604
+
+Elapsed Time: 0.987611 seconds
+
+
+
+Best Solution Cost: 1624022875
+
+Elapsed Time: 1.20607 seconds
+
+
+
+Best Solution Cost: 1622593515
+
+Elapsed Time: 2.45134 seconds
+
+
+
+Best Solution Cost: 1631165432
+
+Elapsed Time: 1.16572 seconds
+
+
+
+Best Solution Cost: 1626514243
+
+Elapsed Time: 0.744372 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.13925 seconds
+
+
+
+Best Solution Cost: 1635302376
+
+Elapsed Time: 1.04358 seconds
+
+
+
+Best Solution Cost: 1627617561
+
+Elapsed Time: 0.944668 seconds
+
+
+
+Best Solution Cost: 1623114757
+
+Elapsed Time: 1.29146 seconds
+
+
+
+Best Solution Cost: 1623330218
+
+Elapsed Time: 1.44127 seconds
+
+
+
+Best Solution Cost: 1624025573
+
+Elapsed Time: 1.75909 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.26943 seconds
+
+
+
+Best Solution Cost: 1626129556
+
+Elapsed Time: 1.37503 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 0.717105 seconds
+
+
+
+Best Solution Cost: 1627611790
+
+Elapsed Time: 0.835086 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  J  Á  W  *  *  *  *  *  *
+  *  *  *  É  G  P  L  H  Ó  *  *  *  *  *
+  *  *  *  Q  U  R  E  T  Í  *  *  *  *  *
+  *  *  Y  B  M  A  _  S  V  À  *  *  *  *
+  *  *  Ô  Ú  D  N  O  I  Z  K  *  *  *  *
+  *  *  *  Ê  Ç  Ã  C  F  X  *  *  *  *  *
+  *  *  *  *  Õ  Â  -  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622593515
+Global Time: 18.3711
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1623999149
+
+Elapsed Time: 0.9922 seconds
+
+
+
+Best Solution Cost: 1626197245
+
+Elapsed Time: 1.31087 seconds
+
+
+
+Best Solution Cost: 1624976692
+
+Elapsed Time: 2.18003 seconds
+
+
+
+Best Solution Cost: 1632894450
+
+Elapsed Time: 1.00665 seconds
+
+
+
+Best Solution Cost: 1623114757
+
+Elapsed Time: 1.1274 seconds
+
+
+
+Best Solution Cost: 1628475236
+
+Elapsed Time: 0.665068 seconds
+
+
+
+Best Solution Cost: 1629373788
+
+Elapsed Time: 0.955761 seconds
+
+
+
+Best Solution Cost: 1622631551
+
+Elapsed Time: 1.3681 seconds
+
+
+
+Best Solution Cost: 1622631551
+
+Elapsed Time: 1.11652 seconds
+
+
+
+Best Solution Cost: 1623285818
+
+Elapsed Time: 0.984111 seconds
+
+
+
+Best Solution Cost: 1628617496
+
+Elapsed Time: 0.734669 seconds
+
+
+
+Best Solution Cost: 1626840020
+
+Elapsed Time: 1.33167 seconds
+
+
+
+Best Solution Cost: 1624612501
+
+Elapsed Time: 1.22036 seconds
+
+
+
+Best Solution Cost: 1623338207
+
+Elapsed Time: 0.647958 seconds
+
+
+
+Best Solution Cost: 1623785171
+
+Elapsed Time: 0.702728 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  X  Z  V  Í  Ó  À  *  *
+  *  *  *  *  *  K  F  I  S  T  H  W  *  *
+  *  *  *  *  *  -  C  O  _  E  L  Á  *  *
+  *  *  *  *  *  Â  Ã  N  A  R  P  J  *  *
+  *  *  *  *  *  Õ  Ç  D  M  U  G  *  *  *
+  *  *  *  *  *  *  Ê  Ú  B  Q  É  *  *  *
+  *  *  *  *  *  *  *  Ô  Y  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622631551
+Global Time: 16.3441
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1630232993
+
+Elapsed Time: 1.39652 seconds
+
+
+
+Best Solution Cost: 1623311880
+
+Elapsed Time: 1.67528 seconds
+
+
+
+Best Solution Cost: 1631973728
+
+Elapsed Time: 0.642462 seconds
+
+
+
+Best Solution Cost: 1622732111
+
+Elapsed Time: 1.4108 seconds
+
+
+
+Best Solution Cost: 1622631551
+
+Elapsed Time: 0.603545 seconds
+
+
+
+Best Solution Cost: 1625003541
+
+Elapsed Time: 1.34488 seconds
+
+
+
+Best Solution Cost: 1624079303
+
+Elapsed Time: 1.56841 seconds
+
+
+
+Best Solution Cost: 1632870159
+
+Elapsed Time: 0.933843 seconds
+
+
+
+Best Solution Cost: 1632870159
+
+Elapsed Time: 0.651899 seconds
+
+
+
+Best Solution Cost: 1633323592
+
+Elapsed Time: 1.11958 seconds
+
+
+
+Best Solution Cost: 1624084269
+
+Elapsed Time: 2.85938 seconds
+
+
+
+Best Solution Cost: 1622788963
+
+Elapsed Time: 1.28729 seconds
+
+
+
+Best Solution Cost: 1625824679
+
+Elapsed Time: 1.37791 seconds
+
+
+
+Best Solution Cost: 1632870159
+
+Elapsed Time: 0.832981 seconds
+
+
+
+Best Solution Cost: 1624591020
+
+Elapsed Time: 1.15388 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  Y  Ô  *  *  *
+  *  *  *  *  *  *  *  É  Q  B  Ú  Ê  *  *
+  *  *  *  *  *  *  *  G  U  M  D  Ç  Õ  *
+  *  *  *  *  *  *  J  P  R  A  N  Ã  Â  *
+  *  *  *  *  *  *  Á  L  E  _  O  C  -  *
+  *  *  *  *  *  *  W  H  T  S  I  F  K  *
+  *  *  *  *  *  *  À  Ó  Í  V  Z  X  *  *
+
+-----x-----
+Best Global Solution Cost: 1622631551
+Global Time: 18.8586
+-----x-----
+Solving:  Portuguese_Rand_5.txt :
+
+
+Best Solution Cost: 1626080954
+
+Elapsed Time: 1.78703 seconds
+
+
+
+Best Solution Cost: 1624612501
+
+Elapsed Time: 0.601611 seconds
+
+
+
+Best Solution Cost: 1623999149
+
+Elapsed Time: 1.47602 seconds
+
+
+
+Best Solution Cost: 1627617561
+
+Elapsed Time: 0.712424 seconds
+
+
+
+Best Solution Cost: 1628617496
+
+Elapsed Time: 0.970163 seconds
+
+
+
+Best Solution Cost: 1629497066
+
+Elapsed Time: 0.787352 seconds
+
+
+
+Best Solution Cost: 1625076083
+
+Elapsed Time: 0.913689 seconds
+
+
+
+Best Solution Cost: 1627617561
+
+Elapsed Time: 1.3148 seconds
+
+
+
+Best Solution Cost: 1622715894
+
+Elapsed Time: 0.862983 seconds
+
+
+
+Best Solution Cost: 1626247528
+
+Elapsed Time: 1.42535 seconds
+
+
+
+Best Solution Cost: 1622750927
+
+Elapsed Time: 1.3793 seconds
+
+
+
+Best Solution Cost: 1629543964
+
+Elapsed Time: 1.20719 seconds
+
+
+
+Best Solution Cost: 1635929669
+
+Elapsed Time: 0.759665 seconds
+
+
+
+Best Solution Cost: 1628284151
+
+Elapsed Time: 0.829082 seconds
+
+
+
+Best Solution Cost: 1626080954
+
+Elapsed Time: 0.691524 seconds
+
+
+-----x-----
+Best Solution: 
+  *  *  *  *  K  W  À  *  *  *  *  *  *  *
+  *  *  *  Z  V  Í  Ó  X  *  *  *  *  *  *
+  *  *  *  F  I  S  T  H  Á  *  *  *  *  *
+  *  *  -  C  O  _  E  L  J  *  *  *  *  *
+  *  *  Â  Ã  N  A  R  P  É  *  *  *  *  *
+  *  *  Õ  Ç  D  M  U  G  *  *  *  *  *  *
+  *  *  *  Ê  Ú  B  Q  Ô  *  *  *  *  *  *
+  *  *  *  *  *  Y  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1622715894
+Global Time: 15.7182
+-----x-----

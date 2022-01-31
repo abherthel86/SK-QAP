@@ -1,0 +1,63 @@
+
+
+Best Solution Cost: 726747093
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 726805655
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 725470674
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 726396675
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 725470674
+
+
+Best Solution Cost: 724467172
+
+
+Best Solution Cost: 726396675
+
+
+Best Solution Cost: 725878140
+
+-----x-----
+Best Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  Q  J  *  *  *  *  *  *
+  *  *  *  *  X  M  U  P  B  *  *  *  *  *
+  *  *  *  *  F  O  R  S  Y  *  *  *  *  *
+  *  *  *  *  C  T  E  A  L  *  *  *  *  *
+  *  *  *  *  K  H  I  N  D  *  *  *  *  *
+  *  *  *  *  *  W  V  G  Z  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 724467172
+Global Time: 2.46767
+-----x-----

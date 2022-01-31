@@ -1,0 +1,26 @@
+English_Rand_1.txt - Mean Cost: 647922215
+English_Rand_2.txt - Mean Cost: 656387046
+English_Rand_3.txt - Mean Cost: 654115416
+English_Rand_4.txt - Mean Cost: 657044126
+English_Rand_5.txt - Mean Cost: 654644590
+English.txt - Mean Cost: 1199692498
+French_Rand_1.txt - Mean Cost: 622467083
+French_Rand_2.txt - Mean Cost: 624780716
+French_Rand_3.txt - Mean Cost: 622654608
+French_Rand_4.txt - Mean Cost: 623408762
+French_Rand_5.txt - Mean Cost: 621803922
+French.txt - Mean Cost: 13498425561
+Italian_Rand_1.txt - Mean Cost: 2627442363
+Italian_Rand_2.txt - Mean Cost: 2633095718
+Italian_Rand_3.txt - Mean Cost: 2623539535
+Italian_Rand_4.txt - Mean Cost: 2630020658
+Italian_Rand_5.txt - Mean Cost: 2627293144
+Italian.txt - Mean Cost: 4026738642
+Spanish_Rand_1.txt - Mean Cost: 823607996
+Spanish_Rand_2.txt - Mean Cost: 826635355
+Spanish_Rand_3.txt - Mean Cost: 822846081
+Spanish_Rand_4.txt - Mean Cost: 828954191
+Spanish_Rand_5.txt - Mean Cost: 824770157
+Spanish.txt - Mean Cost: 1229791898
+Spanish.txt - Mean Cost: 1229814975
+

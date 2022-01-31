@@ -1,0 +1,27 @@
+set terminal postscript portrait color 12
+set encoding iso_8859_1
+
+#set terminal x11
+
+set size 1,0.5
+
+set output "spa.ps" #nome do arquivo de saida
+
+set yrange [0:1]        #intervalo y
+set xrange [0.01:9]      #intervalo x
+
+#set nologscale 
+#set logscale x 2
+
+set border                       #borda no grafico (outra apcao: noborder)
+set nokey                        #limpa legenda, tem que ser usado porque senao fica uma por cima da outra
+#set key bottom Right noreverse   #local da legenda
+
+set ylabel "Probabilidade"
+set xlabel "Tempo(s)"
+
+plot "spa.txt" using 1:2 title "instancia" with points 7 1  #lw 2
+
+#test  #testar os tipos de linhas disponiveis
+exit
+

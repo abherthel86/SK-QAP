@@ -1,0 +1,25 @@
+int count = 0;
+	for (int i = 0; i < ROW; i++){
+		for (int j = 0; j < COL; j++){
+			if (keyb->grid[i][j] != -1){
+				int pos = keyb->grid[i][j];
+				cout<<"POS: "<<pos<<endl;
+				int conta = 0;
+				for (int m = 0; m < ROW; m++){
+					for (int n = 0; n < COL; n++){
+						if (keyb->grid[m][n] != -1){
+							int next = keyb->grid[m][n];
+							cost = cost + ( data->freq_matrix[pos][next] * data->b_matrix[count][conta]);
+						}
+						conta++;
+					}	//for 'n'
+				}	//for 'm'		
+			}	//if
+			count++;
+		}	//for 'j'
+	}	//for 'i'
+	
+	cost = cost/2;
+	cout<<std::fixed;
+	cout<<"COUNT "<<count<<endl;
+	cout<<"COST: "<<std::setprecision(10)<<cost<<endl

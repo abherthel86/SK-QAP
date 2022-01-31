@@ -1,0 +1,981 @@
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 355 Swap Pair: 125 Move Contour: 169
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 4 Pert4: 0
+Cpu Time: 0.7 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 355 Swap Pair: 125 Move Contour: 169
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 4 Pert4: 0
+Cpu Time: 1.424 seconds
+
+
+
+Best Solution Cost: 1201512461
+
+RVND Stats: Swap: 260 Swap Pair: 74 Move Contour: 110
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 0 Pert4: 0
+Cpu Time: 1.892 seconds
+
+
+
+Best Solution Cost: 1202522094
+
+RVND Stats: Swap: 592 Swap Pair: 200 Move Contour: 293
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 5 Pert4: 1
+Cpu Time: 3.028 seconds
+
+
+
+Best Solution Cost: 1200783340
+
+RVND Stats: Swap: 389 Swap Pair: 130 Move Contour: 198
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 3.752 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 335 Swap Pair: 118 Move Contour: 180
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 3 Pert4: 1
+Cpu Time: 4.472 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 335 Swap Pair: 118 Move Contour: 180
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 3 Pert4: 1
+Cpu Time: 5.208 seconds
+
+
+
+Best Solution Cost: 1201789858
+
+RVND Stats: Swap: 353 Swap Pair: 114 Move Contour: 160
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 3
+Cpu Time: 5.892 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 456 Swap Pair: 145 Move Contour: 253
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 1 Pert4: 0
+Cpu Time: 6.776 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 319 Swap Pair: 95 Move Contour: 153
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 0 Pert4: 2
+Cpu Time: 7.428 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  -  K  *  *  *  *  *  *  *
+  *  *  *  *  V  Y  R  C  X  *  *  *  *  *
+  *  *  *  *  L  A  E  H  B  *  *  *  *  *
+  *  *  *  '  D  N  _  T  W  *  *  *  *  *
+  *  *  *  *  G  I  S  O  F  *  *  *  *  *
+  *  *  *  *  Z  P  M  U  J  *  *  *  *  *
+  *  *  *  *  *  *  *  Q  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 372 Swap Pair: 114 Move Contour: 157
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 4 Pert4: 1
+Cpu Time: 0.728 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 468 Swap Pair: 150 Move Contour: 233
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 0 Pert4: 0
+Cpu Time: 1.584 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 468 Swap Pair: 150 Move Contour: 233
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 0 Pert4: 0
+Cpu Time: 2.516 seconds
+
+
+
+Best Solution Cost: 1202155504
+
+RVND Stats: Swap: 338 Swap Pair: 124 Move Contour: 179
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 3.112 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 364 Swap Pair: 110 Move Contour: 173
+Perturbation Stats: Pert1: 1 Pert2: 3 Pert3: 1 Pert4: 2
+Cpu Time: 3.776 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 314 Swap Pair: 109 Move Contour: 161
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 1 Pert4: 1
+Cpu Time: 4.396 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 314 Swap Pair: 106 Move Contour: 158
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 4.956 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 314 Swap Pair: 106 Move Contour: 158
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 5.56 seconds
+
+
+
+Best Solution Cost: 1202672113
+
+RVND Stats: Swap: 297 Swap Pair: 83 Move Contour: 132
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 1 Pert4: 0
+Cpu Time: 6.164 seconds
+
+
+
+Best Solution Cost: 1201519255
+
+RVND Stats: Swap: 286 Swap Pair: 87 Move Contour: 160
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 2 Pert4: 2
+Cpu Time: 6.744 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  J  F  W  B  X  *  *  *  *  *
+  *  *  *  Q  U  O  T  H  C  *  *  *  *  *
+  *  *  *  *  M  S  _  E  R  K  *  *  *  *
+  *  *  *  *  P  I  N  A  Y  -  *  *  *  *
+  *  *  *  *  Z  G  D  L  V  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 397 Swap Pair: 167 Move Contour: 190
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 3 Pert4: 0
+Cpu Time: 0.788 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 397 Swap Pair: 167 Move Contour: 190
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 3 Pert4: 0
+Cpu Time: 1.556 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 371 Swap Pair: 113 Move Contour: 198
+Perturbation Stats: Pert1: 2 Pert2: 2 Pert3: 0 Pert4: 2
+Cpu Time: 2.244 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 505 Swap Pair: 175 Move Contour: 262
+Perturbation Stats: Pert1: 2 Pert2: 3 Pert3: 1 Pert4: 0
+Cpu Time: 3.244 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 407 Swap Pair: 158 Move Contour: 203
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 3 Pert4: 3
+Cpu Time: 4.08 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 303 Swap Pair: 86 Move Contour: 144
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 0 Pert4: 0
+Cpu Time: 4.688 seconds
+
+
+
+Best Solution Cost: 1202428593
+
+RVND Stats: Swap: 597 Swap Pair: 178 Move Contour: 295
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 3 Pert4: 4
+Cpu Time: 5.848 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 345 Swap Pair: 130 Move Contour: 183
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 1 Pert4: 0
+Cpu Time: 6.568 seconds
+
+
+
+Best Solution Cost: 1199954997
+
+RVND Stats: Swap: 599 Swap Pair: 172 Move Contour: 295
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 2 Pert4: 3
+Cpu Time: 7.648 seconds
+
+
+
+Best Solution Cost: 1201202313
+
+RVND Stats: Swap: 343 Swap Pair: 126 Move Contour: 166
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 2 Pert4: 1
+Cpu Time: 8.396 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Q  *  *  *  *  *  *  *  *
+  *  *  *  *  J  U  M  P  Z  *  *  *  *  *
+  *  *  *  *  F  O  S  I  G  *  *  *  *  *
+  *  *  *  *  W  T  _  N  D  '  *  *  *  *
+  *  *  *  *  B  H  E  A  L  *  *  *  *  *
+  *  *  *  *  X  C  R  Y  V  *  *  *  *  *
+  *  *  *  *  *  *  K  -  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 549 Swap Pair: 197 Move Contour: 283
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 1.068 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 361 Swap Pair: 111 Move Contour: 193
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 1.736 seconds
+
+
+
+Best Solution Cost: 1202066859
+
+RVND Stats: Swap: 214 Swap Pair: 89 Move Contour: 118
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 2.128 seconds
+
+
+
+Best Solution Cost: 1202066859
+
+RVND Stats: Swap: 214 Swap Pair: 89 Move Contour: 118
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 2.528 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 380 Swap Pair: 142 Move Contour: 164
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 1 Pert4: 1
+Cpu Time: 3.272 seconds
+
+
+
+Best Solution Cost: 1201512461
+
+RVND Stats: Swap: 322 Swap Pair: 114 Move Contour: 172
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 1 Pert4: 0
+Cpu Time: 3.912 seconds
+
+
+
+Best Solution Cost: 1201512461
+
+RVND Stats: Swap: 322 Swap Pair: 114 Move Contour: 172
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 1 Pert4: 0
+Cpu Time: 4.672 seconds
+
+
+
+Best Solution Cost: 1201250816
+
+RVND Stats: Swap: 485 Swap Pair: 169 Move Contour: 229
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 1 Pert4: 2
+Cpu Time: 5.556 seconds
+
+
+
+Best Solution Cost: 1202066859
+
+RVND Stats: Swap: 262 Swap Pair: 84 Move Contour: 127
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 1 Pert4: 1
+Cpu Time: 6.044 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 569 Swap Pair: 157 Move Contour: 267
+Perturbation Stats: Pert1: 3 Pert2: 1 Pert3: 0 Pert4: 1
+Cpu Time: 7.108 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  J  F  W  B  X  *  *  *  *  *
+  *  *  *  Q  U  O  T  H  C  *  *  *  *  *
+  *  *  *  *  M  S  _  E  R  K  *  *  *  *
+  *  *  *  *  P  I  N  A  Y  -  *  *  *  *
+  *  *  *  *  Z  G  D  L  V  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1201202313
+
+RVND Stats: Swap: 436 Swap Pair: 129 Move Contour: 199
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 0 Pert4: 2
+Cpu Time: 0.744 seconds
+
+
+
+Best Solution Cost: 1200459084
+
+RVND Stats: Swap: 311 Swap Pair: 98 Move Contour: 138
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 0 Pert4: 1
+Cpu Time: 1.3 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 267 Swap Pair: 97 Move Contour: 126
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 1.84 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 267 Swap Pair: 97 Move Contour: 126
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 2.42 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 414 Swap Pair: 153 Move Contour: 221
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 0 Pert4: 0
+Cpu Time: 3.324 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 491 Swap Pair: 171 Move Contour: 250
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 4.22 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 384 Swap Pair: 144 Move Contour: 174
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 4.956 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 345 Swap Pair: 118 Move Contour: 178
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 3
+Cpu Time: 5.688 seconds
+
+
+
+Best Solution Cost: 1201314154
+
+RVND Stats: Swap: 246 Swap Pair: 85 Move Contour: 118
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 0 Pert4: 0
+Cpu Time: 6.184 seconds
+
+
+
+Best Solution Cost: 1201314154
+
+RVND Stats: Swap: 246 Swap Pair: 85 Move Contour: 118
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 0 Pert4: 0
+Cpu Time: 6.64 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  J  F  W  B  X  *  *  *  *  *
+  *  *  *  Q  U  O  T  H  C  *  *  *  *  *
+  *  *  *  *  M  S  _  E  R  K  *  *  *  *
+  *  *  *  *  P  I  N  A  Y  -  *  *  *  *
+  *  *  *  *  Z  G  D  L  V  *  *  *  *  *
+  *  *  *  *  *  *  '  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1201314154
+
+RVND Stats: Swap: 282 Swap Pair: 92 Move Contour: 153
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 0 Pert4: 0
+Cpu Time: 0.596 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 436 Swap Pair: 179 Move Contour: 224
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 1.436 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 709 Swap Pair: 214 Move Contour: 372
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 3 Pert4: 3
+Cpu Time: 2.844 seconds
+
+
+
+Best Solution Cost: 1201930038
+
+RVND Stats: Swap: 345 Swap Pair: 117 Move Contour: 164
+Perturbation Stats: Pert1: 2 Pert2: 2 Pert3: 1 Pert4: 0
+Cpu Time: 3.524 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 470 Swap Pair: 152 Move Contour: 224
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 3
+Cpu Time: 4.376 seconds
+
+
+
+Best Solution Cost: 1201623379
+
+RVND Stats: Swap: 343 Swap Pair: 122 Move Contour: 174
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 3 Pert4: 1
+Cpu Time: 5.012 seconds
+
+
+
+Best Solution Cost: 1200690854
+
+RVND Stats: Swap: 676 Swap Pair: 275 Move Contour: 355
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 4 Pert4: 2
+Cpu Time: 6.368 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 590 Swap Pair: 200 Move Contour: 302
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 3 Pert4: 3
+Cpu Time: 7.436 seconds
+
+
+
+Best Solution Cost: 1199371373
+
+RVND Stats: Swap: 249 Swap Pair: 87 Move Contour: 124
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 1 Pert4: 1
+Cpu Time: 7.96 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 601 Swap Pair: 208 Move Contour: 304
+Perturbation Stats: Pert1: 1 Pert2: 3 Pert3: 2 Pert4: 2
+Cpu Time: 9.156 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Q  *  *  *  *  *  *  *  *
+  *  *  *  *  J  U  M  P  Z  *  *  *  *  *
+  *  *  *  *  F  O  S  I  G  *  *  *  *  *
+  *  *  *  *  W  T  _  N  D  '  *  *  *  *
+  *  *  *  *  B  H  E  A  L  *  *  *  *  *
+  *  *  *  *  X  C  R  Y  V  *  *  *  *  *
+  *  *  *  *  *  *  K  -  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1199371373
+
+RVND Stats: Swap: 642 Swap Pair: 229 Move Contour: 304
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 1 Pert4: 1
+Cpu Time: 1.172 seconds
+
+
+
+Best Solution Cost: 1201314154
+
+RVND Stats: Swap: 482 Swap Pair: 147 Move Contour: 237
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 3 Pert4: 0
+Cpu Time: 2.072 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 413 Swap Pair: 138 Move Contour: 211
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 2.956 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 444 Swap Pair: 141 Move Contour: 216
+Perturbation Stats: Pert1: 1 Pert2: 3 Pert3: 2 Pert4: 1
+Cpu Time: 3.768 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 772 Swap Pair: 264 Move Contour: 381
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 3 Pert4: 3
+Cpu Time: 5.376 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 514 Swap Pair: 167 Move Contour: 275
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 1 Pert4: 2
+Cpu Time: 6.34 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 395 Swap Pair: 128 Move Contour: 192
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 3 Pert4: 1
+Cpu Time: 7.084 seconds
+
+
+
+Best Solution Cost: 1199206645
+
+RVND Stats: Swap: 449 Swap Pair: 147 Move Contour: 248
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 2
+Cpu Time: 7.996 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 405 Swap Pair: 165 Move Contour: 221
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 8.808 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 405 Swap Pair: 165 Move Contour: 221
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 1 Pert4: 1
+Cpu Time: 9.612 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Q  *  *  *  *  *  *  *  *
+  *  *  *  *  J  U  M  P  Z  *  *  *  *  *
+  *  *  *  *  F  O  S  I  G  *  *  *  *  *
+  *  *  *  *  W  T  _  N  D  '  *  *  *  *
+  *  *  *  *  B  H  E  A  L  *  *  *  *  *
+  *  *  *  *  X  C  R  Y  V  *  *  *  *  *
+  *  *  *  *  *  *  K  -  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1200910077
+
+RVND Stats: Swap: 353 Swap Pair: 128 Move Contour: 201
+Perturbation Stats: Pert1: 3 Pert2: 2 Pert3: 0 Pert4: 0
+Cpu Time: 0.86 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 850 Swap Pair: 300 Move Contour: 433
+Perturbation Stats: Pert1: 2 Pert2: 3 Pert3: 2 Pert4: 2
+Cpu Time: 2.364 seconds
+
+
+
+Best Solution Cost: 1199129439
+
+RVND Stats: Swap: 481 Swap Pair: 158 Move Contour: 238
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 2 Pert4: 1
+Cpu Time: 3.384 seconds
+
+
+
+Best Solution Cost: 1201980632
+
+RVND Stats: Swap: 405 Swap Pair: 135 Move Contour: 182
+Perturbation Stats: Pert1: 3 Pert2: 1 Pert3: 2 Pert4: 1
+Cpu Time: 4.256 seconds
+
+
+
+Best Solution Cost: 1201202313
+
+RVND Stats: Swap: 498 Swap Pair: 148 Move Contour: 234
+Perturbation Stats: Pert1: 0 Pert2: 4 Pert3: 2 Pert4: 0
+Cpu Time: 5.196 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 548 Swap Pair: 176 Move Contour: 232
+Perturbation Stats: Pert1: 0 Pert2: 3 Pert3: 2 Pert4: 0
+Cpu Time: 6.256 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 372 Swap Pair: 127 Move Contour: 196
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 2 Pert4: 0
+Cpu Time: 7.052 seconds
+
+
+
+Best Solution Cost: 1199922584
+
+RVND Stats: Swap: 372 Swap Pair: 127 Move Contour: 196
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 2 Pert4: 0
+Cpu Time: 7.772 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 495 Swap Pair: 187 Move Contour: 250
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 1 Pert4: 0
+Cpu Time: 8.78 seconds
+
+
+
+Best Solution Cost: 1201990687
+
+RVND Stats: Swap: 327 Swap Pair: 118 Move Contour: 166
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 9.58 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  -  K  *  *  *  *  *  *  *
+  *  *  *  *  V  Y  R  C  X  *  *  *  *  *
+  *  *  *  *  L  A  E  H  B  *  *  *  *  *
+  *  *  *  '  D  N  _  T  W  *  *  *  *  *
+  *  *  *  *  G  I  S  O  F  *  *  *  *  *
+  *  *  *  *  Z  P  M  U  J  *  *  *  *  *
+  *  *  *  *  *  *  *  Q  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1201824351
+
+RVND Stats: Swap: 469 Swap Pair: 175 Move Contour: 248
+Perturbation Stats: Pert1: 0 Pert2: 0 Pert3: 1 Pert4: 2
+Cpu Time: 0.88 seconds
+
+
+
+Best Solution Cost: 1201250816
+
+RVND Stats: Swap: 425 Swap Pair: 123 Move Contour: 201
+Perturbation Stats: Pert1: 2 Pert2: 2 Pert3: 1 Pert4: 0
+Cpu Time: 1.664 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 605 Swap Pair: 226 Move Contour: 340
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 2 Pert4: 1
+Cpu Time: 2.78 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 332 Swap Pair: 121 Move Contour: 166
+Perturbation Stats: Pert1: 1 Pert2: 1 Pert3: 1 Pert4: 2
+Cpu Time: 3.464 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 434 Swap Pair: 132 Move Contour: 207
+Perturbation Stats: Pert1: 2 Pert2: 0 Pert3: 3 Pert4: 1
+Cpu Time: 4.348 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 435 Swap Pair: 142 Move Contour: 210
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 2 Pert4: 2
+Cpu Time: 5.188 seconds
+
+
+
+Best Solution Cost: 1199395614
+
+RVND Stats: Swap: 435 Swap Pair: 142 Move Contour: 210
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 2 Pert4: 2
+Cpu Time: 5.98 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 468 Swap Pair: 164 Move Contour: 235
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 2 Pert4: 1
+Cpu Time: 6.892 seconds
+
+
+
+Best Solution Cost: 1203925759
+
+RVND Stats: Swap: 356 Swap Pair: 113 Move Contour: 151
+Perturbation Stats: Pert1: 1 Pert2: 2 Pert3: 2 Pert4: 0
+Cpu Time: 7.54 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 304 Swap Pair: 100 Move Contour: 137
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 8.16 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  K  -  *  *  *  *  *  *
+  *  *  *  *  X  C  R  Y  V  *  *  *  *  *
+  *  *  *  *  B  H  E  A  L  *  *  *  *  *
+  *  *  *  *  W  T  _  N  D  '  *  *  *  *
+  *  *  *  *  F  O  S  I  G  *  *  *  *  *
+  *  *  *  *  J  U  M  P  Z  *  *  *  *  *
+  *  *  *  *  *  Q  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Solving:  English.txt :
+T H E O F A N D I W S R Y U B C V M L P K G J Q X ' Z - _ 
+
+
+Best Solution Cost: 1200459084
+
+RVND Stats: Swap: 354 Swap Pair: 107 Move Contour: 177
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 3
+Cpu Time: 0.692 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 495 Swap Pair: 158 Move Contour: 223
+Perturbation Stats: Pert1: 3 Pert2: 1 Pert3: 1 Pert4: 2
+Cpu Time: 1.628 seconds
+
+
+
+Best Solution Cost: 1199567506
+
+RVND Stats: Swap: 553 Swap Pair: 191 Move Contour: 276
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 2
+Cpu Time: 2.664 seconds
+
+
+
+Best Solution Cost: 1201935403
+
+RVND Stats: Swap: 380 Swap Pair: 159 Move Contour: 188
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 2 Pert4: 0
+Cpu Time: 3.448 seconds
+
+
+
+Best Solution Cost: 1201935403
+
+RVND Stats: Swap: 380 Swap Pair: 159 Move Contour: 188
+Perturbation Stats: Pert1: 0 Pert2: 2 Pert3: 2 Pert4: 0
+Cpu Time: 4.188 seconds
+
+
+
+Best Solution Cost: 1201314154
+
+RVND Stats: Swap: 358 Swap Pair: 121 Move Contour: 195
+Perturbation Stats: Pert1: 0 Pert2: 1 Pert3: 1 Pert4: 0
+Cpu Time: 4.912 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 475 Swap Pair: 169 Move Contour: 208
+Perturbation Stats: Pert1: 1 Pert2: 0 Pert3: 2 Pert4: 0
+Cpu Time: 5.808 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 382 Swap Pair: 126 Move Contour: 189
+Perturbation Stats: Pert1: 2 Pert2: 1 Pert3: 0 Pert4: 0
+Cpu Time: 6.528 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 324 Swap Pair: 98 Move Contour: 167
+Perturbation Stats: Pert1: 3 Pert2: 1 Pert3: 2 Pert4: 0
+Cpu Time: 7.156 seconds
+
+
+
+Best Solution Cost: 1199070166
+
+RVND Stats: Swap: 324 Swap Pair: 98 Move Contour: 167
+Perturbation Stats: Pert1: 3 Pert2: 1 Pert3: 2 Pert4: 0
+Cpu Time: 7.792 seconds
+
+
+-----x-----
+Best Global Solution: 
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  Q  *  *  *  *  *  *  *  *
+  *  *  *  *  J  U  M  P  Z  *  *  *  *  *
+  *  *  *  *  F  O  S  I  G  *  *  *  *  *
+  *  *  *  *  W  T  _  N  D  '  *  *  *  *
+  *  *  *  *  B  H  E  A  L  *  *  *  *  *
+  *  *  *  *  X  C  R  Y  V  *  *  *  *  *
+  *  *  *  *  *  *  K  -  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+
+Best Global Solution Cost: 1199070166
+Media Final Instancia English.txt : 1199070166

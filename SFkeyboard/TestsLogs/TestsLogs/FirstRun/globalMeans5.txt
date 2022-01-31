@@ -1,0 +1,26 @@
+English_Rand_1.txt - Mean Cost: 650467850 - Mean Time: 0.114561
+English_Rand_2.txt - Mean Cost: 657713568 - Mean Time: 0.124286
+English_Rand_3.txt - Mean Cost: 654914579 - Mean Time: 0.130474
+English_Rand_4.txt - Mean Cost: 658369352 - Mean Time: 0.118349
+English_Rand_5.txt - Mean Cost: 655770394 - Mean Time: 0.112787
+English.txt - Mean Cost: 1201961279 - Mean Time: 0.169458
+French_Rand_1.txt - Mean Cost: 623249400 - Mean Time: 1.4283
+French_Rand_2.txt - Mean Cost: 627369090 - Mean Time: 0.870789
+French_Rand_3.txt - Mean Cost: 625359187 - Mean Time: 0.896385
+French_Rand_4.txt - Mean Cost: 626885814 - Mean Time: 1.1026
+French_Rand_5.txt - Mean Cost: 623532269 - Mean Time: 1.08758
+French.txt - Mean Cost: 13539520411 - Mean Time: 1.93515
+Italian_Rand_1.txt - Mean Cost: 2637609185 - Mean Time: 0.533211
+Italian_Rand_2.txt - Mean Cost: 2641263659 - Mean Time: 0.571957
+Italian_Rand_3.txt - Mean Cost: 2632131200 - Mean Time: 0.533737
+Italian_Rand_4.txt - Mean Cost: 2633943086 - Mean Time: 0.793855
+Italian_Rand_5.txt - Mean Cost: 2630868691 - Mean Time: 0.446094
+Italian.txt - Mean Cost: 4035916762 - Mean Time: 0.571645
+Spanish_Rand_1.txt - Mean Cost: 824019151 - Mean Time: 0.313405
+Spanish_Rand_2.txt - Mean Cost: 828306668 - Mean Time: 0.322858
+Spanish_Rand_3.txt - Mean Cost: 824230240 - Mean Time: 0.369351
+Spanish_Rand_4.txt - Mean Cost: 830157949 - Mean Time: 0.354462
+Spanish_Rand_5.txt - Mean Cost: 825378243 - Mean Time: 0.419529
+Spanish.txt - Mean Cost: 1230371478 - Mean Time: 0.502117
+Spanish.txt - Mean Cost: 1229975371 - Mean Time: 0.379253
+

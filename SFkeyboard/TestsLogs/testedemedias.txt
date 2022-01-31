@@ -1,0 +1,551 @@
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+Instancia: English_Rand_1.txt
+
+English_Rand_1.txt - Mean Cost: 657727027
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+Instancia: English_Rand_2.txt
+
+English_Rand_2.txt - Mean Cost: 676328602
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+Instancia: English_Rand_3.txt
+
+English_Rand_3.txt - Mean Cost: 668966803
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+Instancia: English_Rand_4.txt
+
+English_Rand_4.txt - Mean Cost: 668995373
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+Instancia: English_Rand_5.txt
+
+English_Rand_5.txt - Mean Cost: 670257570
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+Instancia: English.txt
+
+English.txt - Mean Cost: 1203508374
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+Instancia: French_Rand_1.txt
+
+French_Rand_1.txt - Mean Cost: 628812580
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+Instancia: French_Rand_2.txt
+
+French_Rand_2.txt - Mean Cost: 633046712
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+Instancia: French_Rand_3.txt
+
+French_Rand_3.txt - Mean Cost: 629895687
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+Instancia: French_Rand_4.txt
+
+French_Rand_4.txt - Mean Cost: 631450460
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+Instancia: French_Rand_5.txt
+
+French_Rand_5.txt - Mean Cost: 628386689
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+Instancia: French.txt
+
+French.txt - Mean Cost: 14357206346
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Instancia: Italian_Rand_1.txt
+
+Italian_Rand_1.txt - Mean Cost: 2655937515
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Instancia: Italian_Rand_2.txt
+
+Italian_Rand_2.txt - Mean Cost: 2657031966
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Instancia: Italian_Rand_3.txt
+
+Italian_Rand_3.txt - Mean Cost: 2686380383
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Instancia: Italian_Rand_4.txt
+
+Italian_Rand_4.txt - Mean Cost: 2690106259
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Instancia: Italian_Rand_5.txt
+
+Italian_Rand_5.txt - Mean Cost: 2679061396
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Instancia: Italian.txt
+
+Italian.txt - Mean Cost: 4081036818
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Instancia: Spanish_Rand_1.txt
+
+Spanish_Rand_1.txt - Mean Cost: 829287239
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Instancia: Spanish_Rand_2.txt
+
+Spanish_Rand_2.txt - Mean Cost: 837275924
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Instancia: Spanish_Rand_3.txt
+
+Spanish_Rand_3.txt - Mean Cost: 830569523
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Instancia: Spanish_Rand_4.txt
+
+Spanish_Rand_4.txt - Mean Cost: 836224866
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Instancia: Spanish_Rand_5.txt
+
+Spanish_Rand_5.txt - Mean Cost: 830797444
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Spanish.txt - Mean Cost: 1244864779
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Instancia: Spanish.txt
+
+Spanish.txt - Mean Cost: 1246350542
+

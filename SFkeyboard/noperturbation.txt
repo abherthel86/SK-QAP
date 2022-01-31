@@ -1,0 +1,2073 @@
+
+Initial Solution (final): 
+  I  F  L  R  D  N  *  *  *  *  *  *  *  *
+  J  Q  U  G  P  Y  *  *  *  *  *  *  *  *
+  _  _  E  T  _  _  *  *  *  *  *  *  *  *
+  K  Z  A  S  X  B  *  *  *  *  *  *  *  *
+  O  C  V  M  W  H  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+Custo calculado final (RVND): 1149484271
+
+
+Best Solution Cost: 1149484271
+
+Initial Solution (final): 
+  F  G  L  Y  M  R  *  *  *  *  *  *  *  *
+  J  Z  U  W  Q  P  *  *  *  *  *  *  *  *
+  _  _  N  S  _  _  *  *  *  *  *  *  *  *
+  V  X  B  H  K  C  *  *  *  *  *  *  *  *
+  E  D  A  I  O  T  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+Custo calculado final (RVND): 1164703405
+
+
+Best Solution Cost: 1164703405
+
+Initial Solution (final): 
+  T  Y  A  I  F  O  *  *  *  *  *  *  *  *
+  B  Z  C  R  X  J  *  *  *  *  *  *  *  *
+  _  _  L  W  _  _  *  *  *  *  *  *  *  *
+  P  Q  K  S  V  G  *  *  *  *  *  *  *  *
+  E  M  U  D  H  N  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+Custo calculado final (RVND): 1155535391
+
+
+Best Solution Cost: 1155535391
+
+Initial Solution (final): 
+  H  M  W  G  Y  E  *  *  *  *  *  *  *  *
+  V  Z  A  N  Q  K  *  *  *  *  *  *  *  *
+  _  _  D  J  _  _  *  *  *  *  *  *  *  *
+  C  X  P  F  U  B  *  *  *  *  *  *  *  *
+  T  S  I  R  L  O  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+Custo calculado final (RVND): 1143740733
+
+
+Best Solution Cost: 1143740733
+
+Initial Solution (final): 
+  N  Y  R  H  I  A  *  *  *  *  *  *  *  *
+  G  V  L  F  K  B  *  *  *  *  *  *  *  *
+  _  _  M  T  _  _  *  *  *  *  *  *  *  *
+  J  Z  O  S  X  Q  *  *  *  *  *  *  *  *
+  D  C  P  U  W  E  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+Custo calculado final (RVND): 1157252236
+
+
+Best Solution Cost: 1157252236
+
+Initial Solution (final): 
+  E  S  O  I  N  T  *  *  *  *  *  *  *  *
+  B  U  W  Q  K  C  *  *  *  *  *  *  *  *
+  _  _  G  H  _  _  *  *  *  *  *  *  *  *
+  P  X  R  A  Z  J  *  *  *  *  *  *  *  *
+  Y  M  L  V  F  D  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+Custo calculado final (RVND): 1153247868
+
+
+Best Solution Cost: 1153247868
+
+Initial Solution (final): 
+  E  C  U  F  W  H  *  *  *  *  *  *  *  *
+  K  Q  R  S  Z  V  *  *  *  *  *  *  *  *
+  _  _  D  O  _  _  *  *  *  *  *  *  *  *
+  G  J  M  P  X  B  *  *  *  *  *  *  *  *
+  T  N  I  A  L  Y  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+Custo calculado final (RVND): 1168396971
+
+
+Best Solution Cost: 1168396971
+
+Initial Solution (final): 
+  E  T  A  I  H  N  *  *  *  *  *  *  *  *
+  P  K  W  C  X  G  *  *  *  *  *  *  *  *
+  _  _  M  S  _  _  *  *  *  *  *  *  *  *
+  V  Z  Y  U  Q  J  *  *  *  *  *  *  *  *
+  O  F  R  L  B  D  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+Custo calculado final (RVND): 1158888178
+
+
+Best Solution Cost: 1158888178
+
+Initial Solution (final): 
+  D  F  G  U  Y  O  *  *  *  *  *  *  *  *
+  K  Q  N  L  J  B  *  *  *  *  *  *  *  *
+  _  _  C  R  _  _  *  *  *  *  *  *  *  *
+  P  X  H  A  Z  V  *  *  *  *  *  *  *  *
+  T  W  I  S  M  E  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+Custo calculado final (RVND): 1157533004
+
+
+Best Solution Cost: 1157533004
+
+Initial Solution (final): 
+  I  S  U  N  F  E  *  *  *  *  *  *  *  *
+  P  K  R  D  X  Q  *  *  *  *  *  *  *  *
+  _  _  V  O  _  _  *  *  *  *  *  *  *  *
+  C  J  B  A  Z  G  *  *  *  *  *  *  *  *
+  H  W  L  M  Y  T  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+Custo calculado final (RVND): 1164189388
+
+
+Best Solution Cost: 1164189388
+
+Initial Solution (final): 
+  O  F  M  X  V  H  *  *  *  *  *  *  *  *
+  C  Q  B  E  Z  P  *  *  *  *  *  *  *  *
+  _  _  U  R  _  _  *  *  *  *  *  *  *  *
+  Y  J  D  W  K  G  *  *  *  *  *  *  *  *
+  T  L  N  I  S  A  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+Custo calculado final (RVND): 1154181500
+
+
+Best Solution Cost: 1154181500
+
+Initial Solution (final): 
+  D  I  M  X  V  R  *  *  *  *  *  *  *  *
+  C  J  Z  E  Q  K  *  *  *  *  *  *  *  *
+  _  _  L  F  _  _  *  *  *  *  *  *  *  *
+  W  B  Y  P  U  G  *  *  *  *  *  *  *  *
+  T  H  A  N  S  O  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+Custo calculado final (RVND): 1163859955
+
+
+Best Solution Cost: 1163859955
+
+Initial Solution (final): 
+  H  W  O  I  D  T  *  *  *  *  *  *  *  *
+  C  Z  F  N  Q  G  *  *  *  *  *  *  *  *
+  _  _  A  K  _  _  *  *  *  *  *  *  *  *
+  B  X  V  R  J  P  *  *  *  *  *  *  *  *
+  E  Y  L  U  M  S  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+Custo calculado final (RVND): 1159529415
+
+
+Best Solution Cost: 1159529415
+
+Initial Solution (final): 
+  F  M  L  R  N  S  *  *  *  *  *  *  *  *
+  V  Z  U  D  Q  G  *  *  *  *  *  *  *  *
+  _  _  A  K  _  _  *  *  *  *  *  *  *  *
+  B  J  W  P  X  C  *  *  *  *  *  *  *  *
+  E  Y  O  I  H  T  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+Custo calculado final (RVND): 1160279295
+
+
+Best Solution Cost: 1160279295
+
+Initial Solution (final): 
+  S  D  L  I  R  N  *  *  *  *  *  *  *  *
+  P  Q  U  B  J  F  *  *  *  *  *  *  *  *
+  _  _  E  Y  _  _  *  *  *  *  *  *  *  *
+  V  Z  A  H  K  G  *  *  *  *  *  *  *  *
+  T  M  X  C  W  O  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+Custo calculado final (RVND): 1154964111
+
+
+Best Solution Cost: 1154964111
+
+-----x-----
+Best Solution: 
+  X  K  C  V  G  Z  *  *  *  *  *  *  *  *
+  W  T  H  I  N  D  *  *  *  *  *  *  *  *
+  _  _  E  S  _  _  *  *  *  *  *  *  *  *
+  F  O  R  A  L  Y  *  *  *  *  *  *  *  *
+  Q  M  U  P  B  J  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+  *  *  *  *  *  *  *  *  *  *  *  *  *  *
+
+-----x-----
+Best Global Solution Cost: 1143740733
+Global Time: 14.6053
+-----x-----

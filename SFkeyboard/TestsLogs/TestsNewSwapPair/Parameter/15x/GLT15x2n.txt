@@ -1,0 +1,5 @@
+English.txt 0.000239388%%
+French.txt 0.00942905%%
+Italian.txt 3.62267e-05%%
+Spanish.txt 0.00028518%%
+Spanish.txt 0%%

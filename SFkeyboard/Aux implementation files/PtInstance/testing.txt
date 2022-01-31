@@ -1,0 +1,3 @@
+rpos: 1.369 word: decisões freq: 66.667
+rpos: 2.065 word: negócio freq: 45.208
+rpos: 2.956 word: una freq: 31.946

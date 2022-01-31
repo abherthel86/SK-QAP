@@ -1,0 +1,16 @@
+   A  Z  E  R  T  Y  U  I  O  P
+   Q  S  D  F  G  H  J  K  L  M
+  *  *  W  X  C  V  B  N  '  *
+  *  *  *  _  _  _  _  _  *  *
+
+i: A j: _ freq: 1397086 mat: 468
+
+i: N j: _ freq: 833565 mat: 204
+
+i: Q j: _ freq: 234868 mat: 422
+
+i: I j: _ freq: 433083 mat: 411
+
+i: K j: _ freq: 11173 mat: 329
+
+Cost of Qwerty: 18764811472

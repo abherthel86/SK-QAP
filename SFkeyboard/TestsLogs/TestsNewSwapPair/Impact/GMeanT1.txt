@@ -1,0 +1,26 @@
+
+English_Rand_1.txt - Gap Mean: 0.0178865
+English_Rand_2.txt - Gap Mean: 0.0130878
+English_Rand_3.txt - Gap Mean: 0.0159996
+English_Rand_4.txt - Gap Mean: 0.0168645
+English_Rand_5.txt - Gap Mean: 0.0154607
+English.txt - Gap Mean: 0.00990777
+French_Rand_1.txt - Gap Mean: 0.0201029
+French_Rand_2.txt - Gap Mean: 0.0174854
+French_Rand_3.txt - Gap Mean: 0.0140393
+French_Rand_4.txt - Gap Mean: 0.0214565
+French_Rand_5.txt - Gap Mean: 0.0146872
+French.txt - Gap Mean: 0.0139807
+Italian_Rand_1.txt - Gap Mean: 0.0144585
+Italian_Rand_2.txt - Gap Mean: 0.0163352
+Italian_Rand_3.txt - Gap Mean: 0.0159394
+Italian_Rand_4.txt - Gap Mean: 0.0103708
+Italian_Rand_5.txt - Gap Mean: 0.0131271
+Italian.txt - Gap Mean: 0.0101672
+Spanish_Rand_1.txt - Gap Mean: 0.0112543
+Spanish_Rand_2.txt - Gap Mean: 0.0104402
+Spanish_Rand_3.txt - Gap Mean: 0.0108291
+Spanish_Rand_4.txt - Gap Mean: 0.0135592
+Spanish_Rand_5.txt - Gap Mean: 0.00978048
+Spanish.txt - Gap Mean: 0.010086
+

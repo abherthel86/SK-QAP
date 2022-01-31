@@ -1,0 +1,7 @@
+  Q  W  R  E  F  I  Y  U  P
+  Z  X  D  V  C  G  L  J  K
+  S  A  T  H  N  O  B  M  *
+  *  *  *  _  _  _  *  *  *
+
+Prel cost: 896629984
+Cost of keyb: 1439229597

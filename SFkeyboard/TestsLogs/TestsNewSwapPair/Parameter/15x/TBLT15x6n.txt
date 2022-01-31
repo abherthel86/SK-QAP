@@ -1,0 +1,5 @@
+English.txt 4.30451
+French.txt 20.976
+Italian.txt 11.5913
+Spanish.txt 9.14148
+Spanish.txt 10.7219

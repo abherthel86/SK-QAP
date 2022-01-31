@@ -1,0 +1,8 @@
+    J     M     U     L     P     Q      
+    F     O     R     A     S     Y      
+    _     _     E     T     _     _      
+    D     N     I     H     W     B      
+    K     G     C     V     X     Z
+
+Cost: 0.274722
+Words per minute: 43.68047

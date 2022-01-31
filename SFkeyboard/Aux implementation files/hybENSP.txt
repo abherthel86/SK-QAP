@@ -1,0 +1,146 @@
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523252009
+
+Elapsed Time: 1.3865 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523382452
+
+Elapsed Time: 0.631886 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1522921294
+
+Elapsed Time: 1.20402 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523882262
+
+Elapsed Time: 0.649354 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523382452
+
+Elapsed Time: 0.886079 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1524230328
+
+Elapsed Time: 0.531206 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1524230328
+
+Elapsed Time: 0.476086 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523252009
+
+Elapsed Time: 1.17089 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523382452
+
+Elapsed Time: 0.820676 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1522921294
+
+Elapsed Time: 1.0807 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1522921294
+
+Elapsed Time: 0.777913 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1523445808
+
+Elapsed Time: 0.773485 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1522921294
+
+Elapsed Time: 0.883301 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1524211314
+
+Elapsed Time: 0.568876 seconds
+
+
+Num of rows: 3
+Num of columns: 10
+
+
+Best Solution Cost: 1524347776
+
+Elapsed Time: 0.619362 seconds
+
+
+-----x-----
+Best Solution: 
+  *  Y  B  L  A  N  D  G  K  *
+  Ã  Q  U  M  R  E  I  C  V  Z
+  *  J  F  P  O  S  T  H  W  X
+
+-----x-----
+Best Global Solution Cost: 1522921294
+Global Time: 12.4603
+-----x-----

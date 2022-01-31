@@ -1,0 +1,105 @@
+void readData (int argc, char** argv, Gendata *data){
+
+	if (argc < 4) {
+		cout << "\nMissing Parameters\n";
+		cout << " ./exeSFkey [Instance] [Char_list] [Distance_matrix]" << endl;				
+		exit(1);
+	}																												//Verifica a quantidade de parâmetros passados na hora de executar o programa
+
+	if (argc > 4) {
+		cout << "\nToo many parameters\n";
+		cout << " ./exeSFkey [Instance] [Char_list] [Distance_matrix]" << endl;
+		exit(1);
+	}
+
+	string file;
+	string aux;
+	int size;
+
+	char *instance;	
+   instance = argv[1];		//O primeiro parâmetro passado é armazenado em 'instance'
+
+	char *charlist;
+	charlist = argv[2];		//O segundo parametro é armazenado em 'charlist'
+
+	char *dmatrix;
+	dmatrix = argv[3];		//O terceiro parametro é armazenado em 'dmatrix', que é a matriz de distancia
+
+	ifstream in(instance, ios::in);		//Aqui a gente inicializa a leitura do primeiro parametro criando o objeto 'in' 
+    
+   if( !in ) {
+		cout << "Cannot open file.\n";		//Mensagem de erro caso nao seja possivel inicializar
+		exit (1);
+	}
+
+	in >> file;
+	in >> file;					//Cada linha dessa está lendo o que tiver entre cada espaço. No começo tem 'n = 29', entao sao 3 comandos para chegar até o 29
+	in >> size;
+
+	data->freq_matrix = new int *[size];			
+	for (int i = 0; i < size; i++)
+		data->freq_matrix[i] = new int [size];
+
+	data->char_list = new char [size];
+	//data->int_list = new int [size];							//Inicializações de vetores com alocação dinamica de memoria
+
+	data->b_matrix = new int *[140];
+	for (int i = 0; i < 140; i++)
+		data->b_matrix[i] = new int [140];
+
+	for (int i = 0; i < size; i++){
+		for (int j = 0; j < size; j++){
+			in >> file;												//Leitura do arquivo
+			data->freq_matrix[i][j] = stoi(file);			//Aqui a gente converte de char* para int para armazenar em data->freq_matrix	
+
+		}
+	}
+
+	/*for (int i = 0; i < size; i++){
+		for (int j = 0; j < size; j++){
+		
+			cout<<data->freq_matrix[i][j]<<" ";
+
+		}
+		cout<<endl;
+	}*/
+
+	data->size = size;
+
+	ifstream inn (charlist, ios::in);		//Aqui a gente inicializa a leitura do segundo parametro criando o objeto 'inn' 
+
+	if( !inn ) {
+		cout << "Cannot open file.\n";
+		exit (1);
+	}
+
+	for (int i = 0; i < size; i++){
+		inn >> data->char_list[i];
+		//data->int_list[i] = i;	
+	}
+
+	for (int i = 0; i < size; i++){
+		cout<<data->char_list[i]<<" ";	
+	}
+	cout<<endl;
+
+	ifstream din (dmatrix, ios::in);		//Aqui a gente inicializa a leitura do terceiro parametro criando o objeto 'din' 
+
+	if( !din ) {
+		cout << "Cannot open file.\n";
+		exit (1);
+	}
+
+	din>>file;
+	din>>file;
+	din>>file;
+
+	for (int i = 0; i < 140; i++){
+		for (int j = 0; j < 140; j++){
+			din>>file;
+			data->b_matrix[i][j] = stoi(file);
+		}
+	}
+
+
+}

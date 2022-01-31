@@ -1,0 +1,41 @@
+#include "localsearch.h"
+
+
+void swap (Gendata *data, Keyboard *keyb){
+	int sw_cost = 0;
+	vector <int> aux_grid;
+
+	for (int i = 0; i < KEYS; i++)
+		aux_grid.push_back(keyb->grid[i]);
+
+	for (int i = 0; i < KEYS; i++){
+		int first = keyb->grid[i];
+		for (int j = 0; j < KEYS; j++){
+			if (i != j){		
+				int sec = keyb->grid[j];
+				if (first != -1 || sec != -1){
+					int temp = aux_grid[i];
+					aux_grid[i] = aux_grid[j];
+					aux_grid[j] = temp;
+					
+				}	
+			}
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
